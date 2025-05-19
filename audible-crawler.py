@@ -138,7 +138,7 @@ def get_category_books_data(category):
 		bestsellers=[extract_audiobook_metadata(product) for product in bestseller_products]
 	)
 	with open(json_path, "w") as f:
-		json.dump(jo, f, sort_keys=True)
+		json.dump(jo, f, sort_keys=True, indent="\t")
 	print(f"\tSaved: {json_path} ({len(bestseller_products)} bestsellers)")
 	return jo
 
@@ -161,7 +161,7 @@ def save_category_list(json_path):
 		sub_categories = [dict(title=a.text, href=a['href'].split("?")[0]) for a in subCategoryLinks]
 	)
 	with open(json_path, "w") as f:
-		json.dump(jo, f, sort_keys=True)
+		json.dump(jo, f, sort_keys=True, indent="\t")
 	print(f"Saved: {json_path} ({len(categoryLinks)} categories, {len(subCategoryLinks)} sub_categories)")
 	return jo
 
