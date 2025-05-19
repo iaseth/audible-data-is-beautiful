@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B0DDD8R9LR",
+			"author": "Geoff Woods",
+			"cover_image": "https://m.media-amazon.com/images/I/51byTj1T0-L._SL320_.jpg",
+			"description": "The difference between growing your business and going out of business is your ability to think strategically. The problem is, most leaders are stuck in the operational weeds, struggling to find the time to make better strategic decisions. This challenge is only heightened by the rise of AI.",
+			"length": "6 hrs and 38 mins",
+			"minutes": 398,
+			"narrated_by": "Geoff Woods",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 103,
+				"performance": 97,
+				"story": 97
+			},
+			"series": "Harnessing AI to Make Faster, Smarter Decisions",
+			"title": "The AI-Driven Leader",
+			"url": "https://www.audible.com/pd/The-AI-Driven-Leader-Audiobook/B0DDD8R9LR"
+		},
+		{
+			"asin": "B0DNRNV83B",
+			"author": "Tae Kim",
+			"cover_image": "https://m.media-amazon.com/images/I/61JGym7fdmL._SL320_.jpg",
+			"description": "Nvidia is the darling of the age of artificial intelligence: the company’s chips are powering the generative-AI revolution, and demand is insatiable. For all the current interest and attention, however, Nvidia is not of our time.",
+			"length": "9 hrs and 42 mins",
+			"minutes": 582,
+			"narrated_by": "Michael Braun",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 240,
+				"performance": 225,
+				"story": 225
+			},
+			"series": "Jensen Huang and the Making of a Tech Giant",
+			"title": "The Nvidia Way",
+			"url": "https://www.audible.com/pd/The-Nvidia-Way-Audiobook/B0DNRNV83B"
+		},
+		{
+			"asin": "B0CP4F9788",
+			"author": "Gabrielle Townsend",
+			"cover_image": "https://m.media-amazon.com/images/I/51vJTJN-KOL._SL320_.jpg",
+			"description": "Envision reducing your screen time while enriching your real-life experiences. Imagine the satisfaction of engaging in deep, uninterrupted work or the joy of fully present moments with loved ones, all because you took control of your digital life....",
+			"length": "8 hrs and 12 mins",
+			"minutes": 492,
+			"narrated_by": "Jacki Giardina, Hedy V Parks",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 51,
+				"performance": 51,
+				"story": 51
+			},
+			"series": "Understand the Psychology Behind Your Online Tendencies: A Mental Health Guidebook Collection to Eliminate Screen & Internet Addiction",
+			"title": "Social Media Addiction and Cell Phone Addiction Mastery Boxset",
+			"url": "https://www.audible.com/pd/Social-Media-Addiction-and-Cell-Phone-Addiction-Mastery-Boxset-Audiobook/B0CP4F9788"
+		},
+		{
+			"asin": "B01D24NLWO",
+			"author": "Brian Christian, Tom Griffiths",
+			"cover_image": "https://m.media-amazon.com/images/I/51HiU+5mTwL._SL320_.jpg",
+			"description": "From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of human memory, Algorithms to Live By transforms the wisdom of computer science into strategies for human living....",
+			"length": "11 hrs and 50 mins",
+			"minutes": 710,
+			"narrated_by": "Brian Christian",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17389,
+				"performance": 14670,
+				"story": 14554
+			},
+			"series": "The Computer Science of Human Decisions",
+			"title": "Algorithms to Live By",
+			"url": "https://www.audible.com/pd/Algorithms-to-Live-By-Audiobook/B01D24NLWO"
+		},
+		{
+			"asin": "B0DDR6D8F9",
+			"author": "Emily M. Bender, Alex Hanna",
+			"cover_image": "https://m.media-amazon.com/images/I/51kKqlwsKML._SL320_.jpg",
+			"description": "Emily M. Bender and Alex Hanna take a look at the technologies sold as artificial intelligence, the drawbacks and pitfalls of technology sold under this banner, and why it’s crucial to recognize the many ways in which AI hype covers for a small set of power-hungry actors at work and in the world.",
+			"length": "7 hrs and 50 mins",
+			"minutes": 470,
+			"narrated_by": "Jade Wheeler",
+			"ratings": {
+				"overall": "3 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "3 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4,
+				"performance": 4,
+				"story": 4
+			},
+			"series": "How to Fight Big Tech’s Hype and Create the Future We Want",
+			"title": "The AI Con",
+			"url": "https://www.audible.com/pd/The-AI-Con-Audiobook/B0DDR6D8F9"
+		},
+		{
+			"asin": "B0D8BZSM1F",
+			"author": "Sayash Kapoor, Arvind Narayanan",
+			"cover_image": "https://m.media-amazon.com/images/I/51a8ZIXaV0L._SL320_.jpg",
+			"description": "Computer scientists Arvind Narayanan and Sayash Kapoor reveal what you need to know about AI—and how to defend yourself against bogus AI claims and products.",
+			"length": "9 hrs and 58 mins",
+			"minutes": 598,
+			"narrated_by": "Landon Woodson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 58,
+				"performance": 54,
+				"story": 54
+			},
+			"series": "What Artificial Intelligence Can Do, What It Can't, and How to Tell the Difference",
+			"title": "AI Snake Oil",
+			"url": "https://www.audible.com/pd/AI-Snake-Oil-Audiobook/B0D8BZSM1F"
+		},
+		{
+			"asin": "B08VLGDK32",
+			"author": "Martin Kleppmann",
+			"cover_image": "https://m.media-amazon.com/images/I/512ESwpmobL._SL320_.jpg",
+			"description": "Author Martin Kleppmann helps you navigate the diverse data landscape by examining the pros and cons of various technologies for processing and storing data....",
+			"length": "20 hrs and 56 mins",
+			"minutes": 1256,
+			"narrated_by": "Benjamin Lange",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 452,
+				"performance": 329,
+				"story": 326
+			},
+			"series": "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+			"title": "Designing Data-Intensive Applications",
+			"url": "https://www.audible.com/pd/Designing-Data-Intensive-Applications-Audiobook/B08VLGDK32"
+		},
+		{
+			"asin": "B0F2GTT1GG",
+			"author": "Pascal Bornet, Jochen Wirtz, Thomas H. Davenport, and others",
+			"cover_image": "https://m.media-amazon.com/images/I/51n6oYW29HL._SL320_.jpg",
+			"description": "This is a practical, non-technical guide for business leaders, entrepreneurs, and curious minds. This comprehensive guide on agentic AI cuts through the hype and offers a clear, jargon-free strategic roadmap to understanding and applying this technology.",
+			"length": "14 hrs and 42 mins",
+			"minutes": 882,
+			"narrated_by": "Rory Young",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4,
+				"performance": 4,
+				"story": 4
+			},
+			"series": "Harnessing AI Agents to Reinvent Business, Work and Life",
+			"title": "Agentic Artificial Intelligence",
+			"url": "https://www.audible.com/pd/Agentic-Artificial-Intelligence-Audiobook/B0F2GTT1GG"
+		},
+		{
+			"asin": "B0CNSDDBTM",
+			"author": "Lyn Alden",
+			"cover_image": "https://m.media-amazon.com/images/I/51dXbhVdbPL._SL320_.jpg",
+			"description": "Broken Money explores the history of money through the lens of technology. Politics can affect things temporarily and locally, but technology is what drives things forward globally and permanently....",
+			"length": "17 hrs and 31 mins",
+			"minutes": 1051,
+			"narrated_by": "Guy Swann",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 512,
+				"performance": 458,
+				"story": 458
+			},
+			"series": "Why Our Financial System Is Failing Us and How We Can Make It Better",
+			"title": "Broken Money",
+			"url": "https://www.audible.com/pd/Broken-Money-Audiobook/B0CNSDDBTM"
+		},
+		{
+			"asin": "B0CT6PC3YW",
+			"author": "James Wallace",
+			"cover_image": "https://m.media-amazon.com/images/I/51c8KIAduzL._SL320_.jpg",
+			"description": "\"CHATGPT BIBLE 6 Books in 1\" is an all-encompassing manual that covers every aspect of utilizing ChatGPT in a professional setting. This book imparts the understanding necessary to harness the full potential of ChatGPT, thereby granting an unparalleled competitive advantage within your industry....",
+			"length": "7 hrs and 14 mins",
+			"minutes": 434,
+			"narrated_by": "Kevin Howard",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 52,
+				"performance": 52,
+				"story": 52
+			},
+			"series": "A Comprehensive, Stepwise Manual for Earning Through AI Mastery, Essential Insights for Everyone from Novices to Professionals",
+			"title": "ChatGPT Bible 6 Books in 1",
+			"url": "https://www.audible.com/pd/ChatGPT-Bible-6-Books-in-1-Audiobook/B0CT6PC3YW"
+		},
+		{
+			"asin": "B0833FMYH9",
+			"author": "David Thomas, Andrew Hunt",
+			"cover_image": "https://m.media-amazon.com/images/I/51A8l+FxFNL._SL320_.jpg",
+			"description": "Dave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development....",
+			"length": "9 hrs and 55 mins",
+			"minutes": 595,
+			"narrated_by": "Anna Katarina",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1587,
+				"performance": 1286,
+				"story": 1268
+			},
+			"series": "Your Journey to Mastery",
+			"title": "The Pragmatic Programmer: 20th Anniversary Edition, 2nd Edition",
+			"url": "https://www.audible.com/pd/The-Pragmatic-Programmer-20th-Anniversary-Edition-2nd-Edition-Audiobook/B0833FMYH9"
+		},
+		{
+			"asin": "B0CG7CBY9R",
+			"author": "Gaia Bernstein",
+			"cover_image": "https://m.media-amazon.com/images/I/41wzHymb27L._SL320_.jpg",
+			"description": "Our society has a technology problem. Many want to disconnect from screens but can't help themselves....",
+			"length": "8 hrs and 47 mins",
+			"minutes": 527,
+			"narrated_by": "Faith Connor",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1,
+				"performance": 1,
+				"story": 1
+			},
+			"series": "Gaining Control over Addictive Technologies",
+			"title": "Unwired",
+			"url": "https://www.audible.com/pd/Unwired-Audiobook/B0CG7CBY9R"
+		},
+		{
+			"asin": "B0F48ZPQHV",
+			"author": "Ethan Vale",
+			"cover_image": "https://m.media-amazon.com/images/I/51QR+yG4PkL._SL320_.jpg",
+			"description": "In The Last Invention: When AI Becomes More Than a Tool, Ethan Vale takes you on an eye-opening journey into the heart of artificial intelligence—its rapid evolution, its potential to reshape humanity, and the profound questions it raises about the future.",
+			"length": "10 hrs and 16 mins",
+			"minutes": 616,
+			"narrated_by": "Ethan Vale",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "When AI Becomes More Than a Tool",
+			"title": "The Last Invention",
+			"url": "https://www.audible.com/pd/The-Last-Invention-Audiobook/B0F48ZPQHV"
+		},
+		{
+			"asin": "B0DCLQVXXJ",
+			"author": "Yuval Noah Harari",
+			"cover_image": "https://m.media-amazon.com/images/I/41yBcsW74+L._SL320_.jpg",
+			"description": "El esperado nuevo libro de Yuval Noah Harari, uno de los pensadores más innovadores, interesantes y clarividentes de la actualidad, y autor de Sapiens, el fenómeno literario global que ha cautivado a millones de lectores.",
+			"length": "17 hrs and 50 mins",
+			"minutes": 1070,
+			"narrated_by": "Luis David García Márquez",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 323,
+				"performance": 310,
+				"story": 310
+			},
+			"series": "Una breve historia de las redes de información desde la Edad de Piedra hasta la IA [A Brief History of Information Networks from the Stone Age to AI]",
+			"title": "Nexus (Spanish Edition)",
+			"url": "https://www.audible.com/pd/Nexus-Spanish-Edition-Audiobook/B0DCLQVXXJ"
+		},
+		{
+			"asin": "B0DTB34NFY",
+			"author": "Jeb Blount, Anthony Iannarino",
+			"cover_image": "https://m.media-amazon.com/images/I/41zEoS3GnhL._SL320_.jpg",
+			"description": "Upgrade your sales process by plugging into the new power of artificial intelligence. Anthony Iannarino and Jeb Blount, the world's most prolific sales book authors and trainers, have come together to transform how you navigate the sales process by helping you plug into artificial intelligence.",
+			"length": "6 hrs and 28 mins",
+			"minutes": 388,
+			"narrated_by": "Jeb Blount, Anthony Iannarino",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 16,
+				"performance": 15,
+				"story": 15
+			},
+			"series": "Sales Strategies for Unleashing the Power of AI to Save Time, Sell More, and Crush the Competition",
+			"title": "The AI Edge",
+			"url": "https://www.audible.com/pd/The-AI-Edge-Audiobook/B0DTB34NFY"
+		},
+		{
+			"asin": "B0D1M2N1ZN",
+			"author": "Roger Ver, Jeffrey Tucker - foreword",
+			"cover_image": "https://m.media-amazon.com/images/I/41XqJgqiaKL._SL320_.jpg",
+			"description": "Bitcoin was promised to be a liberating technology, a free market alternative to state-controlled money. But that promise was broken after a small group of insiders took over the project and fundamentally changed Bitcoin's design.",
+			"length": "7 hrs and 38 mins",
+			"minutes": 458,
+			"narrated_by": "Steve Patterson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 90,
+				"performance": 86,
+				"story": 86
+			},
+			"series": "The Hidden History of BTC",
+			"title": "Hijacking Bitcoin",
+			"url": "https://www.audible.com/pd/Hijacking-Bitcoin-Audiobook/B0D1M2N1ZN"
+		},
+		{
+			"asin": "B00LPMD72K",
+			"author": "Nick Bostrom",
+			"cover_image": "https://m.media-amazon.com/images/I/51HPnlQWugL._SL320_.jpg",
+			"description": null,
+			"length": "14 hrs and 17 mins",
+			"minutes": 857,
+			"narrated_by": "Napoleon Ryan",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4361,
+				"performance": 3761,
+				"story": 3723
+			},
+			"series": "Paths, Dangers, Strategies",
+			"title": "Superintelligence",
+			"url": "https://www.audible.com/pd/Superintelligence-Audiobook/B00LPMD72K"
+		},
+		{
+			"asin": "B0CDZTDK4B",
+			"author": "Rob Walling",
+			"cover_image": "https://m.media-amazon.com/images/I/411rquA36eL._SL320_.jpg",
+			"description": "With nearly two decades of experience as a serial entrepreneur, author, and investor, Rob Walling is one of the world's leading experts in SaaS. In this audiobook, he shares little-known strategies that have been battle-tested by some of today's most successful founders....",
+			"length": "4 hrs and 14 mins",
+			"minutes": 254,
+			"narrated_by": "Rob Walling",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 142,
+				"performance": 127,
+				"story": 127
+			},
+			"series": "Build a Multimillion-Dollar Startup Without Venture Capital",
+			"title": "The SaaS Playbook",
+			"url": "https://www.audible.com/pd/The-SaaS-Playbook-Audiobook/B0CDZTDK4B"
+		},
+		{
+			"asin": "B0DFRBVN5B",
+			"author": "Dan Wardrope",
+			"cover_image": "https://m.media-amazon.com/images/I/41TZ4tO11bL._SL320_.jpg",
+			"description": "If you're looking to start, scale, or grow a digital business where clients act like your boss, and you see more of your office chair than your family... There are plenty of other agency models that will help you do that.",
+			"length": "3 hrs and 7 mins",
+			"minutes": 187,
+			"narrated_by": "Om Beacom-Halliday",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 36,
+				"performance": 34,
+				"story": 34
+			},
+			"series": "How to Cash 6 & 7 Figure Checks in the New Digital Gold Rush Without Being a Tech Nerd",
+			"title": "The Instant AI Agency",
+			"url": "https://www.audible.com/pd/The-Instant-AI-Agency-Audiobook/B0DFRBVN5B"
+		},
+		{
+			"asin": "B01N80UK3J",
+			"author": "Kevin Mitnick, Robert Vamosi, Mikko Hypponen",
+			"cover_image": "https://m.media-amazon.com/images/I/51vlXcMKvWL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 17 mins",
+			"minutes": 557,
+			"narrated_by": "Ray Porter",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4559,
+				"performance": 4035,
+				"story": 4032
+			},
+			"series": "The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data",
+			"title": "The Art of Invisibility",
+			"url": "https://www.audible.com/pd/The-Art-of-Invisibility-Audiobook/B01N80UK3J"
+		},
+		{
+			"asin": "B0DYPGJ9VT",
+			"author": "Reid Hoffman, Greg Beato",
+			"cover_image": "https://m.media-amazon.com/images/I/51-TjA7S29L._SL320_.jpg",
+			"description": "Tech visionary and co-founder of Manas AI Reid Hoffman shares his unique insider’s perspective on an AI-powered future, making the case for its potential to unlock a world of possibilities.",
+			"length": "7 hrs and 57 mins",
+			"minutes": 477,
+			"narrated_by": "Scott Wallace",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17,
+				"performance": 14,
+				"story": 14
+			},
+			"series": "What Could Possibly Go Right with Our AI Future",
+			"title": "Superagency",
+			"url": "https://www.audible.com/pd/Superagency-Audiobook/B0DYPGJ9VT"
+		},
+		{
+			"asin": "B0DF8Z5HTT",
+			"author": "Mike Chapple, David Seidl",
+			"cover_image": "https://m.media-amazon.com/images/I/51CKUjt7lbL._SL320_.jpg",
+			"description": "In the newly revised ninth edition of CompTIA Security+ Study Guide: Exam SY0-701, veteran cybersecurity professionals and educators Mike Chapple and David Seidl deliver easy-to-follow coverage of the security fundamentals tested by the challenging CompTIA SY0-701 exam.",
+			"length": "24 hrs and 52 mins",
+			"minutes": 1492,
+			"narrated_by": "Ray Greenley",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9,
+				"performance": 7,
+				"story": 7
+			},
+			"series": "Exam SY0-701 (9th Edition)",
+			"title": "CompTIA Security+ Study Guide with over 500 Practice Test Questions",
+			"url": "https://www.audible.com/pd/CompTIA-Security-Study-Guide-with-over-500-Practice-Test-Questions-Audiobook/B0DF8Z5HTT"
+		},
+		{
+			"asin": "B07Q33G4TT",
+			"author": "Sean Cannell, Benji Travis",
+			"cover_image": "https://m.media-amazon.com/images/I/517XtcsuYPL._SL320_.jpg",
+			"description": "YouTube sensations and best-selling authors Sean Cannell and Benji Travis take your YouTube channel from slow and dormant to accelerated and engaged, using premium and updated YouTube growth tips for creators, business owners, digital entrepreneurs, and influencers....",
+			"length": "5 hrs and 29 mins",
+			"minutes": 329,
+			"narrated_by": "Sean Cannell, Benji Travis",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1285,
+				"performance": 1097,
+				"story": 1083
+			},
+			"series": "The Ultimate Guide to Growing Your Following and Making Money as a Video Influencer",
+			"title": "YouTube Secrets",
+			"url": "https://www.audible.com/pd/YouTube-Secrets-Audiobook/B07Q33G4TT"
+		},
+		{
+			"asin": "B0CSYS8RGB",
+			"author": "Yuval Noah Harari",
+			"cover_image": "https://m.media-amazon.com/images/I/415Ktl5Au9L._SL320_.jpg",
+			"description": "The story of how information networks have made, and unmade, our world from the #1 Sunday Times bestselling author of Sapiens....",
+			"length": "17 hrs and 28 mins",
+			"minutes": 1048,
+			"narrated_by": "Vidish Athavale",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 229,
+				"performance": 205,
+				"story": 205
+			},
+			"series": "A Brief History of Information Networks from the Stone Age to AI",
+			"title": "Nexus",
+			"url": "https://www.audible.com/pd/Nexus-Audiobook/B0CSYS8RGB"
+		},
+		{
+			"asin": "B00M9KA2ZM",
+			"author": "Walter Isaacson",
+			"cover_image": "https://m.media-amazon.com/images/I/51cqafqROkL._SL320_.jpg",
+			"description": null,
+			"length": "17 hrs and 28 mins",
+			"minutes": 1048,
+			"narrated_by": "Dennis Boutsikaris",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 8156,
+				"performance": 7097,
+				"story": 7076
+			},
+			"series": "How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+			"title": "The Innovators",
+			"url": "https://www.audible.com/pd/The-Innovators-Audiobook/B00M9KA2ZM"
+		},
+		{
+			"asin": "B0CWJKR3MR",
+			"author": "Jason Schreier",
+			"cover_image": "https://m.media-amazon.com/images/I/41w3bPwX-KL._SL320_.jpg",
+			"description": "From a New York Times bestselling author and gaming investigative journalist comes an examination of Blizzard Entertainment's rise and downfall.",
+			"length": "9 hrs and 16 mins",
+			"minutes": 556,
+			"narrated_by": "Ray Chase",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 688,
+				"performance": 622,
+				"story": 622
+			},
+			"series": "The Rise, Fall, and Future of Blizzard Entertainment",
+			"title": "Play Nice",
+			"url": "https://www.audible.com/pd/Play-Nice-Audiobook/B0CWJKR3MR"
+		},
+		{
+			"asin": "B00TA5BJ4W",
+			"author": "David McCullough",
+			"cover_image": "https://m.media-amazon.com/images/I/515EjXI21kL._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 2 mins",
+			"minutes": 602,
+			"narrated_by": "David McCullough",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14041,
+				"performance": 12529,
+				"story": 12492
+			},
+			"series": "By:\n                        David McCullough",
+			"title": "The Wright Brothers",
+			"url": "https://www.audible.com/pd/The-Wright-Brothers-Audiobook/B00TA5BJ4W"
+		},
+		{
+			"asin": "B0BSMHXQNB",
+			"author": "Laurence Moroney",
+			"cover_image": "https://m.media-amazon.com/images/I/51-fn5YYb7L._SL320_.jpg",
+			"description": "If you're looking to make a career move from programmer to AI specialist, this is the ideal place to start. Based on Laurence Moroney's extremely successful AI courses, this introductory book provides a hands-on, code-first approach to help you build confidence while you learn key topics....",
+			"length": "9 hrs and 17 mins",
+			"minutes": 557,
+			"narrated_by": "Timothy Howard Jackson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 25,
+				"performance": 19,
+				"story": 19
+			},
+			"series": "A Programmer's Guide to Artificial Intelligence",
+			"title": "AI and Machine Learning for Coders",
+			"url": "https://www.audible.com/pd/AI-and-Machine-Learning-for-Coders-Audiobook/B0BSMHXQNB"
+		},
+		{
+			"asin": "1984839144",
+			"author": "John Brockman - editor",
+			"cover_image": "https://m.media-amazon.com/images/I/51VPdQOj62L._SL320_.jpg",
+			"description": "The fruit of the long history of John Brockman's profound engagement with the most important scientific minds who have been thinking about AI, Possible Minds is an ideal introduction to the landscape of crucial issues AI presents....",
+			"length": "10 hrs and 39 mins",
+			"minutes": 639,
+			"narrated_by": "Kathleen McInerney, Will Damron, Jason Culp, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 282,
+				"performance": 239,
+				"story": 233
+			},
+			"series": "Twenty-Five Ways of Looking at AI",
+			"title": "Possible Minds",
+			"url": "https://www.audible.com/pd/Possible-Minds-Audiobook/1984839144"
+		},
+		{
+			"asin": "1536695173",
+			"author": "Brian Christian",
+			"cover_image": "https://m.media-amazon.com/images/I/51NTItonR1L._SL320_.jpg",
+			"description": "Today's \"machine-learning\" systems, trained by data, are so effective that we've invited them to see and hear for us - and to make decisions on our behalf. But alarm bells are ringing. Systems cull résumés until, years later, we discover that they have inherent gender biases.",
+			"length": "13 hrs and 33 mins",
+			"minutes": 813,
+			"narrated_by": "Brian Christian",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 879,
+				"performance": 714,
+				"story": 709
+			},
+			"series": "Machine Learning and Human Values",
+			"title": "The Alignment Problem",
+			"url": "https://www.audible.com/pd/The-Alignment-Problem-Audiobook/1536695173"
+		}
+	],
+	"category": {
+		"href": "/cat/Computers-Technology-Audiobooks/18573211011",
+		"title": "Computers & Technology"
+	}
+}

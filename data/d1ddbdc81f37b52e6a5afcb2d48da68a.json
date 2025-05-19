@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B002VA3GJO",
+			"author": "don Miguel Ruiz",
+			"cover_image": "https://m.media-amazon.com/images/I/61bzSxyLLlL._SL320_.jpg",
+			"description": null,
+			"length": "2 hrs and 31 mins",
+			"minutes": 151,
+			"narrated_by": "Peter Coyote",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 60297,
+				"performance": 49626,
+				"story": 49361
+			},
+			"series": "By:\n                        don Miguel Ruiz",
+			"title": "The Four Agreements",
+			"url": "https://www.audible.com/pd/The-Four-Agreements-Audiobook/B002VA3GJO"
+		},
+		{
+			"asin": "B002V0PN36",
+			"author": "Eckhart Tolle",
+			"cover_image": "https://m.media-amazon.com/images/I/51wk62SpJaL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 37 mins",
+			"minutes": 457,
+			"narrated_by": "Eckhart Tolle",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 40278,
+				"performance": 32266,
+				"story": 31831
+			},
+			"series": "A Guide to Spiritual Enlightenment",
+			"title": "The Power of Now",
+			"url": "https://www.audible.com/pd/The-Power-of-Now-Audiobook/B002V0PN36"
+		},
+		{
+			"asin": "198271297X",
+			"author": "Joe Dispenza",
+			"cover_image": "https://m.media-amazon.com/images/I/61RSfP3n5qL._SL320_.jpg",
+			"description": null,
+			"length": "14 hrs and 6 mins",
+			"minutes": 846,
+			"narrated_by": "Adam Boyce",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5118,
+				"performance": 4286,
+				"story": 4264
+			},
+			"series": "How Common People Are Doing the Uncommon",
+			"title": "Becoming Supernatural",
+			"url": "https://www.audible.com/pd/Becoming-Supernatural-Audiobook/198271297X"
+		},
+		{
+			"asin": "B0CX5YR9RN",
+			"author": "Mary Poffenroth PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/41BaTGPV4eL._SL320_.jpg",
+			"description": "Mary Poffenroth, PhD, is a scientist, professor, and fear expert shares a groundbreaking guide to master everyday fear and anxiety.",
+			"length": "6 hrs and 45 mins",
+			"minutes": 405,
+			"narrated_by": "Mary Poffenroth PhD",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7,
+				"performance": 7,
+				"story": 7
+			},
+			"series": "Strategies, Tools, and Neurohacks to Live More Courageously Every Day",
+			"title": "Brave New You",
+			"url": "https://www.audible.com/pd/Brave-New-You-Audiobook/B0CX5YR9RN"
+		},
+		{
+			"asin": "1400217334",
+			"author": "Lysa TerKeurst",
+			"cover_image": "https://m.media-amazon.com/images/I/411yYbYaXRL._SL320_.jpg",
+			"description": "With deep empathy, therapeutic insight, and rich Bible teaching coming out of more than 1,000 hours of theological study, Lysa will help you stop suffering because of what other people have done to you.",
+			"length": "8 hrs and 20 mins",
+			"minutes": 500,
+			"narrated_by": "Lysa TerKeurst",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2837,
+				"performance": 2453,
+				"story": 2446
+			},
+			"series": "Discover How to Move On, Make Peace with Painful Memories, and Create a Life That's Beautiful Again",
+			"title": "Forgiving What You Can't Forget",
+			"url": "https://www.audible.com/pd/Forgiving-What-You-Cant-Forget-Audiobook/1400217334"
+		},
+		{
+			"asin": "B0CYNPSBNG",
+			"author": "Viktor E. Frankl",
+			"cover_image": "https://m.media-amazon.com/images/I/41sXcxx8g0L._SL320_.jpg",
+			"description": "Viktor E. Frankl was a medical doctor at a psychiatric hospital in 1942 when he became a prisoner in Nazi concentration camps in World War II. In 1946, he published this book about his camp experiences and a method of psychotherapy he developed.",
+			"length": "5 hrs and 43 mins",
+			"minutes": 343,
+			"narrated_by": "Theo Solomon",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 855,
+				"performance": 778,
+				"story": 778
+			},
+			"series": "By:\n                        Viktor E. Frankl",
+			"title": "Man's Search for Meaning",
+			"url": "https://www.audible.com/pd/Mans-Search-for-Meaning-Audiobook/B0CYNPSBNG"
+		},
+		{
+			"asin": "B0868ZFF7X",
+			"author": "Joe Dispenza",
+			"cover_image": "https://m.media-amazon.com/images/I/51RRcIBg93L._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 49 mins",
+			"minutes": 649,
+			"narrated_by": "Adam Boyce",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5433,
+				"performance": 4438,
+				"story": 4390
+			},
+			"series": "By:\n                        Joe Dispenza",
+			"title": "Breaking the Habit of Being Yourself",
+			"url": "https://www.audible.com/pd/Breaking-the-Habit-of-Being-Yourself-Audiobook/B0868ZFF7X"
+		},
+		{
+			"asin": "B0DMTJ134Y",
+			"author": "Douglas Murray",
+			"cover_image": "https://m.media-amazon.com/images/I/511npsN+zxL._SL320_.jpg",
+			"description": "The New York Times bestselling author of The War on the West explains how no less than the future of the Western World is at stake in the Israeli-Palestinian conflict.",
+			"length": "10 hrs and 38 mins",
+			"minutes": 638,
+			"narrated_by": "Douglas Murray",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 639,
+				"performance": 614,
+				"story": 614
+			},
+			"series": "Israel and the Future of Civilization",
+			"title": "On Democracies and Death Cults",
+			"url": "https://www.audible.com/pd/On-Democracies-and-Death-Cults-Audiobook/B0DMTJ134Y"
+		},
+		{
+			"asin": "B002V0GGFK",
+			"author": "Gary Chapman",
+			"cover_image": "https://m.media-amazon.com/images/I/51S9NFlyKWL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 46 mins",
+			"minutes": 286,
+			"narrated_by": "Gary Chapman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 42829,
+				"performance": 35302,
+				"story": 35025
+			},
+			"series": "By:\n                        Gary Chapman",
+			"title": "The Five Love Languages: The Secret to Love That Lasts",
+			"url": "https://www.audible.com/pd/The-Five-Love-Languages-The-Secret-to-Love-That-Lasts-Audiobook/B002V0GGFK"
+		},
+		{
+			"asin": "B006IE4OY0",
+			"author": "Michael A. Singer",
+			"cover_image": "https://m.media-amazon.com/images/I/41NW8cThXwL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 11 mins",
+			"minutes": 371,
+			"narrated_by": "Peter Berkrot",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31268,
+				"performance": 26283,
+				"story": 26125
+			},
+			"series": "The Journey Beyond Yourself",
+			"title": "The Untethered Soul",
+			"url": "https://www.audible.com/pd/The-Untethered-Soul-Audiobook/B006IE4OY0"
+		},
+		{
+			"asin": "0063136686",
+			"author": "C. S. Lewis",
+			"cover_image": "https://m.media-amazon.com/images/I/41D5A1w5TnL._SL320_.jpg",
+			"description": "Nine essential works by C. S. Lewis in one deluxe audio edition....",
+			"length": "38 hrs and 50 mins",
+			"minutes": 2330,
+			"narrated_by": "Julian Rhind-Tutt, Joss Ackland, James Simmons, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 406,
+				"performance": 283,
+				"story": 281
+			},
+			"series": "By:\n                        C. S. Lewis",
+			"title": "C. S. Lewis Essential Audio Library",
+			"url": "https://www.audible.com/pd/C-S-Lewis-Essential-Audio-Library-Audiobook/0063136686"
+		},
+		{
+			"asin": "B0DSXX4G3B",
+			"author": "Doron Spielman",
+			"cover_image": "https://m.media-amazon.com/images/I/51pYXwn8ksL._SL320_.jpg",
+			"description": "This is the untold story of the rediscovery of the ancient City of David in Jerusalem and the powerful evidence that proves the Jewish people’s historical and indigenous connection to the Holy Land.",
+			"length": "7 hrs and 57 mins",
+			"minutes": 477,
+			"narrated_by": "Doron Spielman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6,
+				"performance": 6,
+				"story": 6
+			},
+			"series": "The Remarkable Discovery of the City of David and What Israel's Enemies Don't Want You to Know",
+			"title": "When the Stones Speak",
+			"url": "https://www.audible.com/pd/When-the-Stones-Speak-Audiobook/B0DSXX4G3B"
+		},
+		{
+			"asin": "B0728L8T6T",
+			"author": "John Townsend, Henry Cloud",
+			"cover_image": "https://m.media-amazon.com/images/I/51G8yZ8g6zL._SL320_.jpg",
+			"description": "Join the millions who have learned how to take control of their lives by setting healthy boundaries with their spouses, children, friends, parents, co-workers, and even themselves—in order to live life to the fullest.",
+			"length": "11 hrs and 18 mins",
+			"minutes": 678,
+			"narrated_by": "Henry O. Arnold",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7654,
+				"performance": 6407,
+				"story": 6343
+			},
+			"series": "When to Say Yes, How to Say No to Take Control of Your Life",
+			"title": "Boundaries, Updated and Expanded Edition",
+			"url": "https://www.audible.com/pd/Boundaries-Updated-and-Expanded-Edition-Audiobook/B0728L8T6T"
+		},
+		{
+			"asin": "B0CNDFJQ7H",
+			"author": "Dave Ramsey",
+			"cover_image": "https://m.media-amazon.com/images/I/51Hhr6ipoYL._SL320_.jpg",
+			"description": "With The Total Money Makeover, you’ll be able to design a sure-fire plan for paying off all debt—from cars to houses and everything in between—recognize the 10 most dangerous money myths, and secure a big, fast nest egg for emergencies and retirement....",
+			"length": "7 hrs and 50 mins",
+			"minutes": 470,
+			"narrated_by": "Dave Ramsey",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 617,
+				"performance": 576,
+				"story": 576
+			},
+			"series": "A Proven Plan for Financial Peace",
+			"title": "The Total Money Makeover Updated and Expanded",
+			"url": "https://www.audible.com/pd/The-Total-Money-Makeover-Updated-and-Expanded-Audiobook/B0CNDFJQ7H"
+		},
+		{
+			"asin": "B09P2SQTX6",
+			"author": "Dr. Joe Dispenza",
+			"cover_image": "https://m.media-amazon.com/images/I/51emI3pY4kL._SL320_.jpg",
+			"description": "This mental-rehearsal Audio Download set, the four-week guided-meditation companion program to Dr Joe Dispenza's book Breaking the Habit of Being Yourself, is designed to move you from the analytical Beta brain-wave state to the state of Alpha....",
+			"length": "2 hrs and 27 mins",
+			"minutes": 147,
+			"narrated_by": "Dr. Joe Dispenza",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 977,
+				"performance": 837,
+				"story": 828
+			},
+			"series": "By:\n                        Dr. Joe Dispenza",
+			"title": "Meditations for Breaking the Habit of Being Yourself",
+			"url": "https://www.audible.com/pd/Meditations-for-Breaking-the-Habit-of-Being-Yourself-Audiobook/B09P2SQTX6"
+		},
+		{
+			"asin": "B09MGC94DG",
+			"author": "John C. Maxwell",
+			"cover_image": "https://m.media-amazon.com/images/I/41Hd6tYU+aL._SL320_.jpg",
+			"description": "HarperCollins and John C. Maxwell are celebrating the milestone anniversary of Maxwell’s New York Times bestselling book, The 21 Irrefutable Laws of Leadership, with the publication of a revised and updated 25th anniversary edition....",
+			"length": "9 hrs and 32 mins",
+			"minutes": 572,
+			"narrated_by": "John C. Maxwell, Henry O. Arnold",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 864,
+				"performance": 742,
+				"story": 739
+			},
+			"series": "Follow Them and People Will Follow You",
+			"title": "The 21 Irrefutable Laws of Leadership: 25th Anniversary",
+			"url": "https://www.audible.com/pd/The-21-Irrefutable-Laws-of-Leadership-25th-Anniversary-Audiobook/B09MGC94DG"
+		},
+		{
+			"asin": "B002V5GN4Y",
+			"author": "Rhonda Byrne",
+			"cover_image": "https://m.media-amazon.com/images/I/51Iu74EQyML._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 24 mins",
+			"minutes": 264,
+			"narrated_by": "Rhonda Byrne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 30222,
+				"performance": 23118,
+				"story": 23000
+			},
+			"series": "By:\n                        Rhonda Byrne",
+			"title": "The Secret",
+			"url": "https://www.audible.com/pd/The-Secret-Audiobook/B002V5GN4Y"
+		},
+		{
+			"asin": "B003UC45I8",
+			"author": "Thomas Nelson Inc.",
+			"cover_image": "https://m.media-amazon.com/images/I/518qscU+EaL._SL320_.jpg",
+			"description": null,
+			"length": "98 hrs and 1 min",
+			"minutes": 5881,
+			"narrated_by": "Jason Alexander, Joan Allen, Richard Dreyfuss, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9976,
+				"performance": 8225,
+				"story": 8217
+			},
+			"series": "By:\n                        Thomas Nelson Inc.",
+			"title": "The Word of Promise Audio Bible—New King James Version, NKJV: Complete Bible",
+			"url": "https://www.audible.com/pd/The-Word-of-Promise-Audio-BibleNew-King-James-Version-NKJV-Complete-Bible-Audiobook/B003UC45I8"
+		},
+		{
+			"asin": "B01M0XCEG0",
+			"author": "Lee Strobel",
+			"cover_image": "https://m.media-amazon.com/images/I/51HHakDwaDL._SL320_.jpg",
+			"description": "Is there credible proof that Jesus of Nazareth really is the Son of God? In The Case for Christ, Lee Strobel, former legal editor of the Chicago Tribune and New York Times author, retraces his own spiritual journey from atheism to faith and builds a captivating case for Christ's divinity.",
+			"length": "10 hrs and 49 mins",
+			"minutes": 649,
+			"narrated_by": "Lee Strobel",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5318,
+				"performance": 4717,
+				"story": 4712
+			},
+			"series": "A Journalist's Personal Investigation of the Evidence for Jesus",
+			"title": "The Case for Christ, Revised & Updated",
+			"url": "https://www.audible.com/pd/The-Case-for-Christ-Revised-Updated-Audiobook/B01M0XCEG0"
+		},
+		{
+			"asin": "B002V0RAUU",
+			"author": "Eckhart Tolle",
+			"cover_image": "https://m.media-amazon.com/images/I/41ctIrOMGUL._SL320_.jpg",
+			"description": "Illuminating, enlightening, and uplifting, A New Earth is a profoundly spiritual manifesto for a better way of life—and for building a better world.",
+			"length": "9 hrs and 12 mins",
+			"minutes": 552,
+			"narrated_by": "Eckhart Tolle",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 20413,
+				"performance": 15930,
+				"story": 15739
+			},
+			"series": "Awakening Your Life's Purpose",
+			"title": "A New Earth",
+			"url": "https://www.audible.com/pd/A-New-Earth-Audiobook/B002V0RAUU"
+		},
+		{
+			"asin": "0310362741",
+			"author": "Craig Groeschel",
+			"cover_image": "https://m.media-amazon.com/images/I/518ASdQ9nfL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 59 mins",
+			"minutes": 299,
+			"narrated_by": "Craig Groeschel",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5684,
+				"performance": 4945,
+				"story": 4921
+			},
+			"series": "Change Your Thinking, Change Your Life",
+			"title": "Winning the War in Your Mind",
+			"url": "https://www.audible.com/pd/Winning-the-War-in-Your-Mind-Audiobook/0310362741"
+		},
+		{
+			"asin": "B0170H4OOS",
+			"author": "Max McLean",
+			"cover_image": "https://m.media-amazon.com/images/I/41MsnQbMoyL._SL320_.jpg",
+			"description": "Read in a single voice with subtle background music, the NIV Listener’s Audio Bible features Max McLean’s skillful, engaging, but never over-dramatized style reading the entire text of the Bible.",
+			"length": "75 hrs and 14 mins",
+			"minutes": 4514,
+			"narrated_by": "Max McLean",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2164,
+				"performance": 1814,
+				"story": 1804
+			},
+			"series": "Vocal Performance by Max McLean",
+			"title": "Listener's Audio Bible—New International Version, NIV: Complete Bible",
+			"url": "https://www.audible.com/pd/Listeners-Audio-BibleNew-International-Version-NIV-Complete-Bible-Audiobook/B0170H4OOS"
+		},
+		{
+			"asin": "B0DJH8VVFH",
+			"author": "Dan McClellan",
+			"cover_image": "https://m.media-amazon.com/images/I/51uPjbTAv7L._SL320_.jpg",
+			"description": "Bible scholar and popular TikToker Dan McClellan confronts misconceptions about the Bible.",
+			"length": "9 hrs and 14 mins",
+			"minutes": 554,
+			"narrated_by": "Dan McClellan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 97,
+				"performance": 95,
+				"story": 95
+			},
+			"series": "What We Get Right (and Wrong) About Scripture’s Most Controversial Issues",
+			"title": "The Bible Says So",
+			"url": "https://www.audible.com/pd/The-Bible-Says-So-Audiobook/B0DJH8VVFH"
+		},
+		{
+			"asin": "B0D92WM17T",
+			"author": "Lee Strobel",
+			"cover_image": "https://m.media-amazon.com/images/I/41FwgBGIJsL._SL320_.jpg",
+			"description": "Discover solid answers to the provocative questions you have been asking about the supernatural world—healings, angels, demons, mystical dreams, near-death experiences, heaven, hell, and more—through the investigative work of a former spiritual skeptic.",
+			"length": "9 hrs and 44 mins",
+			"minutes": 584,
+			"narrated_by": "Lee Strobel",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 98,
+				"performance": 93,
+				"story": 93
+			},
+			"series": "Investigating Angels, Demons, Mystical Dreams, Near-Death Encounters, and Other Mysteries of the Unseen World",
+			"title": "Seeing the Supernatural",
+			"url": "https://www.audible.com/pd/Seeing-the-Supernatural-Audiobook/B0D92WM17T"
+		},
+		{
+			"asin": "1684038529",
+			"author": "Hunter Clarke-Fields MSAE, Carla Naumburg PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/51tCrZQp+LL._SL320_.jpg",
+			"description": "A kinder, more compassionate world starts with kind and compassionate kids. In Raising Good Humans, you’ll find powerful and practical strategies to break free from “reactive parenting” habits and raise kind, cooperative, and confident kids....",
+			"length": "5 hrs and 37 mins",
+			"minutes": 337,
+			"narrated_by": "Jennifer Gilmour",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2062,
+				"performance": 1683,
+				"story": 1674
+			},
+			"series": "A Mindful Guide to Breaking the Cycle of Reactive Parenting and Raising Kind, Confident Kids",
+			"title": "Raising Good Humans",
+			"url": "https://www.audible.com/pd/Raising-Good-Humans-Audiobook/1684038529"
+		},
+		{
+			"asin": "B002V1O8O0",
+			"author": "Clarissa Pinkola Estés",
+			"cover_image": "https://m.media-amazon.com/images/I/51+xwGbtd6L._SL320_.jpg",
+			"description": null,
+			"length": "2 hrs and 18 mins",
+			"minutes": 138,
+			"narrated_by": "Clarissa Pinkola Estes",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9479,
+				"performance": 8154,
+				"story": 8115
+			},
+			"series": "Myths and Stories of the Wild Woman Archetype",
+			"title": "Women Who Run with the Wolves",
+			"url": "https://www.audible.com/pd/Women-Who-Run-with-the-Wolves-Audiobook/B002V1O8O0"
+		},
+		{
+			"asin": "B00JPK6A64",
+			"author": "C. S. Lewis",
+			"cover_image": "https://m.media-amazon.com/images/I/51wnBgDJi7L._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 6 mins",
+			"minutes": 426,
+			"narrated_by": "Julian Rhind-Tutt",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 13368,
+				"performance": 11583,
+				"story": 11483
+			},
+			"series": "By:\n                        C. S. Lewis",
+			"title": "Mere Christianity",
+			"url": "https://www.audible.com/pd/Mere-Christianity-Audiobook/B00JPK6A64"
+		},
+		{
+			"asin": "B0CZ56655Z",
+			"author": "Lysa TerKeurst",
+			"cover_image": "https://m.media-amazon.com/images/I/41y9z4RpjPL._SL320_.jpg",
+			"description": "New York Times bestselling author Lysa TerKeurst shows you what to do with your skepticism and distrust so you can heal from past betrayals and move forward with strength and resilience.",
+			"length": "6 hrs and 51 mins",
+			"minutes": 411,
+			"narrated_by": "Lysa TerKeurst",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 304,
+				"performance": 295,
+				"story": 295
+			},
+			"series": "Moving Forward When You’re Skeptical of Others, Afraid of What God Will Allow, and Doubtful of Your Own Discernment",
+			"title": "I Want to Trust You, but I Don't",
+			"url": "https://www.audible.com/pd/I-Want-to-Trust-You-but-I-Dont-Audiobook/B0CZ56655Z"
+		},
+		{
+			"asin": "B0748ZQ4VN",
+			"author": "John Burke",
+			"cover_image": "https://m.media-amazon.com/images/I/51Wo0QC+jjL._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 30 mins",
+			"minutes": 630,
+			"narrated_by": "Tristan Wright",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2694,
+				"performance": 2346,
+				"story": 2346
+			},
+			"series": "Near-Death Experiences, God's Promises, and the Exhilarating Future That Awaits You",
+			"title": "Imagine Heaven",
+			"url": "https://www.audible.com/pd/Imagine-Heaven-Audiobook/B0748ZQ4VN"
+		},
+		{
+			"asin": "B0D92ZK7QC",
+			"author": "Andrew Klavan",
+			"cover_image": "https://m.media-amazon.com/images/I/511XFamVlgL._SL320_.jpg",
+			"description": "In The Kingdom of Cain, crime novelist, screenwriter, and cultural critic Andrew Klavan explores how artists' imaginative engagement with the evil of murder in film and literature can point us to ways of living honestly, beautifully, and even joyfully in a dark world.",
+			"length": "6 hrs and 49 mins",
+			"minutes": 409,
+			"narrated_by": "Andrew Klavan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 67,
+				"performance": 65,
+				"story": 65
+			},
+			"series": "Finding God in the Literature of Darkness",
+			"title": "The Kingdom of Cain",
+			"url": "https://www.audible.com/pd/The-Kingdom-of-Cain-Audiobook/B0D92ZK7QC"
+		}
+	],
+	"category": {
+		"href": "/cat/Religion-Spirituality-Audiobooks/18574839011",
+		"title": "Religion & Spirituality"
+	}
+}

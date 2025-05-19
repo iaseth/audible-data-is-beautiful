@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B08D9TXF3H",
+			"author": "Morgan Housel",
+			"cover_image": "https://m.media-amazon.com/images/I/51JbmSSWlUL._SL320_.jpg",
+			"description": null,
+			"length": "5 hrs and 54 mins",
+			"minutes": 354,
+			"narrated_by": "Chris Hill",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 23273,
+				"performance": 19401,
+				"story": 19311
+			},
+			"series": "Timeless Lessons on Wealth, Greed, and Happiness",
+			"title": "The Psychology of Money",
+			"url": "https://www.audible.com/pd/The-Psychology-of-Money-Audiobook/B08D9TXF3H"
+		},
+		{
+			"asin": "B07QSC29JT",
+			"author": "Ramit Sethi",
+			"cover_image": "https://m.media-amazon.com/images/I/51R5o-WAyjL._SL320_.jpg",
+			"description": null,
+			"length": "12 hrs and 8 mins",
+			"minutes": 728,
+			"narrated_by": "Ramit Sethi",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9981,
+				"performance": 8422,
+				"story": 8337
+			},
+			"series": "No Guilt. No Excuses. No B.S. Just a 6-Week Program That Works (Second Edition)",
+			"title": "I Will Teach You to Be Rich",
+			"url": "https://www.audible.com/pd/I-Will-Teach-You-to-Be-Rich-Audiobook/B07QSC29JT"
+		},
+		{
+			"asin": "197869167X",
+			"author": "Robert T. Kiyosaki",
+			"cover_image": "https://m.media-amazon.com/images/I/51NuMV9SJ8L._SL320_.jpg",
+			"description": "In the 20th anniversary edition of this classic, Robert offers an update on what we’ve seen over the past 20 years related to money, investing, and the global economy....",
+			"length": "8 hrs and 22 mins",
+			"minutes": 502,
+			"narrated_by": "Tom Parks",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 18253,
+				"performance": 15125,
+				"story": 15064
+			},
+			"series": "What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!",
+			"title": "Rich Dad Poor Dad: 20th Anniversary Edition",
+			"url": "https://www.audible.com/pd/Rich-Dad-Poor-Dad-20th-Anniversary-Edition-Audiobook/197869167X"
+		},
+		{
+			"asin": "B0CNDFJQ7H",
+			"author": "Dave Ramsey",
+			"cover_image": "https://m.media-amazon.com/images/I/51Hhr6ipoYL._SL320_.jpg",
+			"description": "With The Total Money Makeover, you’ll be able to design a sure-fire plan for paying off all debt—from cars to houses and everything in between—recognize the 10 most dangerous money myths, and secure a big, fast nest egg for emergencies and retirement....",
+			"length": "7 hrs and 50 mins",
+			"minutes": 470,
+			"narrated_by": "Dave Ramsey",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 617,
+				"performance": 576,
+				"story": 576
+			},
+			"series": "A Proven Plan for Financial Peace",
+			"title": "The Total Money Makeover Updated and Expanded",
+			"url": "https://www.audible.com/pd/The-Total-Money-Makeover-Updated-and-Expanded-Audiobook/B0CNDFJQ7H"
+		},
+		{
+			"asin": "B0DWTRBSHS",
+			"author": "Lewis Howes",
+			"cover_image": "https://m.media-amazon.com/images/I/51lHqGqNXXL._SL320_.jpg",
+			"description": "Your relationship with money begins with having the right mindset. Until you learn how to shift your thoughts, feelings, and behaviors around money, you’ll keep doing what you’ve always done. And get the same results.",
+			"length": "7 hrs and 19 mins",
+			"minutes": 439,
+			"narrated_by": "Lewis Howes",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 45,
+				"performance": 42,
+				"story": 42
+			},
+			"series": "Create Financial Freedom and Live a Richer Life",
+			"title": "Make Money Easy",
+			"url": "https://www.audible.com/pd/Make-Money-Easy-Audiobook/B0DWTRBSHS"
+		},
+		{
+			"asin": "0358310369",
+			"author": "Bill Perkins",
+			"cover_image": "https://m.media-amazon.com/images/I/513+dJrbw6L._SL320_.jpg",
+			"description": "Die with Zero presents a startling new and provocative philosophy as well as practical guide on how to get the most out of your money—and out of your life. It's intended for those who place lifelong memorable experiences ahead of simply making and accumulating money....",
+			"length": "5 hrs and 11 mins",
+			"minutes": 311,
+			"narrated_by": "Bill Perkins",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1288,
+				"performance": 1137,
+				"story": 1132
+			},
+			"series": "Getting All You Can from Your Money and Your Life",
+			"title": "Die with Zero",
+			"url": "https://www.audible.com/pd/Die-with-Zero-Audiobook/0358310369"
+		},
+		{
+			"asin": "B071P3SQ2Z",
+			"author": "JL Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/414UzZxaSFL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 38 mins",
+			"minutes": 398,
+			"narrated_by": "JL Collins, Peter Adeney",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9597,
+				"performance": 8106,
+				"story": 8040
+			},
+			"series": "Your Road Map to Financial Independence and a Rich, Free Life",
+			"title": "The Simple Path to Wealth",
+			"url": "https://www.audible.com/pd/The-Simple-Path-to-Wealth-Audiobook/B071P3SQ2Z"
+		},
+		{
+			"asin": "B00V95QQXA",
+			"author": "Benjamin Graham",
+			"cover_image": "https://m.media-amazon.com/images/I/41apexh1AhL._SL320_.jpg",
+			"description": null,
+			"length": "17 hrs and 48 mins",
+			"minutes": 1068,
+			"narrated_by": "Luke Daniels",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7226,
+				"performance": 5956,
+				"story": 5902
+			},
+			"series": "By:\n                        Benjamin Graham",
+			"title": "The Intelligent Investor Rev Ed.",
+			"url": "https://www.audible.com/pd/The-Intelligent-Investor-Rev-Ed-Audiobook/B00V95QQXA"
+		},
+		{
+			"asin": "B008BT3C1Q",
+			"author": "Robert T. Kiyosaki",
+			"cover_image": "https://m.media-amazon.com/images/I/51AHZGhzZEL._SL320_.jpg",
+			"description": "With an incredible number of 5-star reviews, Rich Dad Poor Dad has challenged and changed the way tens of millions of people around the world think about money....",
+			"length": "6 hrs and 9 mins",
+			"minutes": 369,
+			"narrated_by": "Tim Wheeler",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 78618,
+				"performance": 65129,
+				"story": 64858
+			},
+			"series": "What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!",
+			"title": "Rich Dad Poor Dad",
+			"url": "https://www.audible.com/pd/Rich-Dad-Poor-Dad-Audiobook/B008BT3C1Q"
+		},
+		{
+			"asin": "B002UZKJSG",
+			"author": "Thomas J. Stanley Ph.D., William D. Danko Ph.D.",
+			"cover_image": "https://m.media-amazon.com/images/I/61vmuiXAbWL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 16 mins",
+			"minutes": 496,
+			"narrated_by": "Cotter Smith",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19987,
+				"performance": 15967,
+				"story": 15867
+			},
+			"series": "The Surprising Secrets of America's Rich",
+			"title": "The Millionaire Next Door",
+			"url": "https://www.audible.com/pd/The-Millionaire-Next-Door-Audiobook/B002UZKJSG"
+		},
+		{
+			"asin": "B002V1LGZE",
+			"author": "Michael E. Gerber",
+			"cover_image": "https://m.media-amazon.com/images/I/51NmCG8jrzL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 5 mins",
+			"minutes": 485,
+			"narrated_by": "Michael E. Gerber",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14696,
+				"performance": 11599,
+				"story": 11535
+			},
+			"series": "Why Most Small Businesses Don't Work and What to Do About It",
+			"title": "The E-Myth Revisited",
+			"url": "https://www.audible.com/pd/The-E-Myth-Revisited-Audiobook/B002V1LGZE"
+		},
+		{
+			"asin": "B0CMDCLDTP",
+			"author": "Charles T. Munger",
+			"cover_image": "https://m.media-amazon.com/images/I/51andNpgyfL._SL320_.jpg",
+			"description": "\"Spend each day trying to be a little wiser than you were when you woke up,\" Charles T. Munger advises in Poor Charlie’s Almanack. Originally published in 2005, this compendium of 11 talks, delivered by the legendary Berkshire Hathaway....",
+			"length": "13 hrs and 9 mins",
+			"minutes": 789,
+			"narrated_by": "Grover Gardener",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 816,
+				"performance": 724,
+				"story": 724
+			},
+			"series": "The Essential Wit and Wisdom of Charles T. Munger",
+			"title": "Poor Charlie’s Almanack",
+			"url": "https://www.audible.com/pd/Poor-Charlies-Almanack-Audiobook/B0CMDCLDTP"
+		},
+		{
+			"asin": "B07BTCBF7G",
+			"author": "Mark Douglas",
+			"cover_image": "https://m.media-amazon.com/images/I/41QIJV2mnDL._SL320_.jpg",
+			"description": "Douglas uncovers the underlying reasons for lack of consistency and helps traders overcome the ingrained mental habits that cost them money....",
+			"length": "7 hrs and 57 mins",
+			"minutes": 477,
+			"narrated_by": "Kaleo Griffith",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5665,
+				"performance": 4567,
+				"story": 4518
+			},
+			"series": "Master the Market with Confidence, Discipline, and a Winning Attitude",
+			"title": "Trading in the Zone",
+			"url": "https://www.audible.com/pd/Trading-in-the-Zone-Audiobook/B07BTCBF7G"
+		},
+		{
+			"asin": "B0C9NCLG9B",
+			"author": "Mike Michalowicz",
+			"cover_image": "https://m.media-amazon.com/images/I/51bo8CEnxPL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 52 mins",
+			"minutes": 472,
+			"narrated_by": "Mike Michalowicz",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 231,
+				"performance": 197,
+				"story": 197
+			},
+			"series": "Transform Your Business from a Cash-Eating Monster to a Money-Making Machine",
+			"title": "Profit First",
+			"url": "https://www.audible.com/pd/Profit-First-Audiobook/B0C9NCLG9B"
+		},
+		{
+			"asin": "B09P8WD9HX",
+			"author": "Dave Ramsey",
+			"cover_image": "https://m.media-amazon.com/images/I/51v0RF3BbOL._SL320_.jpg",
+			"description": "After three decades of guiding millions of others through the plan, the evidence is undeniable: the Baby Steps not only work for everyone, but they’re proven to work fast....",
+			"length": "4 hrs and 50 mins",
+			"minutes": 290,
+			"narrated_by": "Dave Ramsey",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2945,
+				"performance": 2547,
+				"story": 2539
+			},
+			"series": "How Ordinary People Built Extraordinary Wealth - and How You Can Too",
+			"title": "Baby Steps Millionaires",
+			"url": "https://www.audible.com/pd/Baby-Steps-Millionaires-Audiobook/B09P8WD9HX"
+		},
+		{
+			"asin": "B074B29GQJ",
+			"author": "Ray Dalio",
+			"cover_image": "https://m.media-amazon.com/images/I/51UyMOpP+GL._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 5 mins",
+			"minutes": 965,
+			"narrated_by": "Ray Dalio, Jeremy Bobb",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19081,
+				"performance": 16049,
+				"story": 15956
+			},
+			"series": "Life and Work",
+			"title": "Principles",
+			"url": "https://www.audible.com/pd/Principles-Audiobook/B074B29GQJ"
+		},
+		{
+			"asin": "B0CBD6J2BY",
+			"author": "Jeb Blount, Mike Weinberg - foreword",
+			"cover_image": "https://m.media-amazon.com/images/I/41pHYd0k7OL._SL320_.jpg",
+			"description": "Fanatical Prospecting gives salespeople, sales leaders, entrepreneurs, and executives a practical, eye-opening guide that clearly explains the why and how behind the most important activity in sales and business development—prospecting....",
+			"length": "8 hrs and 21 mins",
+			"minutes": 501,
+			"narrated_by": "Jeb Blount, Jeremy Arthur",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 229,
+				"performance": 203,
+				"story": 203
+			},
+			"series": "The Ultimate Guide to Opening Sales Conversations and Filling the Pipeline by Leveraging Social Selling, Telephone, Email and Cold Calling",
+			"title": "Fanatical Prospecting",
+			"url": "https://www.audible.com/pd/Fanatical-Prospecting-Audiobook/B0CBD6J2BY"
+		},
+		{
+			"asin": "B0CQ4CZZ8R",
+			"author": "Thomas Sowell",
+			"cover_image": "https://m.media-amazon.com/images/I/41+7cX0tZTL._SL320_.jpg",
+			"description": "In this fifth edition of Basic Economics, Thomas Sowell revises and updates his popular book on commonsense economics, bringing the world into clearer focus through a basic understanding of the fundamental economic principles and how they explain our lives....",
+			"length": "28 hrs and 6 mins",
+			"minutes": 1686,
+			"narrated_by": "Stefan Rudnicki",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 121,
+				"performance": 104,
+				"story": 104
+			},
+			"series": "A Common Sense Guide to the Economy",
+			"title": "Basic Economics, Fifth Edition",
+			"url": "https://www.audible.com/pd/Basic-Economics-Fifth-Edition-Audiobook/B0CQ4CZZ8R"
+		},
+		{
+			"asin": "B09S3XLBGD",
+			"author": "T. Harv Eker",
+			"cover_image": "https://m.media-amazon.com/images/I/518pmcMK6SL._SL320_.jpg",
+			"description": "Este audiolibro te enseña a observar como piensas. Es un reto a tus ideas que te limitan, a los razonamientos que no te apoyan y a tus acciones con respecto al dinero....",
+			"length": "2 hrs and 17 mins",
+			"minutes": 137,
+			"narrated_by": "Ivan Villanueva",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 782,
+				"performance": 703,
+				"story": 707
+			},
+			"series": "Domina el juego de la riqueza [Mastering the Inner Game of Wealth]",
+			"title": "Los secretos de la mente millonaria (Narración en Castellano) [Secrets of the Millionaire Mind]",
+			"url": "https://www.audible.com/pd/Los-secretos-de-la-mente-millonaria-Narracion-en-Castellano-Secrets-of-the-Millionaire-Mind-Audiobook/B09S3XLBGD"
+		},
+		{
+			"asin": "B08F6D4ZPV",
+			"author": "Ryan Daniel Moran",
+			"cover_image": "https://m.media-amazon.com/images/I/51Y80DfRruL._SL320_.jpg",
+			"description": "By cutting out the noise and providing a clear and proven plan, this road map helps even brand-new entrepreneurs make decisions quickly, get their product up for sale, and launch it to a crowd that is ready and waiting to buy....",
+			"length": "7 hrs and 38 mins",
+			"minutes": 458,
+			"narrated_by": "Ryan Daniel Moran",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3935,
+				"performance": 3401,
+				"story": 3385
+			},
+			"series": "How to Pick a Winning Product, Build a Real Business, and Become a Seven-Figure Entrepreneur",
+			"title": "12 Months to $1 Million",
+			"url": "https://www.audible.com/pd/12-Months-to-1-Million-Audiobook/B08F6D4ZPV"
+		},
+		{
+			"asin": "1797115782",
+			"author": "Ray Dalio",
+			"cover_image": "https://m.media-amazon.com/images/I/41WQsvi-90L._SL320_.jpg",
+			"description": "Principles for Dealing with the Changing World Order examines history’s most turbulent economic and political periods to reveal why the times ahead will likely be radically different from those we’ve experienced in our lifetimes....",
+			"length": "16 hrs and 48 mins",
+			"minutes": 1008,
+			"narrated_by": "Jeremy Bobb, Ray Dalio",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4999,
+				"performance": 4166,
+				"story": 4142
+			},
+			"series": "Why Nations Succeed or Fail",
+			"title": "Principles for Dealing with the Changing World Order",
+			"url": "https://www.audible.com/pd/Principles-for-Dealing-with-the-Changing-World-Order-Audiobook/1797115782"
+		},
+		{
+			"asin": "B01F7O1FHK",
+			"author": "T. Harv Eker",
+			"cover_image": "https://m.media-amazon.com/images/I/51m+8bXcVcL._SL320_.jpg",
+			"description": null,
+			"length": "5 hrs and 10 mins",
+			"minutes": 310,
+			"narrated_by": "Charles Constant",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11033,
+				"performance": 9312,
+				"story": 9272
+			},
+			"series": "Mastering the Inner Game of Wealth",
+			"title": "Secrets of the Millionaire Mind",
+			"url": "https://www.audible.com/pd/Secrets-of-the-Millionaire-Mind-Audiobook/B01F7O1FHK"
+		},
+		{
+			"asin": "B0DK9S39SR",
+			"author": "Adam LeBor",
+			"cover_image": "https://m.media-amazon.com/images/I/51wiYztZE1L._SL320_.jpg",
+			"description": "Tower of Basel is the first investigative history of the world's most secretive global financial institution.",
+			"length": "10 hrs and 13 mins",
+			"minutes": 613,
+			"narrated_by": "John Mawson",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9,
+				"performance": 9,
+				"story": 9
+			},
+			"series": "The Shadowy History of the Secret Bank That Runs the World",
+			"title": "Tower of Basel",
+			"url": "https://www.audible.com/pd/Tower-of-Basel-Audiobook/B0DK9S39SR"
+		},
+		{
+			"asin": "B0143BEDUO",
+			"author": "MJ DeMarco",
+			"cover_image": "https://m.media-amazon.com/images/I/51MsMgvIUcL._SL320_.jpg",
+			"description": null,
+			"length": "12 hrs and 46 mins",
+			"minutes": 766,
+			"narrated_by": "MJ DeMarco",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 8643,
+				"performance": 7444,
+				"story": 7411
+			},
+			"series": "By:\n                        MJ DeMarco",
+			"title": "The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime",
+			"url": "https://www.audible.com/pd/The-Millionaire-Fastlane-Crack-the-Code-to-Wealth-and-Live-Rich-for-a-Lifetime-Audiobook/B0143BEDUO"
+		},
+		{
+			"asin": "B00OPAR4MI",
+			"author": "Tony Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/611T2YWNsiL._SL320_.jpg",
+			"description": null,
+			"length": "21 hrs and 3 mins",
+			"minutes": 1263,
+			"narrated_by": "Tony Robbins, Jeremy Bobb",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14930,
+				"performance": 12782,
+				"story": 12708
+			},
+			"series": "7 Simple Steps to Financial Freedom",
+			"title": "Money: Master the Game",
+			"url": "https://www.audible.com/pd/Money-Master-the-Game-Audiobook/B00OPAR4MI"
+		},
+		{
+			"asin": "0062953834",
+			"author": "Curtis 50 Cent Jackson",
+			"cover_image": "https://m.media-amazon.com/images/I/51VqY916MEL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 16 mins",
+			"minutes": 496,
+			"narrated_by": "Curtis \"50 Cent\" Jackson",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 21179,
+				"performance": 18449,
+				"story": 18377
+			},
+			"series": "By:\n                        Curtis 50 Cent Jackson",
+			"title": "Hustle Harder, Hustle Smarter",
+			"url": "https://www.audible.com/pd/Hustle-Harder-Hustle-Smarter-Audiobook/0062953834"
+		},
+		{
+			"asin": "B0C8PCQ2JG",
+			"author": "Cameron Belford",
+			"cover_image": "https://m.media-amazon.com/images/I/51WYXEKjvdL._SL320_.jpg",
+			"description": "In this age of ubiquitous connectivity, time is a resource you can use to much better advantage than in the past. You can literally “not work” from anywhere in the world, checking in occasionally to make sure that the money river is continuously and abundantly flowing....",
+			"length": "5 hrs and 39 mins",
+			"minutes": 339,
+			"narrated_by": "Kenneth Robert Hunt",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 61,
+				"performance": 42,
+				"story": 42
+			},
+			"series": "Your Retirement: Real Estate, Cryptocurrency, Amazon FBA, Graphic Design, Blogging, Dropshipping & more",
+			"title": "Passive Income Mastery: Ideas, Sources and Methods to Generate and Maintain Passive Wealth",
+			"url": "https://www.audible.com/pd/Passive-Income-Mastery-Ideas-Sources-and-Methods-to-Generate-and-Maintain-Passive-Wealth-Audiobook/B0C8PCQ2JG"
+		},
+		{
+			"asin": "B00DZUGWX6",
+			"author": "G. Edward Griffin",
+			"cover_image": "https://m.media-amazon.com/images/I/51yqXExjswL._SL320_.jpg",
+			"description": null,
+			"length": "24 hrs and 21 mins",
+			"minutes": 1461,
+			"narrated_by": "Mark Bramhall",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6058,
+				"performance": 5344,
+				"story": 5341
+			},
+			"series": "A Second Look at the Federal Reserve",
+			"title": "The Creature from Jekyll Island",
+			"url": "https://www.audible.com/pd/The-Creature-from-Jekyll-Island-Audiobook/B00DZUGWX6"
+		},
+		{
+			"asin": "B01H4E8UP6",
+			"author": "Robert T. Kiyosaki",
+			"cover_image": "https://m.media-amazon.com/images/I/514YL5CfRnL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 24 mins",
+			"minutes": 384,
+			"narrated_by": "Jesús Flores Jaimes",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5793,
+				"performance": 4644,
+				"story": 4634
+			},
+			"series": "Qué les enseñan los ricos a sus hijos acerca del dinero. ¡que los pobres y la clase media no!",
+			"title": "Padre Rico, Padre Pobre [Rich Dad, Poor Dad]",
+			"url": "https://www.audible.com/pd/Padre-Rico-Padre-Pobre-Rich-Dad-Poor-Dad-Audiobook/B01H4E8UP6"
+		},
+		{
+			"asin": "B0B6Y29Q2R",
+			"author": "Tom Hougaard",
+			"cover_image": "https://m.media-amazon.com/images/I/413-SLBcymL._SL320_.jpg",
+			"description": "Normal thinking leads to normal results. For exceptional results, traders must think differently. This book will guide and inspire you in ways no other trading book has. It is not about strategies and money management. It is about mind management....",
+			"length": "6 hrs and 48 mins",
+			"minutes": 408,
+			"narrated_by": "Richard Faymonville",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1516,
+				"performance": 1270,
+				"story": 1266
+			},
+			"series": "Why Normal Thinking Never Wins the Trading Game",
+			"title": "Best Loser Wins",
+			"url": "https://www.audible.com/pd/Best-Loser-Wins-Audiobook/B0B6Y29Q2R"
+		}
+	],
+	"category": {
+		"href": "/cat/Money-Finance-Audiobooks/18574547011",
+		"title": "Money & Finance"
+	}
+}

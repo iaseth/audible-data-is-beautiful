@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B002V5BV96",
+			"author": "Dale Carnegie",
+			"cover_image": "https://m.media-amazon.com/images/I/51PWIy1rHUL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 15 mins",
+			"minutes": 435,
+			"narrated_by": "Andrew MacMillan",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 100419,
+				"performance": 80285,
+				"story": 79699
+			},
+			"series": "By:\n                        Dale Carnegie",
+			"title": "How to Win Friends & Influence People",
+			"url": "https://www.audible.com/pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96"
+		},
+		{
+			"asin": "B07LFLM4LJ",
+			"author": "Mel Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/512c67qLfxL._SL320_.jpg",
+			"description": "Mel Robbins is back! The international bestselling phenomenon and creator of The Five Second Rule and Kick Ass with Mel Robbins returns to help you tackle the single biggest obstacle you face: fear....",
+			"length": "10 hrs and 3 mins",
+			"minutes": 603,
+			"narrated_by": "Mel Robbins",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19299,
+				"performance": 16655,
+				"story": 16515
+			},
+			"series": "How to Silence Fear and Win the Mental Game",
+			"title": "Take Control of Your Life",
+			"url": "https://www.audible.com/pd/Take-Control-of-Your-Life-Audiobook/B07LFLM4LJ"
+		},
+		{
+			"asin": "198271297X",
+			"author": "Joe Dispenza",
+			"cover_image": "https://m.media-amazon.com/images/I/61RSfP3n5qL._SL320_.jpg",
+			"description": null,
+			"length": "14 hrs and 6 mins",
+			"minutes": 846,
+			"narrated_by": "Adam Boyce",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5118,
+				"performance": 4286,
+				"story": 4264
+			},
+			"series": "How Common People Are Doing the Uncommon",
+			"title": "Becoming Supernatural",
+			"url": "https://www.audible.com/pd/Becoming-Supernatural-Audiobook/198271297X"
+		},
+		{
+			"asin": "B0CX5YR9RN",
+			"author": "Mary Poffenroth PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/41BaTGPV4eL._SL320_.jpg",
+			"description": "Mary Poffenroth, PhD, is a scientist, professor, and fear expert shares a groundbreaking guide to master everyday fear and anxiety.",
+			"length": "6 hrs and 45 mins",
+			"minutes": 405,
+			"narrated_by": "Mary Poffenroth PhD",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7,
+				"performance": 7,
+				"story": 7
+			},
+			"series": "Strategies, Tools, and Neurohacks to Live More Courageously Every Day",
+			"title": "Brave New You",
+			"url": "https://www.audible.com/pd/Brave-New-You-Audiobook/B0CX5YR9RN"
+		},
+		{
+			"asin": "B01F2M2GDO",
+			"author": "Lindsay C. Gibson PsyD",
+			"cover_image": "https://m.media-amazon.com/images/I/513IGk0PimL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 50 mins",
+			"minutes": 410,
+			"narrated_by": "Marguerite Gavin",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7922,
+				"performance": 6739,
+				"story": 6669
+			},
+			"series": "How to Heal from Distant, Rejecting, or Self-Involved Parents",
+			"title": "Adult Children of Emotionally Immature Parents",
+			"url": "https://www.audible.com/pd/Adult-Children-of-Emotionally-Immature-Parents-Audiobook/B01F2M2GDO"
+		},
+		{
+			"asin": "B0DJRMFBKT",
+			"author": "Eric Topol",
+			"cover_image": "https://m.media-amazon.com/images/I/51eCt2TT5YL._SL320_.jpg",
+			"description": "Super Agers is a detailed guide to a revolution transforming human longevity. This is a breakthrough moment in the history of human health care. The person making that bold claim is one of the most respected medical researchers in the world, Eric Topol.",
+			"length": "14 hrs and 43 mins",
+			"minutes": 883,
+			"narrated_by": "Eric Topol",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "3.5 out of 5 stars",
+				"story": "3.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7,
+				"performance": 6,
+				"story": 6
+			},
+			"series": "By:\n                        Eric Topol",
+			"title": "Super Agers",
+			"url": "https://www.audible.com/pd/Super-Agers-Audiobook/B0DJRMFBKT"
+		},
+		{
+			"asin": "B0CYNPSBNG",
+			"author": "Viktor E. Frankl",
+			"cover_image": "https://m.media-amazon.com/images/I/41sXcxx8g0L._SL320_.jpg",
+			"description": "Viktor E. Frankl was a medical doctor at a psychiatric hospital in 1942 when he became a prisoner in Nazi concentration camps in World War II. In 1946, he published this book about his camp experiences and a method of psychotherapy he developed.",
+			"length": "5 hrs and 43 mins",
+			"minutes": 343,
+			"narrated_by": "Theo Solomon",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 855,
+				"performance": 778,
+				"story": 778
+			},
+			"series": "By:\n                        Viktor E. Frankl",
+			"title": "Man's Search for Meaning",
+			"url": "https://www.audible.com/pd/Mans-Search-for-Meaning-Audiobook/B0CYNPSBNG"
+		},
+		{
+			"asin": "B0C7RM6LRS",
+			"author": "Nick Trenton",
+			"cover_image": "https://m.media-amazon.com/images/I/512FSDOHN7L._SL320_.jpg",
+			"description": "The Art of Letting Go is all about organizing the mess in your mind. It's about how to stop focusing on the past that is over, or the future that may never occur, and being present in the situations that you can actually have agency in....",
+			"length": "4 hrs and 54 mins",
+			"minutes": 294,
+			"narrated_by": "Russell Newton",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 447,
+				"performance": 430,
+				"story": 430
+			},
+			"series": "The Path to Calm, Book 13",
+			"title": "The Art of Letting Go: Stop Overthinking, Stop Negative Spirals, and Find Emotional Freedom",
+			"url": "https://www.audible.com/pd/The-Art-of-Letting-Go-Stop-Overthinking-Stop-Negative-Spirals-and-Find-Emotional-Freedom-Audiobook/B0C7RM6LRS"
+		},
+		{
+			"asin": "6077477206",
+			"author": "James Clear",
+			"cover_image": "https://m.media-amazon.com/images/I/51T6HVBFrtL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 1 min",
+			"minutes": 541,
+			"narrated_by": "Arturo Guerrero",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4107,
+				"performance": 3403,
+				"story": 3401
+			},
+			"series": "Un método sencillo y comprobado para desarrollar buenos hábitos y eliminar los malos",
+			"title": "Hábitos atómicos (Español neutro)",
+			"url": "https://www.audible.com/pd/Habitos-atomicos-Espanol-neutro-Audiobook/6077477206"
+		},
+		{
+			"asin": "B07FXXWN3T",
+			"author": "David Deida",
+			"cover_image": "https://m.media-amazon.com/images/I/61J61ToXTVL._SL320_.jpg",
+			"description": "In 1997, David Deida released what would become one of the most widely read books on men’s spirituality ever published—The Way of the Superior Man. Deida presents a new preface to the now-classic text on how to live a life of masculine freedom, integrity, and authenticity....",
+			"length": "5 hrs and 22 mins",
+			"minutes": 322,
+			"narrated_by": "Cecil Archbold",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12851,
+				"performance": 10604,
+				"story": 10541
+			},
+			"series": "By:\n                        David Deida",
+			"title": "The Way of the Superior Man",
+			"url": "https://www.audible.com/pd/The-Way-of-the-Superior-Man-Audiobook/B07FXXWN3T"
+		},
+		{
+			"asin": "B006IE4OY0",
+			"author": "Michael A. Singer",
+			"cover_image": "https://m.media-amazon.com/images/I/41NW8cThXwL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 11 mins",
+			"minutes": 371,
+			"narrated_by": "Peter Berkrot",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31268,
+				"performance": 26283,
+				"story": 26125
+			},
+			"series": "The Journey Beyond Yourself",
+			"title": "The Untethered Soul",
+			"url": "https://www.audible.com/pd/The-Untethered-Soul-Audiobook/B006IE4OY0"
+		},
+		{
+			"asin": "1797119265",
+			"author": "Emily Nagoski PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/41C6Xgw+IML._SL320_.jpg",
+			"description": "A revised and updated edition of Emily Nagoski’s game-changing New York Times best seller Come As You Are, featuring new information and research on mindfulness, desire, and pleasure that will radically transform your sex life....",
+			"length": "11 hrs and 30 mins",
+			"minutes": 690,
+			"narrated_by": "Emily Nagoski, Nicholas Boulton",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3504,
+				"performance": 3026,
+				"story": 3009
+			},
+			"series": "The Surprising New Science That Will Transform Your Sex Life",
+			"title": "Come As You Are: Revised and Updated",
+			"url": "https://www.audible.com/pd/Come-As-You-Are-Revised-and-Updated-Audiobook/1797119265"
+		},
+		{
+			"asin": "B09P2SQTX6",
+			"author": "Dr. Joe Dispenza",
+			"cover_image": "https://m.media-amazon.com/images/I/51emI3pY4kL._SL320_.jpg",
+			"description": "This mental-rehearsal Audio Download set, the four-week guided-meditation companion program to Dr Joe Dispenza's book Breaking the Habit of Being Yourself, is designed to move you from the analytical Beta brain-wave state to the state of Alpha....",
+			"length": "2 hrs and 27 mins",
+			"minutes": 147,
+			"narrated_by": "Dr. Joe Dispenza",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 977,
+				"performance": 837,
+				"story": 828
+			},
+			"series": "By:\n                        Dr. Joe Dispenza",
+			"title": "Meditations for Breaking the Habit of Being Yourself",
+			"url": "https://www.audible.com/pd/Meditations-for-Breaking-the-Habit-of-Being-Yourself-Audiobook/B09P2SQTX6"
+		},
+		{
+			"asin": "B09LVXS3L4",
+			"author": "Robert F. Kennedy Jr.",
+			"cover_image": "https://m.media-amazon.com/images/I/51k5O+IhyWL._SL320_.jpg",
+			"description": "The Real Anthony Fauci details how Fauci, Gates, and their cohorts use their control of media outlets, scientific journals, key government agencies, global intelligence agencies, and influential scientists and physicians to flood the public with fearful propaganda about COVID-19....",
+			"length": "27 hrs and 20 mins",
+			"minutes": 1640,
+			"narrated_by": "Bruce Wagner",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7151,
+				"performance": 6252,
+				"story": 6236
+			},
+			"series": "Bill Gates, Big Pharma, and the Global War on Democracy and Public Health",
+			"title": "The Real Anthony Fauci",
+			"url": "https://www.audible.com/pd/The-Real-Anthony-Fauci-Audiobook/B09LVXS3L4"
+		},
+		{
+			"asin": "B0CWM658K2",
+			"author": "Daniel G. Amen M.D., Charles Fay Ph.D",
+			"cover_image": "https://m.media-amazon.com/images/I/41SUmd7CPUL._SL320_.jpg",
+			"description": "In a time when so many children and young adults seem to be struggling, parents are looking for help in bringing up mentally healthy kids who are equipped to thrive. Finally, evidence-based help is now available for overwhelmed parents who are trying their best but feel like they’re falling short.",
+			"length": "11 hrs and 17 mins",
+			"minutes": 677,
+			"narrated_by": "Jim Frangione",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 145,
+				"performance": 139,
+				"story": 139
+			},
+			"series": "How to Combine the Power of Neuroscience with Love and Logic to Grow Confident, Kind, Responsible, and Resilient Children and Young Adults",
+			"title": "Raising Mentally Strong Kids",
+			"url": "https://www.audible.com/pd/Raising-Mentally-Strong-Kids-Audiobook/B0CWM658K2"
+		},
+		{
+			"asin": "B09KTGFVD9",
+			"author": "Dale Carnegie",
+			"cover_image": "https://m.media-amazon.com/images/I/41EonTXncLL._SL320_.jpg",
+			"description": "",
+			"length": "8 hrs and 18 mins",
+			"minutes": 498,
+			"narrated_by": "Robert Petkoff, Donna Dale Carnegie",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 994,
+				"performance": 812,
+				"story": 809
+			},
+			"series": "Updated for the Next Generation of Leaders",
+			"title": "How to Win Friends and Influence People",
+			"url": "https://www.audible.com/pd/How-to-Win-Friends-and-Influence-People-Audiobook/B09KTGFVD9"
+		},
+		{
+			"asin": "0310362741",
+			"author": "Craig Groeschel",
+			"cover_image": "https://m.media-amazon.com/images/I/518ASdQ9nfL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 59 mins",
+			"minutes": 299,
+			"narrated_by": "Craig Groeschel",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5684,
+				"performance": 4945,
+				"story": 4921
+			},
+			"series": "Change Your Thinking, Change Your Life",
+			"title": "Winning the War in Your Mind",
+			"url": "https://www.audible.com/pd/Winning-the-War-in-Your-Mind-Audiobook/0310362741"
+		},
+		{
+			"asin": "0593348702",
+			"author": "Michael Easter",
+			"cover_image": "https://m.media-amazon.com/images/I/41amJ6xxHJS._SL320_.jpg",
+			"description": "Discover the evolutionary mind and body benefits of living at the edges of your comfort zone and reconnecting with the wild....",
+			"length": "8 hrs and 52 mins",
+			"minutes": 532,
+			"narrated_by": "Michael Easter",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7370,
+				"performance": 6462,
+				"story": 6434
+			},
+			"series": "Embrace Discomfort to Reclaim Your Wild, Happy, Healthy Self",
+			"title": "The Comfort Crisis",
+			"url": "https://www.audible.com/pd/The-Comfort-Crisis-Audiobook/0593348702"
+		},
+		{
+			"asin": "B003HU6KLI",
+			"author": "Travis Bradberry, Jean Greaves",
+			"cover_image": "https://m.media-amazon.com/images/I/51JNVVaYlNL._SL320_.jpg",
+			"description": "In today's fast-paced world of competitive workplaces and turbulent economic conditions, each of us is searching for effective tools that can help us to manage, adapt, and strike out ahead of the pack....",
+			"length": "4 hrs and 17 mins",
+			"minutes": 257,
+			"narrated_by": "Tom Parks",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6614,
+				"performance": 5486,
+				"story": 5418
+			},
+			"series": "By:\n                        Travis Bradberry, Jean Greaves",
+			"title": "Emotional Intelligence 2.0",
+			"url": "https://www.audible.com/pd/Emotional-Intelligence-20-Audiobook/B003HU6KLI"
+		},
+		{
+			"asin": "B0DT4Q7X8X",
+			"author": "Dr. Livingood",
+			"cover_image": "https://m.media-amazon.com/images/I/31ioXFaVf7L._SL320_.jpg",
+			"description": "America takes 75% of the world's medications and seven out of ten people die of chronic and preventable diseases. The health care system meant to remedy this problem is now the third leading cause of death itself.",
+			"length": "3 hrs and 21 mins",
+			"minutes": 201,
+			"narrated_by": "Millian Quinteros",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 63,
+				"performance": 62,
+				"story": 62
+			},
+			"series": "Your 21-Day Guide to Experience Real Health",
+			"title": "Livingood Daily",
+			"url": "https://www.audible.com/pd/Livingood-Daily-Audiobook/B0DT4Q7X8X"
+		},
+		{
+			"asin": "B08WPZMJ7G",
+			"author": "Rodney Noble",
+			"cover_image": "https://m.media-amazon.com/images/I/51U4UJ724iL._SL320_.jpg",
+			"description": "If constant overthinking is turning your happy relationship into a battlefield, you're not alone. This book will be your lifeline. It dives deep into the toxic thoughts that can creep into any relationship, whispering doubts and insecurities.",
+			"length": "1 hr and 59 mins",
+			"minutes": 119,
+			"narrated_by": "Kelly Rhodes",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 599,
+				"performance": 534,
+				"story": 536
+			},
+			"series": "Toxic Thoughts That Can Destroy Your Relationship and How to Fix Them",
+			"title": "The Overthinking in Relationships Fix",
+			"url": "https://www.audible.com/pd/The-Overthinking-in-Relationships-Fix-Audiobook/B08WPZMJ7G"
+		},
+		{
+			"asin": "B0DJDRWPHD",
+			"author": "Gabrielle Bernstein, Richard C. Schwartz - foreword",
+			"cover_image": "https://m.media-amazon.com/images/I/41JxRATbPNL._SL320_.jpg",
+			"description": "Number one New York Times best-selling author Gabrielle Bernstein charts a path to healing that can literally change your life—a simple, powerful method informed by Internal Family Systems (IFS) Therapy.",
+			"length": "6 hrs and 1 min",
+			"minutes": 361,
+			"narrated_by": "Gabrielle Bernstein, Richard C. Schwartz - foreword",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 99,
+				"performance": 97,
+				"story": 97
+			},
+			"series": "This Is Your Chance to Change Your Life",
+			"title": "Self Help",
+			"url": "https://www.audible.com/pd/Self-Help-Audiobook/B0DJDRWPHD"
+		},
+		{
+			"asin": "B002UZDRK8",
+			"author": "Malcolm Gladwell",
+			"cover_image": "https://m.media-amazon.com/images/I/41567aH9X7L._SL320_.jpg",
+			"description": "In this stunning audiobook, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\" - the best and the brightest, the most famous, and the most successful. He asks the question: What makes high-achievers different? Listen to find out more....",
+			"length": "7 hrs and 18 mins",
+			"minutes": 438,
+			"narrated_by": "Malcolm Gladwell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 49082,
+				"performance": 37896,
+				"story": 37808
+			},
+			"series": "The Story of Success",
+			"title": "Outliers",
+			"url": "https://www.audible.com/pd/Outliers-Audiobook/B002UZDRK8"
+		},
+		{
+			"asin": "1401966624",
+			"author": "Kelly McDaniel",
+			"cover_image": "https://m.media-amazon.com/images/I/51MBoSjGLHS._SL320_.jpg",
+			"description": "Many of us find ourselves stuck in unhealthy habits simply because we don't see a better way. With Mother Hunger, trauma counselor Kelly McDaniel helps women break the cycle of destructive behavior by taking a fresh look at childhood trauma and its lasting impact....",
+			"length": "7 hrs and 57 mins",
+			"minutes": 477,
+			"narrated_by": "Kelly McDaniel",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 870,
+				"performance": 745,
+				"story": 745
+			},
+			"series": "How Adult Daughters Can Understand and Heal from Lost Nurturance, Protection, and Guidance",
+			"title": "Mother Hunger",
+			"url": "https://www.audible.com/pd/Mother-Hunger-Audiobook/1401966624"
+		},
+		{
+			"asin": "B0CB1RF7MJ",
+			"author": "Penn Holderness, Kim Holderness, Edward Hallowell - foreword",
+			"cover_image": "https://m.media-amazon.com/images/I/41G6RsEkk-L._SL320_.jpg",
+			"description": "Award-winning content creators Kim and Penn Holderness are on a mission to reboot how we think about the unfortunately named \"attention-deficit/hyperactivity disorder.\" As always, they are doing it by looking in the mirror, because they don't just study ADHD; they live it.",
+			"length": "8 hrs and 50 mins",
+			"minutes": 530,
+			"narrated_by": "Penn Holderness, Kim Holderness, Nathan Rosborough, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 696,
+				"performance": 649,
+				"story": 649
+			},
+			"series": "A Guide to (Mostly) Thriving with ADHD",
+			"title": "ADHD Is Awesome",
+			"url": "https://www.audible.com/pd/ADHD-Is-Awesome-Audiobook/B0CB1RF7MJ"
+		},
+		{
+			"asin": "B01MYT9CNX",
+			"author": "Joanna Faber, Julie King",
+			"cover_image": "https://m.media-amazon.com/images/I/6137ZXV2sxL._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 8 mins",
+			"minutes": 608,
+			"narrated_by": "Heather Alicia Simms, Michele Pawk, Candace Thaxton, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3534,
+				"performance": 2931,
+				"story": 2909
+			},
+			"series": "A Survival Guide to Life with Children Ages 2-7",
+			"title": "How to Talk So Little Kids Will Listen",
+			"url": "https://www.audible.com/pd/How-to-Talk-So-Little-Kids-Will-Listen-Audiobook/B01MYT9CNX"
+		},
+		{
+			"asin": "1797121766",
+			"author": "Tim S. Grover, Shari Wenk",
+			"cover_image": "https://m.media-amazon.com/images/I/41Rige5gB3L._SL320_.jpg",
+			"description": "For more than two decades, legendary trainer Tim Grover has taken the greats - Michael Jordan, Kobe Bryant, Dwyane Wade, and hundreds of relentless competitors in sports, business, and every walk of life - and made them greater....",
+			"length": "6 hrs and 38 mins",
+			"minutes": 398,
+			"narrated_by": "Pete Simonelli",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6815,
+				"performance": 5859,
+				"story": 5825
+			},
+			"series": "From Good to Great to Unstoppable",
+			"title": "Relentless",
+			"url": "https://www.audible.com/pd/Relentless-Audiobook/1797121766"
+		},
+		{
+			"asin": "B09PFFC6LB",
+			"author": "José Silva, Philip Miele",
+			"cover_image": "https://m.media-amazon.com/images/I/51kAzTSe5XL._SL320_.jpg",
+			"description": "First published in 1978, The Silva Mind Control Method has helped millions of people create better, happier, and more successful lives. Based on the extraordinary course pioneered by José Silva in the 1960s, this accessible guidebook uses meditation and visualization to help you alleviate stress....",
+			"length": "5 hrs and 56 mins",
+			"minutes": 356,
+			"narrated_by": "Gary Tiedemann, Zac Aleman",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1209,
+				"performance": 1021,
+				"story": 1011
+			},
+			"series": "The Revolutionary Program by the Founder of the World's Most Famous Mind Control Course",
+			"title": "Silva Mind Control Method",
+			"url": "https://www.audible.com/pd/Silva-Mind-Control-Method-Audiobook/B09PFFC6LB"
+		},
+		{
+			"asin": "B07L3C9WYM",
+			"author": "Debbie Mirza",
+			"cover_image": "https://m.media-amazon.com/images/I/51qaB6Zh6dL._SL320_.jpg",
+			"description": "The Covert Passive Aggressive Narcissist is the most comprehensive and helpful audiobook on the topic of covert narcissism. This type of narcissism is one of the most damaging forms because the abuse is so hidden and so insidious....",
+			"length": "6 hrs and 42 mins",
+			"minutes": 402,
+			"narrated_by": "Debbie Mirza",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2952,
+				"performance": 2586,
+				"story": 2568
+			},
+			"series": "Recognizing the Traits and Finding Healing After Hidden Emotional and Psychological Abuse",
+			"title": "The Covert Passive-Aggressive Narcissist",
+			"url": "https://www.audible.com/pd/The-Covert-Passive-Aggressive-Narcissist-Audiobook/B07L3C9WYM"
+		},
+		{
+			"asin": "164427891X",
+			"author": "Alcoholics Anonymous World Services Inc.",
+			"cover_image": "https://m.media-amazon.com/images/I/51Y79K6l7pL._SL320_.jpg",
+			"description": "Known as the \"Big Book\", the basic text of Alcoholics Anonymous has helped millions of people worldwide get and stay sober since the first edition appeared in 1939....",
+			"length": "18 hrs and 32 mins",
+			"minutes": 1112,
+			"narrated_by": "Alcoholics Anonymous World Services Inc.",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 474,
+				"performance": 376,
+				"story": 374
+			},
+			"series": "The Official \"Big Book\" from Alcoholic Anonymous",
+			"title": "Alcoholics Anonymous, Fourth Edition",
+			"url": "https://www.audible.com/pd/Alcoholics-Anonymous-Fourth-Edition-Audiobook/164427891X"
+		}
+	],
+	"category": {
+		"href": "/cat/Health-Wellness-Audiobooks/18573370011",
+		"title": "Health & Wellness"
+	}
+}

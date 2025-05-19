@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B0DJRMFBKT",
+			"author": "Eric Topol",
+			"cover_image": "https://m.media-amazon.com/images/I/51eCt2TT5YL._SL320_.jpg",
+			"description": "Super Agers is a detailed guide to a revolution transforming human longevity. This is a breakthrough moment in the history of human health care. The person making that bold claim is one of the most respected medical researchers in the world, Eric Topol.",
+			"length": "14 hrs and 43 mins",
+			"minutes": 883,
+			"narrated_by": "Eric Topol",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "3.5 out of 5 stars",
+				"story": "3.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7,
+				"performance": 6,
+				"story": 6
+			},
+			"series": "By:\n                        Eric Topol",
+			"title": "Super Agers",
+			"url": "https://www.audible.com/pd/Super-Agers-Audiobook/B0DJRMFBKT"
+		},
+		{
+			"asin": "B01H478VR0",
+			"author": "Robin Wall Kimmerer",
+			"cover_image": "https://m.media-amazon.com/images/I/61nD2KiCA5L._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 44 mins",
+			"minutes": 1004,
+			"narrated_by": "Robin Wall Kimmerer",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11534,
+				"performance": 10009,
+				"story": 9983
+			},
+			"series": "Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+			"title": "Braiding Sweetgrass",
+			"url": "https://www.audible.com/pd/Braiding-Sweetgrass-Audiobook/B01H478VR0"
+		},
+		{
+			"asin": "B09LVXS3L4",
+			"author": "Robert F. Kennedy Jr.",
+			"cover_image": "https://m.media-amazon.com/images/I/51k5O+IhyWL._SL320_.jpg",
+			"description": "The Real Anthony Fauci details how Fauci, Gates, and their cohorts use their control of media outlets, scientific journals, key government agencies, global intelligence agencies, and influential scientists and physicians to flood the public with fearful propaganda about COVID-19....",
+			"length": "27 hrs and 20 mins",
+			"minutes": 1640,
+			"narrated_by": "Bruce Wagner",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7151,
+				"performance": 6252,
+				"story": 6236
+			},
+			"series": "Bill Gates, Big Pharma, and the Global War on Democracy and Public Health",
+			"title": "The Real Anthony Fauci",
+			"url": "https://www.audible.com/pd/The-Real-Anthony-Fauci-Audiobook/B09LVXS3L4"
+		},
+		{
+			"asin": "B01ENXQUGM",
+			"author": "Sean Carroll",
+			"cover_image": "https://m.media-amazon.com/images/I/51ZAeXAtVyL._SL320_.jpg",
+			"description": null,
+			"length": "17 hrs and 22 mins",
+			"minutes": 1042,
+			"narrated_by": "Sean Carroll",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3151,
+				"performance": 2774,
+				"story": 2746
+			},
+			"series": "On the Origins of Life, Meaning, and the Universe Itself",
+			"title": "The Big Picture",
+			"url": "https://www.audible.com/pd/The-Big-Picture-Audiobook/B01ENXQUGM"
+		},
+		{
+			"asin": "B004G7VN04",
+			"author": "Jared Diamond",
+			"cover_image": "https://m.media-amazon.com/images/I/51Oi+FcrkKL._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 20 mins",
+			"minutes": 980,
+			"narrated_by": "Doug Ordunio",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12451,
+				"performance": 10463,
+				"story": 10419
+			},
+			"series": "The Fate of Human Societies",
+			"title": "Guns, Germs and Steel",
+			"url": "https://www.audible.com/pd/Guns-Germs-and-Steel-Audiobook/B004G7VN04"
+		},
+		{
+			"asin": "B002V9ZA6C",
+			"author": "Alfred Lansing",
+			"cover_image": "https://m.media-amazon.com/images/I/51nrojPPaOL._SL320_.jpg",
+			"description": "In August of 1914, the British ship Endurance set sail for the South Atlantic. In October 1915, still half a continent away from its intended base, the ship was trapped, then crushed in the ice",
+			"length": "10 hrs and 21 mins",
+			"minutes": 621,
+			"narrated_by": "Simon Prebble",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 26298,
+				"performance": 23294,
+				"story": 23253
+			},
+			"series": "Shackleton's Incredible Voyage",
+			"title": "Endurance",
+			"url": "https://www.audible.com/pd/Endurance-Audiobook/B002V9ZA6C"
+		},
+		{
+			"asin": "B06X9MXN32",
+			"author": "Neil deGrasse Tyson",
+			"cover_image": "https://m.media-amazon.com/images/I/615rdOyqZEL._SL320_.jpg",
+			"description": null,
+			"length": "3 hrs and 41 mins",
+			"minutes": 221,
+			"narrated_by": "Neil deGrasse Tyson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 38200,
+				"performance": 33500,
+				"story": 33218
+			},
+			"series": "By:\n                        Neil deGrasse Tyson",
+			"title": "Astrophysics for People in a Hurry",
+			"url": "https://www.audible.com/pd/Astrophysics-for-People-in-a-Hurry-Audiobook/B06X9MXN32"
+		},
+		{
+			"asin": "B0CY63FFXF",
+			"author": "Walter Russell",
+			"cover_image": "https://m.media-amazon.com/images/I/51iNVfGMy8L._SL320_.jpg",
+			"description": "\"The Universal One\" by Walter Russell is an ambitious and comprehensive work that endeavors to blend the realms of science, philosophy, and spirituality into a singular, cohesive theory of the universe.",
+			"length": "12 hrs and 27 mins",
+			"minutes": 747,
+			"narrated_by": "Luke Erlenbuch",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19,
+				"performance": 18,
+				"story": 18
+			},
+			"series": "By:\n                        Walter Russell",
+			"title": "The Universal One",
+			"url": "https://www.audible.com/pd/The-Universal-One-Audiobook/B0CY63FFXF"
+		},
+		{
+			"asin": "B0F45Q87X1",
+			"author": "Ivan Ray Tannehill",
+			"cover_image": "https://m.media-amazon.com/images/I/41OqF60KRNL._SL320_.jpg",
+			"description": "This is the lively account of the hair-raising experiences of the men who have probed by sea and air into the inner mysteries of the world’s most terrible storms.",
+			"length": "9 hrs and 11 mins",
+			"minutes": 551,
+			"narrated_by": "David Wales",
+			"ratings": {
+				"overall": "3 out of 5 stars",
+				"performance": "2 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1,
+				"performance": 1,
+				"story": 1
+			},
+			"series": "By:\n                        Ivan Ray Tannehill",
+			"title": "The Hurricane Hunters",
+			"url": "https://www.audible.com/pd/The-Hurricane-Hunters-Audiobook/B0F45Q87X1"
+		},
+		{
+			"asin": "B012U7QOXC",
+			"author": "Catherine M. Pittman PhD, Elizabeth M. Karle MLIS",
+			"cover_image": "https://m.media-amazon.com/images/I/61vcLvZZMBL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 30 mins",
+			"minutes": 390,
+			"narrated_by": "Susannah Mars",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1688,
+				"performance": 1366,
+				"story": 1353
+			},
+			"series": "How to Use the Neuroscience of Fear to End Anxiety, Panic, and Worry",
+			"title": "Rewire Your Anxious Brain",
+			"url": "https://www.audible.com/pd/Rewire-Your-Anxious-Brain-Audiobook/B012U7QOXC"
+		},
+		{
+			"asin": "B01N4DCBK6",
+			"author": "Yuval Noah Harari",
+			"cover_image": "https://m.media-amazon.com/images/I/51KkLSCnslL._SL320_.jpg",
+			"description": null,
+			"length": "14 hrs and 54 mins",
+			"minutes": 894,
+			"narrated_by": "Derek Perkins",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 27260,
+				"performance": 23635,
+				"story": 23467
+			},
+			"series": "A Brief History of Tomorrow",
+			"title": "Homo Deus",
+			"url": "https://www.audible.com/pd/Homo-Deus-Audiobook/B01N4DCBK6"
+		},
+		{
+			"asin": "B09MH3JRF4",
+			"author": "Chantel Prat",
+			"cover_image": "https://m.media-amazon.com/images/I/41B+Mn9DRwL._SL320_.jpg",
+			"description": "",
+			"length": "10 hrs and 14 mins",
+			"minutes": 614,
+			"narrated_by": "Chantel Prat",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 78,
+				"performance": 64,
+				"story": 64
+			},
+			"series": "How Every Brain Is Different and How to Understand Yours",
+			"title": "The Neuroscience of You",
+			"url": "https://www.audible.com/pd/The-Neuroscience-of-You-Audiobook/B09MH3JRF4"
+		},
+		{
+			"asin": "B07FWBN4Q5",
+			"author": "Donella H. Meadows",
+			"cover_image": "https://m.media-amazon.com/images/I/51YXiA+y-VL._SL320_.jpg",
+			"description": "Thinking in Systems is a concise and crucial book offering insight for problem-solving on scales ranging from the personal to the global. This essential primer brings systems thinking out of the realm of computers and equations and into the tangible world....",
+			"length": "6 hrs and 26 mins",
+			"minutes": 386,
+			"narrated_by": "Tia Rider Sorensen",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2259,
+				"performance": 1840,
+				"story": 1819
+			},
+			"series": "A Primer",
+			"title": "Thinking in Systems",
+			"url": "https://www.audible.com/pd/Thinking-in-Systems-Audiobook/B07FWBN4Q5"
+		},
+		{
+			"asin": "B01D24NLWO",
+			"author": "Brian Christian, Tom Griffiths",
+			"cover_image": "https://m.media-amazon.com/images/I/51HiU+5mTwL._SL320_.jpg",
+			"description": "From finding a spouse to finding a parking spot, from organizing one's inbox to understanding the workings of human memory, Algorithms to Live By transforms the wisdom of computer science into strategies for human living....",
+			"length": "11 hrs and 50 mins",
+			"minutes": 710,
+			"narrated_by": "Brian Christian",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17389,
+				"performance": 14670,
+				"story": 14554
+			},
+			"series": "The Computer Science of Human Decisions",
+			"title": "Algorithms to Live By",
+			"url": "https://www.audible.com/pd/Algorithms-to-Live-By-Audiobook/B01D24NLWO"
+		},
+		{
+			"asin": "B01KMNFUIQ",
+			"author": "Peter Wohlleben",
+			"cover_image": "https://m.media-amazon.com/images/I/51iXOhWU5JL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 33 mins",
+			"minutes": 453,
+			"narrated_by": "Mike Grady",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6530,
+				"performance": 5602,
+				"story": 5564
+			},
+			"series": "What They Feel, How They Communicate - Discoveries from a Secret World",
+			"title": "The Hidden Life of Trees",
+			"url": "https://www.audible.com/pd/The-Hidden-Life-of-Trees-Audiobook/B01KMNFUIQ"
+		},
+		{
+			"asin": "B06XV1PVF5",
+			"author": "Carl Sagan",
+			"cover_image": "https://m.media-amazon.com/images/I/51e91glnHUL._SL320_.jpg",
+			"description": "Cosmos is one of the bestselling science books of all time. In clear-eyed prose, Sagan reveals a jewel-like blue world inhabited by a life form that is just beginning to discover its own identity and to venture into the vast ocean of space....",
+			"length": "14 hrs and 31 mins",
+			"minutes": 871,
+			"narrated_by": "LeVar Burton, Seth MacFarlane, Neil deGrasse Tyson, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9585,
+				"performance": 8576,
+				"story": 8536
+			},
+			"series": "A Personal Voyage",
+			"title": "Cosmos",
+			"url": "https://www.audible.com/pd/Cosmos-Audiobook/B06XV1PVF5"
+		},
+		{
+			"asin": "B0D9PK74BW",
+			"author": "Steven R. Gundry MD",
+			"cover_image": "https://m.media-amazon.com/images/I/41yBQvDzl3L._SL320_.jpg",
+			"description": "Dr. Steven R. Gundry, the author of the groundbreaking Plant Paradox series, shares compelling evidence that our gut microbiome is driving our thoughts, feelings, behaviors, and our mental, emotional, and neuronal health—and shows us how to heal our microbiomes to take back control of our minds.",
+			"length": "6 hrs and 39 mins",
+			"minutes": 399,
+			"narrated_by": "Steven R. Gundry MD",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 18,
+				"performance": 16,
+				"story": 16
+			},
+			"series": "Improve Your Mood, Clear Brain Fog, and Reverse Disease by Healing Your Microbiome",
+			"title": "The Gut-Brain Paradox",
+			"url": "https://www.audible.com/pd/The-Gut-Brain-Paradox-Audiobook/B0D9PK74BW"
+		},
+		{
+			"asin": "0063014866",
+			"author": "Dr. Nate Zinsser",
+			"cover_image": "https://m.media-amazon.com/images/I/51TCXHG3RJL._SL320_.jpg",
+			"description": "Dr. Nate Zinsser has spent his career training the minds of the U.S. Military Academy’s cadets as they prepare to lead and perform when the stakes are the very highest—on the battlefield....",
+			"length": "10 hrs and 34 mins",
+			"minutes": 634,
+			"narrated_by": "Qarie Marshall",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 564,
+				"performance": 485,
+				"story": 484
+			},
+			"series": "A Battle-Tested Guide to Unshakable Performance",
+			"title": "The Confident Mind",
+			"url": "https://www.audible.com/pd/The-Confident-Mind-Audiobook/0063014866"
+		},
+		{
+			"asin": "0593213564",
+			"author": "Chuck Yeager",
+			"cover_image": "https://m.media-amazon.com/images/I/31b+f0lu3tL._SL320_.jpg",
+			"description": "General Chuck Yeager was the greatest test pilot of them all - the first man to fly faster than the speed of sound....",
+			"length": "14 hrs and 23 mins",
+			"minutes": 863,
+			"narrated_by": "Chris Browning, Pamela Dillman, David Stifel, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1383,
+				"performance": 1231,
+				"story": 1223
+			},
+			"series": "An Autobiography",
+			"title": "Yeager",
+			"url": "https://www.audible.com/pd/Yeager-Audiobook/0593213564"
+		},
+		{
+			"asin": "B00DICF4B2",
+			"author": "Thomas Campbell",
+			"cover_image": "https://m.media-amazon.com/images/I/61zw6vULxYL._SL320_.jpg",
+			"description": null,
+			"length": "11 hrs and 11 mins",
+			"minutes": 671,
+			"narrated_by": "Thomas Campbell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 562,
+				"performance": 490,
+				"story": 485
+			},
+			"series": "Book One of a Trilogy Unifying Philosophy, Physics, and Metaphysics",
+			"title": "My Big TOE: Awakening",
+			"url": "https://www.audible.com/pd/My-Big-TOE-Awakening-Audiobook/B00DICF4B2"
+		},
+		{
+			"asin": "B06XTZZLZ8",
+			"author": "Carl Sagan",
+			"cover_image": "https://m.media-amazon.com/images/I/51cSqb2gqLL._SL320_.jpg",
+			"description": "How can we make intelligent decisions about our increasingly technology-driven lives if we don’t understand the difference between the myths of pseudoscience and the testable hypotheses of science? Find out....",
+			"length": "17 hrs and 23 mins",
+			"minutes": 1043,
+			"narrated_by": "Cary Elwes, Seth MacFarlane",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5483,
+				"performance": 4813,
+				"story": 4782
+			},
+			"series": "Science as a Candle in the Dark",
+			"title": "The Demon-Haunted World",
+			"url": "https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8"
+		},
+		{
+			"asin": "B0CJWFMZDS",
+			"author": "Zoë Schlanger",
+			"cover_image": "https://m.media-amazon.com/images/I/41zOcvBc+lL._SL320_.jpg",
+			"description": "Award-winning Atlantic staff writer Zoë Schlanger delivers a groundbreaking work of popular science that probes the hidden world of the plant kingdom....",
+			"length": "10 hrs and 56 mins",
+			"minutes": 656,
+			"narrated_by": "Zoë Schlanger",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 451,
+				"performance": 411,
+				"story": 411
+			},
+			"series": "How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth",
+			"title": "The Light Eaters",
+			"url": "https://www.audible.com/pd/The-Light-Eaters-Audiobook/B0CJWFMZDS"
+		},
+		{
+			"asin": "B01NA0TG25",
+			"author": "Lisa Feldman Barrett",
+			"cover_image": "https://m.media-amazon.com/images/I/516v4sNFINL._SL320_.jpg",
+			"description": "The science of emotion is in the midst of a revolution on par with the discovery of relativity in physics and natural selection in biology....",
+			"length": "14 hrs and 32 mins",
+			"minutes": 872,
+			"narrated_by": "Cassandra Campbell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2527,
+				"performance": 2150,
+				"story": 2134
+			},
+			"series": "The Secret Life of the Brain",
+			"title": "How Emotions Are Made",
+			"url": "https://www.audible.com/pd/How-Emotions-Are-Made-Audiobook/B01NA0TG25"
+		},
+		{
+			"asin": "B002V0PYYE",
+			"author": "Kai Bird, Martin J. Sherwin",
+			"cover_image": "https://m.media-amazon.com/images/I/51l2+xNLv7L._SL320_.jpg",
+			"description": null,
+			"length": "26 hrs and 30 mins",
+			"minutes": 1590,
+			"narrated_by": "Jeff Cummings",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4800,
+				"performance": 3850,
+				"story": 3861
+			},
+			"series": "The Triumph and Tragedy of J. Robert Oppenheimer",
+			"title": "American Prometheus",
+			"url": "https://www.audible.com/pd/American-Prometheus-Audiobook/B002V0PYYE"
+		},
+		{
+			"asin": "B0BFC77DJF",
+			"author": "Christopher M. Palmer MD",
+			"cover_image": "https://m.media-amazon.com/images/I/51EcMEkt5wL._SL320_.jpg",
+			"description": "This is the book that will forever change the way we understand and treat mental health. If you or someone you love is affected by mental illness, it might change your life....",
+			"length": "12 hrs and 18 mins",
+			"minutes": 738,
+			"narrated_by": "Christopher M. Palmer MD",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1234,
+				"performance": 1083,
+				"story": 1079
+			},
+			"series": "A Revolutionary Breakthrough in Understanding Mental Health—and Improving Treatment for Anxiety, Depression, OCD, PTSD, and More",
+			"title": "Brain Energy",
+			"url": "https://www.audible.com/pd/Brain-Energy-Audiobook/B0BFC77DJF"
+		},
+		{
+			"asin": "B07HRYH8QZ",
+			"author": "Daniel Z. Lieberman MD, Michael E. Long",
+			"cover_image": "https://m.media-amazon.com/images/I/41rju8FkUFL._SL320_.jpg",
+			"description": "Why is addiction “perfectly logical” to an addict? The answer is found in a single chemical in your brain: dopamine. Dopamine ensured the survival of early man. Thousands of years later, it is the source of our most basic behaviors and cultural ideas - and progress itself....",
+			"length": "8 hrs and 13 mins",
+			"minutes": 493,
+			"narrated_by": "Tom Parks",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2842,
+				"performance": 2410,
+				"story": 2390
+			},
+			"series": "How a Single Chemical in Your Brain Drives Love, Sex, and Creativity - And Will Determine the Fate of the Human Race",
+			"title": "The Molecule of More",
+			"url": "https://www.audible.com/pd/The-Molecule-of-More-Audiobook/B07HRYH8QZ"
+		},
+		{
+			"asin": "B08VLGDK32",
+			"author": "Martin Kleppmann",
+			"cover_image": "https://m.media-amazon.com/images/I/512ESwpmobL._SL320_.jpg",
+			"description": "Author Martin Kleppmann helps you navigate the diverse data landscape by examining the pros and cons of various technologies for processing and storing data....",
+			"length": "20 hrs and 56 mins",
+			"minutes": 1256,
+			"narrated_by": "Benjamin Lange",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 452,
+				"performance": 329,
+				"story": 326
+			},
+			"series": "The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+			"title": "Designing Data-Intensive Applications",
+			"url": "https://www.audible.com/pd/Designing-Data-Intensive-Applications-Audiobook/B08VLGDK32"
+		},
+		{
+			"asin": "0062946269",
+			"author": "Mary-Frances O'Connor",
+			"cover_image": "https://m.media-amazon.com/images/I/518+3jte94L._SL320_.jpg",
+			"description": "Based on O’Connor’s own trailblazing neuroimaging work, research in the field, and her real-life stories, The Grieving Brain combines storytelling, accessible science, and practical knowledge that will help us better understand what happens when we grieve and how to navigate loss with more ease....",
+			"length": "8 hrs and 1 min",
+			"minutes": 481,
+			"narrated_by": "Callie Beaulieu",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 309,
+				"performance": 266,
+				"story": 261
+			},
+			"series": "The Surprising Science of How We Learn from Love and Loss",
+			"title": "The Grieving Brain",
+			"url": "https://www.audible.com/pd/The-Grieving-Brain-Audiobook/0062946269"
+		},
+		{
+			"asin": "B096WDMB3M",
+			"author": "Mark Sloan",
+			"cover_image": "https://m.media-amazon.com/images/I/519rEju75XS._SL320_.jpg",
+			"description": "Methylene Blue is your ultimate guide for understanding what disease is, what disease isn’t, and how to use methylene blue to dramatically enhance your health and quality of life....",
+			"length": "3 hrs and 49 mins",
+			"minutes": 229,
+			"narrated_by": "Graham Dunlop",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 496,
+				"performance": 462,
+				"story": 459
+			},
+			"series": "Remarkable Hope for Depression, COVID, AIDS & Other Viruses, Alzheimer’s, Autism, Cancer, Heart Disease, Cognitive Enhancement, Pain",
+			"title": "The Ultimate Guide to Methylene Blue",
+			"url": "https://www.audible.com/pd/The-Ultimate-Guide-to-Methylene-Blue-Audiobook/B096WDMB3M"
+		},
+		{
+			"asin": "0593150953",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/51RU-740bwL._SL320_.jpg",
+			"description": "Both a captivating narrative and a book of environmental and historical significance, American Buffalo tells us as much about ourselves as Americans as it does about the creature who perhaps best of all embodies the American ethos....",
+			"length": "7 hrs and 42 mins",
+			"minutes": 462,
+			"narrated_by": "Steven Rinella",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 10315,
+				"performance": 9140,
+				"story": 9096
+			},
+			"series": "In Search of a Lost Icon",
+			"title": "American Buffalo",
+			"url": "https://www.audible.com/pd/American-Buffalo-Audiobook/0593150953"
+		}
+	],
+	"category": {
+		"href": "/cat/Science-Engineering-Audiobooks/18580540011",
+		"title": "Science & Engineering"
+	}
+}

@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B00WYDJ2YQ",
+			"author": "Robert Greene",
+			"cover_image": "https://m.media-amazon.com/images/I/41dTDMW9IhL._SL320_.jpg",
+			"description": null,
+			"length": "23 hrs and 6 mins",
+			"minutes": 1386,
+			"narrated_by": "Richard Poe",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 25316,
+				"performance": 21027,
+				"story": 20905
+			},
+			"series": "By:\n                        Robert Greene",
+			"title": "48 Laws of Power",
+			"url": "https://www.audible.com/pd/48-Laws-of-Power-Audiobook/B00WYDJ2YQ"
+		},
+		{
+			"asin": "B015TVHUA2",
+			"author": "Jocko Willink, Leif Babin",
+			"cover_image": "https://m.media-amazon.com/images/I/41IO3eCc9hL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 33 mins",
+			"minutes": 573,
+			"narrated_by": "Jocko Willink, Leif Babin",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 75826,
+				"performance": 66035,
+				"story": 65728
+			},
+			"series": "How U.S. Navy SEALs Lead and Win",
+			"title": "Extreme Ownership",
+			"url": "https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2"
+		},
+		{
+			"asin": "0063097710",
+			"author": "Eddie Jaku",
+			"cover_image": "https://m.media-amazon.com/images/I/51+CSutjrJS._SL320_.jpg",
+			"description": "",
+			"length": "3 hrs and 47 mins",
+			"minutes": 227,
+			"narrated_by": "Raphael Corkhill",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2573,
+				"performance": 2333,
+				"story": 2331
+			},
+			"series": "The Beautiful Life of an Auschwitz Survivor",
+			"title": "The Happiest Man on Earth",
+			"url": "https://www.audible.com/pd/The-Happiest-Man-on-Earth-Audiobook/0063097710"
+		},
+		{
+			"asin": "B002UUKHII",
+			"author": "Robert Greene",
+			"cover_image": "https://m.media-amazon.com/images/I/41pjoMsqWUL._SL320_.jpg",
+			"description": "When raised to the level of art, seduction, an indirect and subtle form of power....",
+			"length": "5 hrs and 9 mins",
+			"minutes": 309,
+			"narrated_by": "Jeff David",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5859,
+				"performance": 4464,
+				"story": 4450
+			},
+			"series": "An Indispensible Primer on the Ultimate Form of Power",
+			"title": "The Art of Seduction",
+			"url": "https://www.audible.com/pd/The-Art-of-Seduction-Audiobook/B002UUKHII"
+		},
+		{
+			"asin": "B0030H777E",
+			"author": "Howard Zinn",
+			"cover_image": "https://m.media-amazon.com/images/I/51Lh6lrvZrL._SL320_.jpg",
+			"description": "For much of his life, historian Howard Zinn chronicled American history from the bottom up, throwing out the official version taught in schools - with its emphasis on great men in high places - to focus on the street, the home, and the workplace....",
+			"length": "34 hrs and 8 mins",
+			"minutes": 2048,
+			"narrated_by": "Jeff Zinn",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9352,
+				"performance": 7895,
+				"story": 7910
+			},
+			"series": "By:\n                        Howard Zinn",
+			"title": "A People's History of the United States",
+			"url": "https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B0030H777E"
+		},
+		{
+			"asin": "B074G6D8K4",
+			"author": "Geoffrey C. Ward, Ken Burns",
+			"cover_image": "https://m.media-amazon.com/images/I/51zhXS7YEdL._SL320_.jpg",
+			"description": null,
+			"length": "31 hrs and 15 mins",
+			"minutes": 1875,
+			"narrated_by": "Fred Sanders, Ken Burns, Brian Corrigan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1221,
+				"performance": 1098,
+				"story": 1093
+			},
+			"series": "An Intimate History",
+			"title": "The Vietnam War",
+			"url": "https://www.audible.com/pd/The-Vietnam-War-Audiobook/B074G6D8K4"
+		},
+		{
+			"asin": "B0DSXX4G3B",
+			"author": "Doron Spielman",
+			"cover_image": "https://m.media-amazon.com/images/I/51pYXwn8ksL._SL320_.jpg",
+			"description": "This is the untold story of the rediscovery of the ancient City of David in Jerusalem and the powerful evidence that proves the Jewish people’s historical and indigenous connection to the Holy Land.",
+			"length": "7 hrs and 57 mins",
+			"minutes": 477,
+			"narrated_by": "Doron Spielman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6,
+				"performance": 6,
+				"story": 6
+			},
+			"series": "The Remarkable Discovery of the City of David and What Israel's Enemies Don't Want You to Know",
+			"title": "When the Stones Speak",
+			"url": "https://www.audible.com/pd/When-the-Stones-Speak-Audiobook/B0DSXX4G3B"
+		},
+		{
+			"asin": "B01H478VR0",
+			"author": "Robin Wall Kimmerer",
+			"cover_image": "https://m.media-amazon.com/images/I/61nD2KiCA5L._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 44 mins",
+			"minutes": 1004,
+			"narrated_by": "Robin Wall Kimmerer",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11534,
+				"performance": 10009,
+				"story": 9983
+			},
+			"series": "Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+			"title": "Braiding Sweetgrass",
+			"url": "https://www.audible.com/pd/Braiding-Sweetgrass-Audiobook/B01H478VR0"
+		},
+		{
+			"asin": "035857840X",
+			"author": "Michael Harriot",
+			"cover_image": "https://m.media-amazon.com/images/I/516AI44-bLL._SL320_.jpg",
+			"description": "From acclaimed columnist and political commentator Michael Harriot comes a searingly smart and bitingly hilarious retelling of American history that corrects the record and showcases the perspectives and experiences of Black Americans....",
+			"length": "15 hrs and 42 mins",
+			"minutes": 942,
+			"narrated_by": "Michael Harriot",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1359,
+				"performance": 1260,
+				"story": 1260
+			},
+			"series": "The Un-Whitewashed Story of America",
+			"title": "Black AF History",
+			"url": "https://www.audible.com/pd/Black-AF-History-Audiobook/035857840X"
+		},
+		{
+			"asin": "B013KRSIVC",
+			"author": "The Great Courses, Grant L. Voth, Julius H. Bailey, and others",
+			"cover_image": "https://m.media-amazon.com/images/I/619WeRKZrgL._SL320_.jpg",
+			"description": null,
+			"length": "31 hrs and 36 mins",
+			"minutes": 1896,
+			"narrated_by": "Grant L. Voth, Julius H. Bailey, Kathryn McClymond, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3225,
+				"performance": 2789,
+				"story": 2764
+			},
+			"series": "By:\n                        The Great Courses, Grant L. Voth, Julius H. Bailey, and others",
+			"title": "Great Mythologies of the World",
+			"url": "https://www.audible.com/pd/Great-Mythologies-of-the-World-Audiobook/B013KRSIVC"
+		},
+		{
+			"asin": "B0DN7R1BLY",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/512Go2xqcfL._SL320_.jpg",
+			"description": "From the creators of the New York Times bestselling audio series Campfire Stories and MeatEater’s American History comes a new audiobook original that plunges listeners into the untamed world of a celebrated and misunderstood group of nineteenth-century outdoorsmen: the Mountain Men.",
+			"length": "7 hrs and 32 mins",
+			"minutes": 452,
+			"narrated_by": "Steven Rinella",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 429,
+				"performance": 419,
+				"story": 419
+			},
+			"series": "The Mountain Men (1806-1840)",
+			"title": "MeatEater's American History",
+			"url": "https://www.audible.com/pd/MeatEaters-American-History-Audiobook/B0DN7R1BLY"
+		},
+		{
+			"asin": "B0DCGKPXC7",
+			"author": "Rick Atkinson",
+			"cover_image": "https://m.media-amazon.com/images/I/51RbLinxblL._SL320_.jpg",
+			"description": "In the second volume of the landmark American Revolution trilogy by the Pulitzer Prize-winning and #1 New York Times bestselling author of The British Are Coming, George Washington’s army fights on the knife edge between victory and defeat.",
+			"length": "32 hrs and 26 mins",
+			"minutes": 1946,
+			"narrated_by": "Grover Gardner, Rick Atkinson",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 16,
+				"performance": 14,
+				"story": 14
+			},
+			"series": "The War for America, Fort Ticonderoga to Charleston, 1777-1780",
+			"title": "The Fate of the Day",
+			"url": "https://www.audible.com/pd/The-Fate-of-the-Day-Audiobook/B0DCGKPXC7"
+		},
+		{
+			"asin": "B0CYJ2GPLM",
+			"author": "Matthew Gabriele, David M. Perry",
+			"cover_image": "https://m.media-amazon.com/images/I/512zSuuLVsL._SL320_.jpg",
+			"description": "The authors of The Bright Ages return with a real-life Game of Thrones—the story of the Carolingian Civil War, a bloody, protracted battle pitting brother against brother, father against son, that would end an empire, upend a continent, and redefine the future of Europe.",
+			"length": "9 hrs and 48 mins",
+			"minutes": 588,
+			"narrated_by": "Paul Bellantoni",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 40,
+				"performance": 36,
+				"story": 36
+			},
+			"series": "The War of Brothers That Shattered an Empire and Made Medieval Europe",
+			"title": "Oathbreakers",
+			"url": "https://www.audible.com/pd/Oathbreakers-Audiobook/B0CYJ2GPLM"
+		},
+		{
+			"asin": "B003VWJAPA",
+			"author": "William L. Shirer",
+			"cover_image": "https://m.media-amazon.com/images/I/41xUCdXH3SL._SL320_.jpg",
+			"description": null,
+			"length": "57 hrs and 11 mins",
+			"minutes": 3431,
+			"narrated_by": "Grover Gardner",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 18203,
+				"performance": 15726,
+				"story": 15659
+			},
+			"series": "A History of Nazi Germany",
+			"title": "The Rise and Fall of the Third Reich",
+			"url": "https://www.audible.com/pd/The-Rise-and-Fall-of-the-Third-Reich-Audiobook/B003VWJAPA"
+		},
+		{
+			"asin": "B07KRH55ZG",
+			"author": "Rick Atkinson",
+			"cover_image": "https://m.media-amazon.com/images/I/51iw74UQRXS._SL320_.jpg",
+			"description": "Rick Atkinson recounts the first 21 months of America’s violent war for independence, from the battles at Lexington and Concord in spring 1775 to those at Trenton and Princeton in winter 1777....",
+			"length": "26 hrs and 8 mins",
+			"minutes": 1568,
+			"narrated_by": "George Newbern, Rick Atkinson - introduction",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1543,
+				"performance": 1336,
+				"story": 1324
+			},
+			"series": "The War for America, Lexington to Princeton, 1775-1777 (The Revolution Trilogy, Book 1)",
+			"title": "The British Are Coming",
+			"url": "https://www.audible.com/pd/The-British-Are-Coming-Audiobook/B07KRH55ZG"
+		},
+		{
+			"asin": "B004G7VN04",
+			"author": "Jared Diamond",
+			"cover_image": "https://m.media-amazon.com/images/I/51Oi+FcrkKL._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 20 mins",
+			"minutes": 980,
+			"narrated_by": "Doug Ordunio",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12451,
+				"performance": 10463,
+				"story": 10419
+			},
+			"series": "The Fate of Human Societies",
+			"title": "Guns, Germs and Steel",
+			"url": "https://www.audible.com/pd/Guns-Germs-and-Steel-Audiobook/B004G7VN04"
+		},
+		{
+			"asin": "B07DQTBPX5",
+			"author": "David W. Blight",
+			"cover_image": "https://m.media-amazon.com/images/I/51aK7uykaLL._SL320_.jpg",
+			"description": "The definitive, dramatic biography of the most important African American of the 19th century: Frederick Douglass, the escaped slave who became the greatest orator of his day and one of the leading abolitionists and writers of the era....",
+			"length": "36 hrs and 57 mins",
+			"minutes": 2217,
+			"narrated_by": "Prentice Onayemi",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2574,
+				"performance": 2300,
+				"story": 2287
+			},
+			"series": "Prophet of Freedom",
+			"title": "Frederick Douglass",
+			"url": "https://www.audible.com/pd/Frederick-Douglass-Audiobook/B07DQTBPX5"
+		},
+		{
+			"asin": "B002V9ZA6C",
+			"author": "Alfred Lansing",
+			"cover_image": "https://m.media-amazon.com/images/I/51nrojPPaOL._SL320_.jpg",
+			"description": "In August of 1914, the British ship Endurance set sail for the South Atlantic. In October 1915, still half a continent away from its intended base, the ship was trapped, then crushed in the ice",
+			"length": "10 hrs and 21 mins",
+			"minutes": 621,
+			"narrated_by": "Simon Prebble",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 26298,
+				"performance": 23294,
+				"story": 23253
+			},
+			"series": "Shackleton's Incredible Voyage",
+			"title": "Endurance",
+			"url": "https://www.audible.com/pd/Endurance-Audiobook/B002V9ZA6C"
+		},
+		{
+			"asin": "B00FDUJBUC",
+			"author": "Niccolo Machiavelli",
+			"cover_image": "https://m.media-amazon.com/images/I/613LNsmkcIL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 47 mins",
+			"minutes": 287,
+			"narrated_by": "Grover Gardner",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5114,
+				"performance": 4372,
+				"story": 4347
+			},
+			"series": "By:\n                        Niccolo Machiavelli",
+			"title": "The Prince",
+			"url": "https://www.audible.com/pd/The-Prince-Audiobook/B00FDUJBUC"
+		},
+		{
+			"asin": "1797115782",
+			"author": "Ray Dalio",
+			"cover_image": "https://m.media-amazon.com/images/I/41WQsvi-90L._SL320_.jpg",
+			"description": "Principles for Dealing with the Changing World Order examines history’s most turbulent economic and political periods to reveal why the times ahead will likely be radically different from those we’ve experienced in our lifetimes....",
+			"length": "16 hrs and 48 mins",
+			"minutes": 1008,
+			"narrated_by": "Jeremy Bobb, Ray Dalio",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4999,
+				"performance": 4166,
+				"story": 4142
+			},
+			"series": "Why Nations Succeed or Fail",
+			"title": "Principles for Dealing with the Changing World Order",
+			"url": "https://www.audible.com/pd/Principles-for-Dealing-with-the-Changing-World-Order-Audiobook/1797115782"
+		},
+		{
+			"asin": "B0CW7KJ9M5",
+			"author": "Bill O'Reilly, Martin Dugard",
+			"cover_image": "https://m.media-amazon.com/images/I/51H5xO1cQ1L._SL320_.jpg",
+			"description": "Authors of the acclaimed Killing books, the #1 bestselling narrative history series in the world, Bill O’Reilly and Martin Dugard begin a new direction with Confronting the Presidents.",
+			"length": "16 hrs and 26 mins",
+			"minutes": 986,
+			"narrated_by": "Robert Petkoff",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1037,
+				"performance": 969,
+				"story": 969
+			},
+			"series": "No Spin Assessments from Washington to Biden",
+			"title": "Confronting the Presidents",
+			"url": "https://www.audible.com/pd/Confronting-the-Presidents-Audiobook/B0CW7KJ9M5"
+		},
+		{
+			"asin": "B002V8KPWW",
+			"author": "Elie Wiesel",
+			"cover_image": "https://m.media-amazon.com/images/I/41FJxRC6u2L._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 17 mins",
+			"minutes": 257,
+			"narrated_by": "George Guidall",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 10884,
+				"performance": 8555,
+				"story": 8561
+			},
+			"series": "By:\n                        Elie Wiesel",
+			"title": "Night",
+			"url": "https://www.audible.com/pd/Night-Audiobook/B002V8KPWW"
+		},
+		{
+			"asin": "B084YVRDJX",
+			"author": "Malcolm X, Alex Haley",
+			"cover_image": "https://m.media-amazon.com/images/I/51OgbwpJPlL._SL320_.jpg",
+			"description": "In this searing classic autobiography, originally published in 1965, Malcolm X, the Muslim leader, firebrand, and Black empowerment activist, tells the extraordinary story of his life and the growth of the Human Rights movement....",
+			"length": "16 hrs and 52 mins",
+			"minutes": 1012,
+			"narrated_by": "Laurence Fishburne",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12819,
+				"performance": 11416,
+				"story": 11357
+			},
+			"series": "As Told to Alex Haley",
+			"title": "The Autobiography of Malcolm X",
+			"url": "https://www.audible.com/pd/The-Autobiography-of-Malcolm-X-Audiobook/B084YVRDJX"
+		},
+		{
+			"asin": "B007IKV2P2",
+			"author": "Stephen E. Ambrose",
+			"cover_image": "https://m.media-amazon.com/images/I/51WJXoO-ElL._SL320_.jpg",
+			"description": null,
+			"length": "12 hrs and 37 mins",
+			"minutes": 757,
+			"narrated_by": "Tim Jerome",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11071,
+				"performance": 9868,
+				"story": 9847
+			},
+			"series": "E Company, 506th Regiment, 101st Airborne, from Normandy to Hitler's Eagle's Nest",
+			"title": "Band of Brothers",
+			"url": "https://www.audible.com/pd/Band-of-Brothers-Audiobook/B007IKV2P2"
+		},
+		{
+			"asin": "B0F459G52G",
+			"author": "Princess Catherine Radziwill",
+			"cover_image": "https://m.media-amazon.com/images/I/51NUpK3UNiL._SL320_.jpg",
+			"description": "Princess Catherine Radziwill exposes Rasputin as a charlatan and pawn of Germany in this two-part analysis. Part one discusses the social and religious climate in Russia before WWI and analyzes the particular cultural situation that allowed Rasputin to gain influence.",
+			"length": "6 hrs and 46 mins",
+			"minutes": 406,
+			"narrated_by": "Tatiana Chichilla",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "By:\n                        Princess Catherine Radziwill",
+			"title": "Rasputin and the Russian Revolution",
+			"url": "https://www.audible.com/pd/Rasputin-and-the-Russian-Revolution-Audiobook/B0F459G52G"
+		},
+		{
+			"asin": "B0F45Q87X1",
+			"author": "Ivan Ray Tannehill",
+			"cover_image": "https://m.media-amazon.com/images/I/41OqF60KRNL._SL320_.jpg",
+			"description": "This is the lively account of the hair-raising experiences of the men who have probed by sea and air into the inner mysteries of the world’s most terrible storms.",
+			"length": "9 hrs and 11 mins",
+			"minutes": 551,
+			"narrated_by": "David Wales",
+			"ratings": {
+				"overall": "3 out of 5 stars",
+				"performance": "2 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1,
+				"performance": 1,
+				"story": 1
+			},
+			"series": "By:\n                        Ivan Ray Tannehill",
+			"title": "The Hurricane Hunters",
+			"url": "https://www.audible.com/pd/The-Hurricane-Hunters-Audiobook/B0F45Q87X1"
+		},
+		{
+			"asin": "0593417216",
+			"author": "Adam Tooze",
+			"cover_image": "https://m.media-amazon.com/images/I/518aVWJvmkL._SL320_.jpg",
+			"description": "An extraordinary mythology has grown up around the Third Reich that hovers over political and moral debate even today. Adam Tooze's controversial book challenges the conventional economic interpretations of that period....",
+			"length": "30 hrs and 19 mins",
+			"minutes": 1819,
+			"narrated_by": "Adam Tooze, Simon Vance",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 356,
+				"performance": 308,
+				"story": 306
+			},
+			"series": "The Making and Breaking of the Nazi Economy",
+			"title": "The Wages of Destruction",
+			"url": "https://www.audible.com/pd/The-Wages-of-Destruction-Audiobook/0593417216"
+		},
+		{
+			"asin": "B004VA8ZVQ",
+			"author": "Walter Isaacson",
+			"cover_image": "https://m.media-amazon.com/images/I/61zcpKItWZL._SL320_.jpg",
+			"description": null,
+			"length": "24 hrs and 40 mins",
+			"minutes": 1480,
+			"narrated_by": "Nelson Runger",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 8984,
+				"performance": 7876,
+				"story": 7843
+			},
+			"series": "By:\n                        Walter Isaacson",
+			"title": "Benjamin Franklin: An American Life",
+			"url": "https://www.audible.com/pd/Benjamin-Franklin-An-American-Life-Audiobook/B004VA8ZVQ"
+		},
+		{
+			"asin": "B0CR48RND2",
+			"author": "Sharon McMahon",
+			"cover_image": "https://m.media-amazon.com/images/I/41vOfv3+P9L._SL320_.jpg",
+			"description": "From America’s favorite government teacher, a “fascinating and fun” (Adam Grant) portrait of twelve ordinary Americans whose courage formed the character of our country.",
+			"length": "10 hrs and 13 mins",
+			"minutes": 613,
+			"narrated_by": "Sharon McMahon",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1164,
+				"performance": 1128,
+				"story": 1128
+			},
+			"series": "Twelve Unsung Americans Who Changed the Course of History, from the Founding to the Civil Rights Movement",
+			"title": "The Small and the Mighty",
+			"url": "https://www.audible.com/pd/The-Small-and-the-Mighty-Audiobook/B0CR48RND2"
+		},
+		{
+			"asin": "B0BYQ98SF3",
+			"author": "Whitney Alyse Webb",
+			"cover_image": "https://m.media-amazon.com/images/I/512GEjhqVnL._SL320_.jpg",
+			"description": "Volume one of One Nation Under Blackmail traces the origin of the network behind Jeffrey Epstein and his associates to the merging of organized crime and intelligence networks during World War II, following their most notable activities through the decades....",
+			"length": "18 hrs and 16 mins",
+			"minutes": 1096,
+			"narrated_by": "Grace Noble",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 389,
+				"performance": 335,
+				"story": 335
+			},
+			"series": "The Sordid Union Between Intelligence and Crime that Gave Rise to Jeffrey Epstein",
+			"title": "One Nation Under Blackmail, Vol. 1",
+			"url": "https://www.audible.com/pd/One-Nation-Under-Blackmail-Vol-1-Audiobook/B0BYQ98SF3"
+		}
+	],
+	"category": {
+		"href": "/cat/History-Audiobooks/18573518011",
+		"title": "History"
+	}
+}

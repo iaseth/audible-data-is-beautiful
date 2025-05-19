@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B005NCF7QC",
+			"author": "Mary Pope Osborne",
+			"cover_image": "https://m.media-amazon.com/images/I/61rq2zImUPL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 1 min",
+			"minutes": 361,
+			"narrated_by": "Mary Pope Osborne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2535,
+				"performance": 1860,
+				"story": 1859
+			},
+			"series": "By:\n                        Mary Pope Osborne",
+			"title": "Magic Tree House Collection: Books 1-8",
+			"url": "https://www.audible.com/pd/Magic-Tree-House-Collection-Books-1-8-Audiobook/B005NCF7QC"
+		},
+		{
+			"asin": "B06X9MXN32",
+			"author": "Neil deGrasse Tyson",
+			"cover_image": "https://m.media-amazon.com/images/I/615rdOyqZEL._SL320_.jpg",
+			"description": null,
+			"length": "3 hrs and 41 mins",
+			"minutes": 221,
+			"narrated_by": "Neil deGrasse Tyson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 38200,
+				"performance": 33500,
+				"story": 33218
+			},
+			"series": "By:\n                        Neil deGrasse Tyson",
+			"title": "Astrophysics for People in a Hurry",
+			"url": "https://www.audible.com/pd/Astrophysics-for-People-in-a-Hurry-Audiobook/B06X9MXN32"
+		},
+		{
+			"asin": "B07G1CYXZW",
+			"author": "Shannon Messenger",
+			"cover_image": "https://m.media-amazon.com/images/I/51QUQCod9YL._SL320_.jpg",
+			"description": "Twelve-year-old Sophie has never quite fit into her life. She’s skipped multiple grades and doesn’t really connect with the older kids at school, but she’s not comfortable with her family, either. The reason? Sophie’s a Telepath, someone who can read minds....",
+			"length": "12 hrs and 40 mins",
+			"minutes": 760,
+			"narrated_by": "Caitlin Kelly",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3250,
+				"performance": 2729,
+				"story": 2721
+			},
+			"series": "By:\n                        Shannon Messenger",
+			"title": "Keeper of the Lost Cities",
+			"url": "https://www.audible.com/pd/Keeper-of-the-Lost-Cities-Audiobook/B07G1CYXZW"
+		},
+		{
+			"asin": "B00T50R42I",
+			"author": "S. D. Smith",
+			"cover_image": "https://m.media-amazon.com/images/I/51aM9vLIQ3L._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 55 mins",
+			"minutes": 475,
+			"narrated_by": "Joel Clarkson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5294,
+				"performance": 4535,
+				"story": 4523
+			},
+			"series": "By:\n                        S. D. Smith",
+			"title": "The Green Ember",
+			"url": "https://www.audible.com/pd/The-Green-Ember-Audiobook/B00T50R42I"
+		},
+		{
+			"asin": "B09R5T87N2",
+			"author": "Gertrude Chandler Warner",
+			"cover_image": "https://m.media-amazon.com/images/I/51TlVzyBe+L._SL320_.jpg",
+			"description": "Three complete stories in one collection! This volume includes The Boxcar Children, Surprise Island, and The Yellow House Mystery....",
+			"length": "6 hrs and 58 mins",
+			"minutes": 418,
+			"narrated_by": "Tim Gregory, Aimee Lilly",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 250,
+				"performance": 170,
+				"story": 170
+			},
+			"series": "The Boxcar Children, Surprise Island, Yellow House Mystery",
+			"title": "The Boxcar Children Collection, Volume 1",
+			"url": "https://www.audible.com/pd/The-Boxcar-Children-Collection-Volume-1-Audiobook/B09R5T87N2"
+		},
+		{
+			"asin": "B0DX2M6DV7",
+			"author": "Johanna Spyri",
+			"cover_image": "https://m.media-amazon.com/images/I/31-vXLu0r2L._SL320_.jpg",
+			"description": "Johanna Spyri’s classic story of a 5 year old little Swiss orphan who is heartbroken when she must leave her beloved grandfather and their happy home in the mountains to go to school and to care for an invalid girl in the city. It was written as a book \"for children and those who love children.\"",
+			"length": "5 hrs and 29 mins",
+			"minutes": 329,
+			"narrated_by": "Phil Chenevert",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "By:\n                        Johanna Spyri",
+			"title": "Heidi",
+			"url": "https://www.audible.com/pd/Heidi-Audiobook/B0DX2M6DV7"
+		},
+		{
+			"asin": "B01N4S7VVP",
+			"author": "J.K. Rowling, Newt Scamander",
+			"cover_image": "https://m.media-amazon.com/images/I/51WZWQA42-L._SL320_.jpg",
+			"description": "An approved textbook at Hogwarts School of Witchcraft and Wizardry since its first publication, Fantastic Beasts and Where to Find Them is an indispensable guide to the magical beasts of the wizarding world....",
+			"length": "1 hr and 54 mins",
+			"minutes": 114,
+			"narrated_by": "Eddie Redmayne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 13005,
+				"performance": 11533,
+				"story": 11499
+			},
+			"series": "A Harry Potter Hogwarts Library Book",
+			"title": "Fantastic Beasts and Where to Find Them",
+			"url": "https://www.audible.com/pd/Fantastic-Beasts-and-Where-to-Find-Them-Audiobook/B01N4S7VVP"
+		},
+		{
+			"asin": "B002V1NHJ2",
+			"author": "C. S. Lewis",
+			"cover_image": "https://m.media-amazon.com/images/I/518I4D+fBgL._SL320_.jpg",
+			"description": "Four adventurous siblings—Peter, Susan, Edmund, and Lucy Pevensie—step through a wardrobe door and into the land of Narnia, a land frozen in eternal winter and enslaved by the power of the White Witch....",
+			"length": "4 hrs and 21 mins",
+			"minutes": 261,
+			"narrated_by": "Michael York",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17206,
+				"performance": 12664,
+				"story": 12713
+			},
+			"series": "The Chronicles of Narnia",
+			"title": "The Lion, the Witch, and the Wardrobe",
+			"url": "https://www.audible.com/pd/The-Lion-the-Witch-and-the-Wardrobe-Audiobook/B002V1NHJ2"
+		},
+		{
+			"asin": "B006LPK3WS",
+			"author": "Madeleine L'Engle",
+			"cover_image": "https://m.media-amazon.com/images/I/61Pl0vLNfDL._SL320_.jpg",
+			"description": "Meg Murry, her little brother Charles Wallace, and their mother are having a midnight snack on a dark and stormy night when an unearthly stranger appears at their door....",
+			"length": "6 hrs and 27 mins",
+			"minutes": 387,
+			"narrated_by": "Hope Davis, Ava DuVernay, Madeleine L'Engle, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 20253,
+				"performance": 17686,
+				"story": 17701
+			},
+			"series": "By:\n                        Madeleine L'Engle",
+			"title": "A Wrinkle in Time",
+			"url": "https://www.audible.com/pd/A-Wrinkle-in-Time-Audiobook/B006LPK3WS"
+		},
+		{
+			"asin": "1338722565",
+			"author": "Sarah Mlynowski, Lauren Myracle, Emily Jenkins",
+			"cover_image": "https://m.media-amazon.com/images/I/51qcjYkFX+L._SL320_.jpg",
+			"description": "For Nory and her friends in Dunwiddle Magic School’s Upside-Down Magic class, magic is amazing, unpredictable, and out of control....",
+			"length": "19 hrs and 20 mins",
+			"minutes": 1160,
+			"narrated_by": "Rebecca Soler",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 339,
+				"performance": 263,
+				"story": 263
+			},
+			"series": "By:\n                        Sarah Mlynowski, Lauren Myracle, Emily Jenkins",
+			"title": "The Upside-Down Magic Collection (Books 1-6)",
+			"url": "https://www.audible.com/pd/Upside-Down-Magic-Collection-Books-1-6-Audiobook/1338722565"
+		},
+		{
+			"asin": "B002VA8QE4",
+			"author": "Wilson Rawls",
+			"cover_image": "https://m.media-amazon.com/images/I/51LiBCJoJoL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 56 mins",
+			"minutes": 416,
+			"narrated_by": "Anthony Heald",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7787,
+				"performance": 6463,
+				"story": 6483
+			},
+			"series": "By:\n                        Wilson Rawls",
+			"title": "Where the Red Fern Grows",
+			"url": "https://www.audible.com/pd/Where-the-Red-Fern-Grows-Audiobook/B002VA8QE4"
+		},
+		{
+			"asin": "B00846MM62",
+			"author": "Tui T. Sutherland",
+			"cover_image": "https://m.media-amazon.com/images/I/51eUNaKdIAL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 32 mins",
+			"minutes": 512,
+			"narrated_by": "Shannon McManus",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2889,
+				"performance": 2160,
+				"story": 2159
+			},
+			"series": "Wings of Fire, Book #1",
+			"title": "The Dragonet Prophecy",
+			"url": "https://www.audible.com/pd/The-Dragonet-Prophecy-Audiobook/B00846MM62"
+		},
+		{
+			"asin": "B0CJFNKFHT",
+			"author": "L. Frank Baum",
+			"cover_image": "https://m.media-amazon.com/images/I/511sl9hIPzL._SL320_.jpg",
+			"description": "Here you will find the complete OZ Collection...",
+			"length": "64 hrs and 23 mins",
+			"minutes": 3863,
+			"narrated_by": "Charles Hubbell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 51,
+				"performance": 46,
+				"story": 46
+			},
+			"series": "By:\n                        L. Frank Baum",
+			"title": "Oz: The Complete Collection",
+			"url": "https://www.audible.com/pd/Oz-The-Complete-Collection-Audiobook/B0CJFNKFHT"
+		},
+		{
+			"asin": "B01MYA3PI5",
+			"author": "Laura Ingalls Wilder",
+			"cover_image": "https://m.media-amazon.com/images/I/61vGDoozYXL._SL320_.jpg",
+			"description": null,
+			"length": "3 hrs and 41 mins",
+			"minutes": 221,
+			"narrated_by": "Cherry Jones",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4280,
+				"performance": 3458,
+				"story": 3445
+			},
+			"series": "Little House, Book 1",
+			"title": "Little House in the Big Woods",
+			"url": "https://www.audible.com/pd/Little-House-in-the-Big-Woods-Audiobook/B01MYA3PI5"
+		},
+		{
+			"asin": "B002V5BOV6",
+			"author": "Lois Lowry",
+			"cover_image": "https://m.media-amazon.com/images/I/51LCU-JANQL._SL320_.jpg",
+			"description": null,
+			"length": "2 hrs and 45 mins",
+			"minutes": 165,
+			"narrated_by": "Blair Brown",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4048,
+				"performance": 3121,
+				"story": 3134
+			},
+			"series": "By:\n                        Lois Lowry",
+			"title": "Number the Stars",
+			"url": "https://www.audible.com/pd/Number-the-Stars-Audiobook/B002V5BOV6"
+		},
+		{
+			"asin": "B00CXXEX8W",
+			"author": "Brandon Mull",
+			"cover_image": "https://m.media-amazon.com/images/I/611m8G-768L._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 13 mins",
+			"minutes": 553,
+			"narrated_by": "E. B. Stevens",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5859,
+				"performance": 5107,
+				"story": 5126
+			},
+			"series": "By:\n                        Brandon Mull",
+			"title": "Fablehaven, Book 1",
+			"url": "https://www.audible.com/pd/Fablehaven-Book-1-Audiobook/B00CXXEX8W"
+		},
+		{
+			"asin": "B0CTL1CWR5",
+			"author": "Susan Wise Bauer",
+			"cover_image": "https://m.media-amazon.com/images/I/41HINS0oRgL._SL320_.jpg",
+			"description": "Spend an entire year investigating the fascinating story of the modern world, from the American Civil War through the end of the twentieth century—from Europe and the Middle East through India, China, the Arabian Peninsula, Australia, and both North and South America....",
+			"length": "12 hrs and 53 mins",
+			"minutes": 773,
+			"narrated_by": "Jim Weiss",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 32,
+				"performance": 15,
+				"story": 15
+			},
+			"series": "History for the Classical Child: The Modern Age (Story of the World)",
+			"title": "Story of the World, Vol. 4 (Second Edition, Revised)",
+			"url": "https://www.audible.com/pd/Story-of-the-World-Vol-4-Second-Edition-Revised-Audiobook/B0CTL1CWR5"
+		},
+		{
+			"asin": "B0F5RQVH5K",
+			"author": "Sophie Brooks",
+			"cover_image": "https://m.media-amazon.com/images/I/51bYdUI3PGL._SL320_.jpg",
+			"description": "Bedtime is a time for comfort, relaxation, and storytelling. The Sleepy Fox and Other Bedtime Stories is a collection of gentle, heartwarming tales designed to help children unwind and drift into a peaceful sleep.",
+			"length": "10 hrs and 7 mins",
+			"minutes": 607,
+			"narrated_by": "Sophie Brooks",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "A Collection of Charming Short Tales for Happy Dreams",
+			"title": "The Sleepy Fox and Other Bedtime Stories",
+			"url": "https://www.audible.com/pd/The-Sleepy-Fox-and-Other-Bedtime-Stories-Audiobook/B0F5RQVH5K"
+		},
+		{
+			"asin": "B005IRGQ12",
+			"author": "Mary Pope Osborne",
+			"cover_image": "https://m.media-amazon.com/images/I/51XVgwR0u5L._SL320_.jpg",
+			"description": null,
+			"length": "5 hrs and 23 mins",
+			"minutes": 323,
+			"narrated_by": "Mary Pope Osborne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1646,
+				"performance": 1251,
+				"story": 1251
+			},
+			"series": "#9: Dolphins at Daybreak; #10: Ghost Town; #11: Lions; #12: Polar Bears Past Bedtime; #13: Volcano; #14: Dragon King; #15: Viking Ships; #16: Olympics",
+			"title": "Magic Tree House Collection: Books 9-16",
+			"url": "https://www.audible.com/pd/Magic-Tree-House-Collection-Books-9-16-Audiobook/B005IRGQ12"
+		},
+		{
+			"asin": "B077SMSD96",
+			"author": "Ellen Raskin",
+			"cover_image": "https://m.media-amazon.com/images/I/41Wl9UJzknL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 59 mins",
+			"minutes": 419,
+			"narrated_by": "Cassandra Campbell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1487,
+				"performance": 1206,
+				"story": 1210
+			},
+			"series": "By:\n                        Ellen Raskin",
+			"title": "The Westing Game",
+			"url": "https://www.audible.com/pd/The-Westing-Game-Audiobook/B077SMSD96"
+		},
+		{
+			"asin": "B0774X91WN",
+			"author": "Jean Craighead George",
+			"cover_image": "https://m.media-amazon.com/images/I/51TXYHg2dHL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 36 mins",
+			"minutes": 276,
+			"narrated_by": "Michael Crouch",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2033,
+				"performance": 1636,
+				"story": 1634
+			},
+			"series": "By:\n                        Jean Craighead George",
+			"title": "My Side of the Mountain",
+			"url": "https://www.audible.com/pd/My-Side-of-the-Mountain-Audiobook/B0774X91WN"
+		},
+		{
+			"asin": "B0735SQQWZ",
+			"author": "Erin Hunter",
+			"cover_image": "https://m.media-amazon.com/images/I/61wBm8RnmAL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 29 mins",
+			"minutes": 449,
+			"narrated_by": "MacLeod Andrews",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4382,
+				"performance": 3633,
+				"story": 3620
+			},
+			"series": "Warriors, Book 1",
+			"title": "Into the Wild",
+			"url": "https://www.audible.com/pd/Into-the-Wild-Audiobook/B0735SQQWZ"
+		},
+		{
+			"asin": "B0F8JFJQPS",
+			"author": "Hannah Everly",
+			"cover_image": "https://m.media-amazon.com/images/I/51ADxsZFG-L._SL320_.jpg",
+			"description": "End the day with love, comfort, and peaceful relaxation. Goodnight, Little One: Sweet Stories for a Restful Sleep is a collection of heartwarming bedtime stories designed to gently guide children into a peaceful and restful sleep.",
+			"length": "10 hrs and 32 mins",
+			"minutes": 632,
+			"narrated_by": "Hannah Everly",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "Sweet Stories for a Restful Sleep: Bedtime Stories Filled with Love, Warmth, and Dreamy Adventures",
+			"title": "Goodnight, Little One",
+			"url": "https://www.audible.com/pd/Goodnight-Little-One-Audiobook/B0F8JFJQPS"
+		},
+		{
+			"asin": "B002V1OPUM",
+			"author": "Jeanne DuPrau",
+			"cover_image": "https://m.media-amazon.com/images/I/41bDzVPTtuL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 50 mins",
+			"minutes": 410,
+			"narrated_by": "Wendy Dillon",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3141,
+				"performance": 2440,
+				"story": 2445
+			},
+			"series": "The First Book of Ember",
+			"title": "The City of Ember",
+			"url": "https://www.audible.com/pd/The-City-of-Ember-Audiobook/B002V1OPUM"
+		},
+		{
+			"asin": "B0F8F1MGT6",
+			"author": "Emma Harrington",
+			"cover_image": "https://m.media-amazon.com/images/I/51weYmSHrZL._SL320_.jpg",
+			"description": "Bedtime should be a time of calm, comfort, and imagination. Dreamland Tales is a collection of soothing bedtime stories designed to help children unwind, feel safe, and drift into a peaceful sleep.",
+			"length": "10 hrs and 7 mins",
+			"minutes": 607,
+			"narrated_by": "Emma Harrington",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "Enchanting Short Stories to Help Children Relax and Fall Asleep Peacefully",
+			"title": "Dreamland Tales: Magical Bedtime Stories for Kids",
+			"url": "https://www.audible.com/pd/Dreamland-Tales-Magical-Bedtime-Stories-for-Kids-Audiobook/B0F8F1MGT6"
+		},
+		{
+			"asin": "0593417518",
+			"author": "Eric Carle",
+			"cover_image": "https://m.media-amazon.com/images/I/41ISuU-peGL._SL320_.jpg",
+			"description": "Eric Carle's classic story begins one sunny Sunday, when the caterpillar was hatched out of a tiny egg. He was very hungry. On Monday, he ate through one apple; on Tuesday, he ate through three plums - and still he was hungry....",
+			"length": "8 mins",
+			"minutes": 8,
+			"narrated_by": "Kevin R. Free, Eric Carle",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 113,
+				"performance": 88,
+				"story": 88
+			},
+			"series": "By:\n                        Eric Carle",
+			"title": "The Very Hungry Caterpillar",
+			"url": "https://www.audible.com/pd/The-Very-Hungry-Caterpillar-Audiobook/0593417518"
+		},
+		{
+			"asin": "B09N18BFQ5",
+			"author": "Ted Dekker, Rachelle Dekker",
+			"cover_image": "https://m.media-amazon.com/images/I/51kYHC9xXfL._SL320_.jpg",
+			"description": "Enter the world of Millie Maven, a twelve-year-old orphan who embarks on a great adventure that takes her to the distant, mysterious world of FIGS, the FarPointe Institute for Gifted Students....",
+			"length": "11 hrs and 59 mins",
+			"minutes": 719,
+			"narrated_by": "Brittany Goodwin",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 269,
+				"performance": 236,
+				"story": 235
+			},
+			"series": "By:\n                        Ted Dekker, Rachelle Dekker",
+			"title": "The Millie Maven Trilogy",
+			"url": "https://www.audible.com/pd/The-Millie-Maven-Trilogy-Audiobook/B09N18BFQ5"
+		},
+		{
+			"asin": "B01N12SFSC",
+			"author": "Laura Ingalls Wilder",
+			"cover_image": "https://m.media-amazon.com/images/I/61HpwRVsvZL._SL320_.jpg",
+			"description": null,
+			"length": "5 hrs and 45 mins",
+			"minutes": 345,
+			"narrated_by": "Cherry Jones",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2430,
+				"performance": 1950,
+				"story": 1949
+			},
+			"series": "Little House, Book 3",
+			"title": "Little House on the Prairie",
+			"url": "https://www.audible.com/pd/Little-House-on-the-Prairie-Audiobook/B01N12SFSC"
+		},
+		{
+			"asin": "B0067QRF8Q",
+			"author": "Beverly Cleary, Tracy Dockray",
+			"cover_image": "https://m.media-amazon.com/images/I/611-I+l8GFL._SL320_.jpg",
+			"description": null,
+			"length": "18 hrs and 56 mins",
+			"minutes": 1136,
+			"narrated_by": "Stockard Channing",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4610,
+				"performance": 3663,
+				"story": 3663
+			},
+			"series": "By:\n                        Beverly Cleary, Tracy Dockray",
+			"title": "The Ramona Quimby Audio Collection",
+			"url": "https://www.audible.com/pd/The-Ramona-Quimby-Audio-Collection-Audiobook/B0067QRF8Q"
+		},
+		{
+			"asin": "B0CTL2VJK1",
+			"author": "Susan Wise Bauer",
+			"cover_image": "https://m.media-amazon.com/images/I/419uVas3lHL._SL320_.jpg",
+			"description": "Told in a straightforward, engaging style that has become Susan Wise Bauer's trademark, The Story of the World series covers the sweep of human history from ancient times until the present....",
+			"length": "8 hrs and 4 mins",
+			"minutes": 484,
+			"narrated_by": "Jim Weiss",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 69,
+				"performance": 41,
+				"story": 41
+			},
+			"series": "History for the Classical Child: Ancient Times (Second Edition, Revised) (Vol. 1) (Story of the World)",
+			"title": "Story of the World, Vol. 1",
+			"url": "https://www.audible.com/pd/Story-of-the-World-Vol-1-Audiobook/B0CTL2VJK1"
+		}
+	],
+	"category": {
+		"href": "/cat/Childrens-Audiobooks-Audiobooks/18572091011",
+		"title": "Children's Audiobooks"
+	}
+}

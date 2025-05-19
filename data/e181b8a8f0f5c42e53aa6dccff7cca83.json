@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B0D6P455PH",
+			"author": "Suzanne Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/41oFuJ88q6L._SL320_.jpg",
+			"description": "As the day dawns on the fiftieth annual Hunger Games, fear grips the districts of Panem. This year, in honor of the Quarter Quell, twice as many tributes will be taken from their homes.",
+			"length": "12 hrs and 48 mins",
+			"minutes": 768,
+			"narrated_by": "Jefferson White",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19444,
+				"performance": 19008,
+				"story": 19007
+			},
+			"series": "A Hunger Games Novel",
+			"title": "Sunrise on the Reaping",
+			"url": "https://www.audible.com/pd/Sunrise-on-the-Reaping-Audiobook/B0D6P455PH"
+		},
+		{
+			"asin": "B072BFQF1N",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/41vwVvKdxdL._SL320_.jpg",
+			"description": "Feyre has returned to the Spring Court, determined to gather information on Tamlin’s actions and learn what she can about the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit.",
+			"length": "25 hrs and 9 mins",
+			"minutes": 1509,
+			"narrated_by": "Amanda Leigh Cobb",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 42954,
+				"performance": 38677,
+				"story": 38636
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "A Court of Wings and Ruin",
+			"url": "https://www.audible.com/pd/A-Court-of-Wings-and-Ruin-Audiobook/B072BFQF1N"
+		},
+		{
+			"asin": "B012BTUEVC",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51e32+-DSML._SL320_.jpg",
+			"description": null,
+			"length": "20 hrs and 43 mins",
+			"minutes": 1243,
+			"narrated_by": "Elizabeth Evans",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19432,
+				"performance": 16887,
+				"story": 16852
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "Queen of Shadows",
+			"url": "https://www.audible.com/pd/Queen-of-Shadows-Audiobook/B012BTUEVC"
+		},
+		{
+			"asin": "B01KIQVHL6",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51EMceUgxFL._SL320_.jpg",
+			"description": null,
+			"length": "25 hrs and 18 mins",
+			"minutes": 1518,
+			"narrated_by": "Elizabeth Evans",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 29252,
+				"performance": 26591,
+				"story": 26552
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "Empire of Storms",
+			"url": "https://www.audible.com/pd/Empire-of-Storms-Audiobook/B01KIQVHL6"
+		},
+		{
+			"asin": "B0759X8K2X",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51JhJaNpMWL._SL320_.jpg",
+			"description": "Chaol Westfall has always defined himself by his unwavering loyalty, his strength, and his position as the captain of the Guard. But all of that has changed since the glass castle shattered....",
+			"length": "22 hrs and 39 mins",
+			"minutes": 1359,
+			"narrated_by": "Elizabeth Evans",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 24336,
+				"performance": 22053,
+				"story": 22007
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "Tower of Dawn",
+			"url": "https://www.audible.com/pd/Tower-of-Dawn-Audiobook/B0759X8K2X"
+		},
+		{
+			"asin": "1338635204",
+			"author": "Suzanne Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/61dpaAoU+KL._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 16 mins",
+			"minutes": 976,
+			"narrated_by": "Santino Fontana",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 33867,
+				"performance": 30126,
+				"story": 30079
+			},
+			"series": "A Hunger Games Novel",
+			"title": "The Ballad of Songbirds and Snakes",
+			"url": "https://www.audible.com/pd/The-Ballad-of-Songbirds-and-Snakes-Audiobook/1338635204"
+		},
+		{
+			"asin": "B07HHH7L77",
+			"author": "Suzanne Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/51vOc7NtICL._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 35 mins",
+			"minutes": 635,
+			"narrated_by": "Tatiana Maslany",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15347,
+				"performance": 13265,
+				"story": 13236
+			},
+			"series": "Hunger Games, Book One",
+			"title": "The Hunger Games",
+			"url": "https://www.audible.com/pd/The-Hunger-Games-Special-Edition-Audiobook/B07HHH7L77"
+		},
+		{
+			"asin": "1338589016",
+			"author": "Suzanne Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/510eSDc1hzL._SL320_.jpg",
+			"description": null,
+			"length": "11 hrs and 3 mins",
+			"minutes": 663,
+			"narrated_by": "Tatiana Maslany",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15074,
+				"performance": 13093,
+				"story": 13062
+			},
+			"series": "The Hunger Games, Book 2",
+			"title": "Catching Fire",
+			"url": "https://www.audible.com/pd/Catching-Fire-Audiobook/1338589016"
+		},
+		{
+			"asin": "1338589040",
+			"author": "Suzanne Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/51zXgw0QfGL._SL320_.jpg",
+			"description": "Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding....",
+			"length": "11 hrs and 19 mins",
+			"minutes": 679,
+			"narrated_by": "Tatiana Maslany",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15266,
+				"performance": 13445,
+				"story": 13390
+			},
+			"series": "The Hunger Games, Book 3",
+			"title": "Mockingjay",
+			"url": "https://www.audible.com/pd/Mockingjay-Audiobook/1338589040"
+		},
+		{
+			"asin": "B0DJWQC6D7",
+			"author": "Nick Clausen",
+			"cover_image": "https://m.media-amazon.com/images/I/51KLuuRrE+L._SL320_.jpg",
+			"description": "When two teenagers stumble upon a frozen corpse deep in the woods, they make the fateful decision to bring it back to town—unaware they’ve just unleashed the apocalypse.",
+			"length": "36 hrs and 54 mins",
+			"minutes": 2214,
+			"narrated_by": "Spencer Dillehay",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 311,
+				"performance": 305,
+				"story": 305
+			},
+			"series": "By:\n                        Nick Clausen",
+			"title": "Cadaver: The Complete Zombie Apocalypse Series",
+			"url": "https://www.audible.com/pd/Cadaver-The-Complete-Zombie-Apocalypse-Series-Audiobook/B0DJWQC6D7"
+		},
+		{
+			"asin": "B09WZF7395",
+			"author": "Jenny Han",
+			"cover_image": "https://m.media-amazon.com/images/I/41lpAGBdKkL._SL320_.jpg",
+			"description": "Belly has only ever been in love with two boys, both with the last name Fisher. And after being with Jeremiah for the last two years, she’s almost positive he is her soul mate. Almost....",
+			"length": "6 hrs and 3 mins",
+			"minutes": 363,
+			"narrated_by": "Lola Tung, Christopher Briney",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5330,
+				"performance": 4663,
+				"story": 4650
+			},
+			"series": "Summer I Turned Pretty, Book 3",
+			"title": "We’ll Always Have Summer",
+			"url": "https://www.audible.com/pd/Well-Always-Have-Summer-Audiobook/B09WZF7395"
+		},
+		{
+			"asin": "B09WPZ3K2B",
+			"author": "Jenny Han",
+			"cover_image": "https://m.media-amazon.com/images/I/51CPi20Qr-L._SL320_.jpg",
+			"description": "It used to be that Belly counted the days until summer, until she was back at Cousins Beach with Conrad and Jeremiah. But not this year. Not after Susannah got sick again and Conrad stopped caring....",
+			"length": "6 hrs and 7 mins",
+			"minutes": 367,
+			"narrated_by": "Lola Tung, Gavin Casalegno",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4537,
+				"performance": 3834,
+				"story": 3819
+			},
+			"series": "Summer I Turned Pretty, Book 2",
+			"title": "It’s Not Summer Without You",
+			"url": "https://www.audible.com/pd/Its-Not-Summer-Without-You-Audiobook/B09WPZ3K2B"
+		},
+		{
+			"asin": "B09NQLZ741",
+			"author": "Emma Glass",
+			"cover_image": "https://m.media-amazon.com/images/I/51s3QSnLa3L._SL320_.jpg",
+			"description": "Haunted by vivid nightmares, 17-year-old Clara Blackwell suffers a miserable and downtrodden life in Great Britain. When a simple act of kindness leads her astray, a chance encounter casts her across the dimensional barrier between worlds....",
+			"length": "69 hrs and 17 mins",
+			"minutes": 4157,
+			"narrated_by": "Rafe Beckley",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 882,
+				"performance": 825,
+				"story": 825
+			},
+			"series": "By:\n                        Emma Glass",
+			"title": "The Witch Between Worlds: 10 Book Epic Fantasy Box Set",
+			"url": "https://www.audible.com/pd/The-Witch-Between-Worlds-10-Book-Epic-Fantasy-Box-Set-Audiobook/B09NQLZ741"
+		},
+		{
+			"asin": "B0CMYST19Y",
+			"author": "Megan Lally",
+			"cover_image": "https://m.media-amazon.com/images/I/51juSdIcGfL._SL320_.jpg",
+			"description": "It was a mistake to trust him. Shivering and bruised, a teen wakes up on the side of a dirt road with no memory of how she got there—or who she is. The police don’t know where she came from until a frantic man arrives at the station....",
+			"length": "9 hrs and 1 min",
+			"minutes": 541,
+			"narrated_by": "Sophie Amoss, Robb Moreira",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2580,
+				"performance": 2468,
+				"story": 2468
+			},
+			"series": "By:\n                        Megan Lally",
+			"title": "That's Not My Name",
+			"url": "https://www.audible.com/pd/Thats-Not-My-Name-Audiobook/B0CMYST19Y"
+		},
+		{
+			"asin": "B08R7Z7TDR",
+			"author": "Caroline Peckham, Susanne Valenti",
+			"cover_image": "https://m.media-amazon.com/images/I/41ZwOpYRMhS._SL320_.jpg",
+			"description": "This is a reverse harem series set in the world of Zodiac Academy four years before the Vega Twins were awakened. Expect some character cross-over, dark and hot romance, and a twisted murder mystery which will leave your head spinning....",
+			"length": "14 hrs and 13 mins",
+			"minutes": 853,
+			"narrated_by": "Keira Stevens, Troy Duran",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3143,
+				"performance": 2870,
+				"story": 2867
+			},
+			"series": "Ruthless Boys of the Zodiac, Book 1",
+			"title": "Dark Fae",
+			"url": "https://www.audible.com/pd/Dark-Fae-Audiobook/B08R7Z7TDR"
+		},
+		{
+			"asin": "B0BX4KRJGZ",
+			"author": "J.M. Clarke",
+			"cover_image": "https://m.media-amazon.com/images/I/518pd0kM9+L._SL320_.jpg",
+			"description": "While war rages in Thameland, other battles begin. With his first year complete, Alex Roth has made a discovery that could change his kingdom forever....",
+			"length": "22 hrs and 51 mins",
+			"minutes": 1371,
+			"narrated_by": "Travis Baldree",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2980,
+				"performance": 2282,
+				"story": 2282
+			},
+			"series": "By:\n                        J.M. Clarke",
+			"title": "Mark of the Fool 3",
+			"url": "https://www.audible.com/pd/Mark-of-the-Fool-3-Audiobook/B0BX4KRJGZ"
+		},
+		{
+			"asin": "B002V0A444",
+			"author": "Christopher Paolini",
+			"cover_image": "https://m.media-amazon.com/images/I/51siq9Ad2iL._SL320_.jpg",
+			"description": "Oaths sworn...loyalties tested...forces collide. Eragon is the greatest hope to rid the land of tyranny. Can this once simple farm boy unite the rebel forces and defeat the king? Listen to find out more....",
+			"length": "29 hrs and 34 mins",
+			"minutes": 1774,
+			"narrated_by": "Gerard Doyle",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19750,
+				"performance": 15513,
+				"story": 15584
+			},
+			"series": "The Inheritance Cycle, Book 3",
+			"title": "Brisingr",
+			"url": "https://www.audible.com/pd/Brisingr-Audiobook/B002V0A444"
+		},
+		{
+			"asin": "B012BNY8RY",
+			"author": "Leigh Bardugo",
+			"cover_image": "https://m.media-amazon.com/images/I/61tuZtK6xoL._SL320_.jpg",
+			"description": null,
+			"length": "15 hrs and 4 mins",
+			"minutes": 904,
+			"narrated_by": "Jay Snyder, Brandon Rubin, Fred Berman, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 22169,
+				"performance": 19847,
+				"story": 19806
+			},
+			"series": "By:\n                        Leigh Bardugo",
+			"title": "Six of Crows",
+			"url": "https://www.audible.com/pd/Six-of-Crows-Audiobook/B012BNY8RY"
+		},
+		{
+			"asin": "B002UUQUB6",
+			"author": "Lois Lowry",
+			"cover_image": "https://m.media-amazon.com/images/I/51BU9DLDmyL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 47 mins",
+			"minutes": 287,
+			"narrated_by": "Ron Rifkin",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15031,
+				"performance": 12351,
+				"story": 12412
+			},
+			"series": "By:\n                        Lois Lowry",
+			"title": "The Giver",
+			"url": "https://www.audible.com/pd/The-Giver-Audiobook/B002UUQUB6"
+		},
+		{
+			"asin": "B0D85NRXSQ",
+			"author": "Alex Aster",
+			"cover_image": "https://m.media-amazon.com/images/I/41sTySvq9jL._SL320_.jpg",
+			"description": "Back in Grim’s castle on Nightshade, Isla is reeling in the wake of a brutal battle and the devastating truths it exposed. Her future—and the fate of the world—now hinge on a heart split in two.",
+			"length": "11 hrs and 37 mins",
+			"minutes": 697,
+			"narrated_by": "Suzy Jackson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1361,
+				"performance": 1310,
+				"story": 1310
+			},
+			"series": "The Lightlark Saga, Book 3",
+			"title": "Skyshade",
+			"url": "https://www.audible.com/pd/Skyshade-Audiobook/B0D85NRXSQ"
+		},
+		{
+			"asin": "B06XH4K2NB",
+			"author": "Neal Shusterman",
+			"cover_image": "https://m.media-amazon.com/images/I/51sTGoEfd+L._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 32 mins",
+			"minutes": 632,
+			"narrated_by": "Greg Tremblay",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 22671,
+				"performance": 20322,
+				"story": 20299
+			},
+			"series": "By:\n                        Neal Shusterman",
+			"title": "Scythe",
+			"url": "https://www.audible.com/pd/Scythe-Audiobook/B06XH4K2NB"
+		},
+		{
+			"asin": "B07FB5GB8M",
+			"author": "Mary E. Pearson",
+			"cover_image": "https://m.media-amazon.com/images/I/51AHToNVOaL._SL320_.jpg",
+			"description": "A formidable outlaw family that claims to be the first among nations. A son destined to lead, thrust suddenly into power. Three fierce young women of the Rahtan, the queen's premier guard. A legendary street thief leading a mission, determined to prove herself. Listen to learn more....",
+			"length": "16 hrs and 27 mins",
+			"minutes": 987,
+			"narrated_by": "Karissa Vacker, James Patrick Cronin, Ann Marie Lee",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1510,
+				"performance": 1351,
+				"story": 1344
+			},
+			"series": "By:\n                        Mary E. Pearson",
+			"title": "Dance of Thieves",
+			"url": "https://www.audible.com/pd/Dance-of-Thieves-Audiobook/B07FB5GB8M"
+		},
+		{
+			"asin": "B002V5A12Y",
+			"author": "Orson Scott Card",
+			"cover_image": "https://m.media-amazon.com/images/I/51hzQWwImUL._SL320_.jpg",
+			"description": null,
+			"length": "11 hrs and 57 mins",
+			"minutes": 717,
+			"narrated_by": "Stefan Rudnicki, Harlan Ellison, Gabrielle de Cuir",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 44386,
+				"performance": 33394,
+				"story": 33638
+			},
+			"series": "Special 20th Anniversary Edition",
+			"title": "Ender's Game",
+			"url": "https://www.audible.com/pd/Enders-Game-Audiobook/B002V5A12Y"
+		},
+		{
+			"asin": "B0BZ9FT6ZK",
+			"author": "Tahereh Mafi",
+			"cover_image": "https://m.media-amazon.com/images/I/51TOZwYkEAL._SL320_.jpg",
+			"description": "Enter the explosive world of the blockbuster Shatter Me series by #1 New York Times bestselling author Tahereh Mafi....",
+			"length": "30 hrs and 51 mins",
+			"minutes": 1851,
+			"narrated_by": "Kate Simses",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 643,
+				"performance": 596,
+				"story": 596
+			},
+			"series": "Shatter Me/Unravel Me/Ignite Me",
+			"title": "Shatter Me 3-Book Set 1",
+			"url": "https://www.audible.com/pd/Shatter-Me-3-Book-Set-1-Audiobook/B0BZ9FT6ZK"
+		},
+		{
+			"asin": "B0DDYQMDYB",
+			"author": "A.L. Knorr",
+			"cover_image": "https://m.media-amazon.com/images/I/51FJxTAAXNL._SL320_.jpg",
+			"description": "Targa and her three best friends have no idea what their summer vacations have in store. With each heading to a different far-flung destination, they’re sure to return with amazing tales. But their excitement turns to dread when each girl transforms into a being with ancient powers.",
+			"length": "45 hrs and 26 mins",
+			"minutes": 2726,
+			"narrated_by": "Gabra Zackman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 62,
+				"performance": 61,
+				"story": 61
+			},
+			"series": "Water, Fire, Earth, Air, Aether, Ensemble Novel (The Elemental Origins Series)",
+			"title": "Elemental Origins: The Complete Series Bundle",
+			"url": "https://www.audible.com/pd/Elemental-Origins-The-Complete-Series-Bundle-Audiobook/B0DDYQMDYB"
+		},
+		{
+			"asin": "B004XMPFLK",
+			"author": "Veronica Roth",
+			"cover_image": "https://m.media-amazon.com/images/I/61NdEDvHhoL._SL320_.jpg",
+			"description": null,
+			"length": "11 hrs and 11 mins",
+			"minutes": 671,
+			"narrated_by": "Emma Galvin",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 38211,
+				"performance": 33836,
+				"story": 34025
+			},
+			"series": "By:\n                        Veronica Roth",
+			"title": "Divergent",
+			"url": "https://www.audible.com/pd/Divergent-Audiobook/B004XMPFLK"
+		},
+		{
+			"asin": "B0CNSGK7JZ",
+			"author": "Chloe Walsh",
+			"cover_image": "https://m.media-amazon.com/images/I/51SUI5FwnaL._SL320_.jpg",
+			"description": "With his world unraveling around him, and pressure rising at home, Joey Lynch's life has never been in more turmoil. Desperate to prove himself worthy of the only person he's ever put his trust in, Joey fights to stay away from a world that threatens to destroy everything....",
+			"length": "31 hrs and 55 mins",
+			"minutes": 1915,
+			"narrated_by": "Jacqueline Milne, Matthew Forsythe",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 571,
+				"performance": 546,
+				"story": 546
+			},
+			"series": "Boys of Tommen, Book 4",
+			"title": "Redeeming 6",
+			"url": "https://www.audible.com/pd/Redeeming-6-Audiobook/B0CNSGK7JZ"
+		},
+		{
+			"asin": "B078PLF8MK",
+			"author": "Neal Shusterman",
+			"cover_image": "https://m.media-amazon.com/images/I/51naGoY8DnL._SL320_.jpg",
+			"description": null,
+			"length": "13 hrs and 2 mins",
+			"minutes": 782,
+			"narrated_by": "Greg Tremblay",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14379,
+				"performance": 12855,
+				"story": 12813
+			},
+			"series": "Arc of a Scythe",
+			"title": "Thunderhead",
+			"url": "https://www.audible.com/pd/Thunderhead-Audiobook/B078PLF8MK"
+		},
+		{
+			"asin": "B01N90AV6H",
+			"author": "Tiffany D. Jackson",
+			"cover_image": "https://m.media-amazon.com/images/I/51r8ne3oW3L._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 37 mins",
+			"minutes": 637,
+			"narrated_by": "Bahni Turpin",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4102,
+				"performance": 3806,
+				"story": 3806
+			},
+			"series": "A Psychological Thriller",
+			"title": "Allegedly",
+			"url": "https://www.audible.com/pd/Allegedly-Audiobook/B01N90AV6H"
+		},
+		{
+			"asin": "006301176X",
+			"author": "Adam Cesare",
+			"cover_image": "https://m.media-amazon.com/images/I/51FkcGI7EmL._SL320_.jpg",
+			"description": "Quinn Maybrook and her father have moved to tiny, boring Kettle Springs, to find a fresh start. But what they don’t know is that ever since the Baypen Corn Syrup Factory shut down, Kettle Springs has cracked in half....",
+			"length": "8 hrs and 43 mins",
+			"minutes": 523,
+			"narrated_by": "Jesse Vilinsky",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 949,
+				"performance": 865,
+				"story": 862
+			},
+			"series": "By:\n                        Adam Cesare",
+			"title": "Clown in a Cornfield",
+			"url": "https://www.audible.com/pd/Clown-in-a-Cornfield-Audiobook/006301176X"
+		}
+	],
+	"category": {
+		"href": "/cat/Teen-Young-Adult-Audiobooks/18580715011",
+		"title": "Teen & Young Adult"
+	}
+}

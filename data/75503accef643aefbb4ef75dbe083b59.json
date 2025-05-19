@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B002V5BV96",
+			"author": "Dale Carnegie",
+			"cover_image": "https://m.media-amazon.com/images/I/51PWIy1rHUL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 15 mins",
+			"minutes": 435,
+			"narrated_by": "Andrew MacMillan",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 100419,
+				"performance": 80285,
+				"story": 79699
+			},
+			"series": "By:\n                        Dale Carnegie",
+			"title": "How to Win Friends & Influence People",
+			"url": "https://www.audible.com/pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96"
+		},
+		{
+			"asin": "B09DTJ7W3G",
+			"author": "Mel Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/51VDDi-+UdL._SL320_.jpg",
+			"description": "Don't let the title fool you. This isn't a book about high fiving everyone else in your life. You're already doing that. Cheering for your favorite teams. Celebrating your friends. Supporting the people you love. Imagine if you gave that same love and encouragement to yourself....",
+			"length": "6 hrs and 57 mins",
+			"minutes": 417,
+			"narrated_by": "Mel Robbins",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9343,
+				"performance": 8144,
+				"story": 8090
+			},
+			"series": "Take Control of Your Life with One Simple Habit",
+			"title": "The High 5 Habit",
+			"url": "https://www.audible.com/pd/The-High-5-Habit-Audiobook/B09DTJ7W3G"
+		},
+		{
+			"asin": "B09WY6Z8KD",
+			"author": "Brianna Wiest",
+			"cover_image": "https://m.media-amazon.com/images/I/41jiySKmibL._SL320_.jpg",
+			"description": "",
+			"length": "5 hrs and 44 mins",
+			"minutes": 344,
+			"narrated_by": "Stacey Glemboski",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 8806,
+				"performance": 7751,
+				"story": 7724
+			},
+			"series": "Transforming Self-Sabotage into Self-Mastery",
+			"title": "The Mountain Is You",
+			"url": "https://www.audible.com/pd/The-Mountain-Is-You-Audiobook/B09WY6Z8KD"
+		},
+		{
+			"asin": "B015TVHUA2",
+			"author": "Jocko Willink, Leif Babin",
+			"cover_image": "https://m.media-amazon.com/images/I/41IO3eCc9hL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 33 mins",
+			"minutes": 573,
+			"narrated_by": "Jocko Willink, Leif Babin",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 75826,
+				"performance": 66035,
+				"story": 65728
+			},
+			"series": "How U.S. Navy SEALs Lead and Win",
+			"title": "Extreme Ownership",
+			"url": "https://www.audible.com/pd/Extreme-Ownership-Audiobook/B015TVHUA2"
+		},
+		{
+			"asin": "B01FY3KMKK",
+			"author": "Donald J. Trump, Tony Schwartz",
+			"cover_image": "https://m.media-amazon.com/images/I/41zTcActaPL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 59 mins",
+			"minutes": 599,
+			"narrated_by": "Kaleo Griffith, Donald J. Trump",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12761,
+				"performance": 11147,
+				"story": 11139
+			},
+			"series": "By:\n                        Donald J. Trump, Tony Schwartz",
+			"title": "Trump: The Art of the Deal",
+			"url": "https://www.audible.com/pd/Trump-The-Art-of-the-Deal-Audiobook/B01FY3KMKK"
+		},
+		{
+			"asin": "B0BJ34FWZ3",
+			"author": "David Goggins",
+			"cover_image": "https://m.media-amazon.com/images/I/51SBIsrDnCL._SL320_.jpg",
+			"description": "This is not a self-help book. It’s a wake-up call....",
+			"length": "11 hrs and 6 mins",
+			"minutes": 666,
+			"narrated_by": "David Goggins, Adam Skolnick, Jacqueline Gardner",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 30915,
+				"performance": 27627,
+				"story": 27536
+			},
+			"series": "Unshackle Your Mind and Win the War Within",
+			"title": "Never Finished",
+			"url": "https://www.audible.com/pd/Never-Finished-Audiobook/B0BJ34FWZ3"
+		},
+		{
+			"asin": "B07LFLM4LJ",
+			"author": "Mel Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/512c67qLfxL._SL320_.jpg",
+			"description": "Mel Robbins is back! The international bestselling phenomenon and creator of The Five Second Rule and Kick Ass with Mel Robbins returns to help you tackle the single biggest obstacle you face: fear....",
+			"length": "10 hrs and 3 mins",
+			"minutes": 603,
+			"narrated_by": "Mel Robbins",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19299,
+				"performance": 16655,
+				"story": 16515
+			},
+			"series": "How to Silence Fear and Win the Mental Game",
+			"title": "Take Control of Your Life",
+			"url": "https://www.audible.com/pd/Take-Control-of-Your-Life-Audiobook/B07LFLM4LJ"
+		},
+		{
+			"asin": "B0DN28B61F",
+			"author": "General Stanley McChrystal",
+			"cover_image": "https://m.media-amazon.com/images/I/41TrdWAM0KL._SL320_.jpg",
+			"description": "Bestselling author of Team of Teams and My Share of the Task retired four-star general Stanley McChrystal offers an inspiring roadmap for personal growth and integrity—a call to become our best selves, both as individuals and as Americans.",
+			"length": "8 hrs and 19 mins",
+			"minutes": 499,
+			"narrated_by": "General Stanley McChrystal",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4,
+				"performance": 4,
+				"story": 4
+			},
+			"series": "Choices That Define a Life",
+			"title": "On Character",
+			"url": "https://www.audible.com/pd/On-Character-Audiobook/B0DN28B61F"
+		},
+		{
+			"asin": "B013F5WEZK",
+			"author": "Leil Lowndes",
+			"cover_image": "https://m.media-amazon.com/images/I/51hAGh15bTL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 59 mins",
+			"minutes": 539,
+			"narrated_by": "Joyce Bean, Leil Lowndes",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 13407,
+				"performance": 11323,
+				"story": 11252
+			},
+			"series": "92 Little Tricks for Big Success in Relationships",
+			"title": "How to Talk to Anyone",
+			"url": "https://www.audible.com/pd/How-to-Talk-to-Anyone-Audiobook/B013F5WEZK"
+		},
+		{
+			"asin": "B002V5D950",
+			"author": "Napoleon Hill",
+			"cover_image": "https://m.media-amazon.com/images/I/61atv8Q26iL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 35 mins",
+			"minutes": 575,
+			"narrated_by": "Erik Synnestvedt",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 32344,
+				"performance": 26486,
+				"story": 26338
+			},
+			"series": "By:\n                        Napoleon Hill",
+			"title": "Think and Grow Rich",
+			"url": "https://www.audible.com/pd/Think-and-Grow-Rich-Audiobook/B002V5D950"
+		},
+		{
+			"asin": "6077477206",
+			"author": "James Clear",
+			"cover_image": "https://m.media-amazon.com/images/I/51T6HVBFrtL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 1 min",
+			"minutes": 541,
+			"narrated_by": "Arturo Guerrero",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4107,
+				"performance": 3403,
+				"story": 3401
+			},
+			"series": "Un método sencillo y comprobado para desarrollar buenos hábitos y eliminar los malos",
+			"title": "Hábitos atómicos (Español neutro)",
+			"url": "https://www.audible.com/pd/Habitos-atomicos-Espanol-neutro-Audiobook/6077477206"
+		},
+		{
+			"asin": "B002V5HAL4",
+			"author": "Stephen R. Covey",
+			"cover_image": "https://m.media-amazon.com/images/I/51OuvCFwyZL._SL320_.jpg",
+			"description": null,
+			"length": "13 hrs and 4 mins",
+			"minutes": 784,
+			"narrated_by": "Stephen R. Covey",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 39984,
+				"performance": 31368,
+				"story": 31150
+			},
+			"series": "Powerful Lessons in Personal Change",
+			"title": "The 7 Habits of Highly Effective People",
+			"url": "https://www.audible.com/pd/The-7-Habits-of-Highly-Effective-People-Audiobook/B002V5HAL4"
+		},
+		{
+			"asin": "B07KRKJ8W8",
+			"author": "Robin Sharma",
+			"cover_image": "https://m.media-amazon.com/images/I/519azHGsnGL._SL320_.jpg",
+			"description": "Now, in this life-changing guide, handcrafted by the author over a rigorous four-year period, you will discover the early-rising habit that has helped so many accomplish epic results while upgrading their happiness, helpfulness, and feelings of aliveness....",
+			"length": "11 hrs and 4 mins",
+			"minutes": 664,
+			"narrated_by": "Adam Verner",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14737,
+				"performance": 12777,
+				"story": 12739
+			},
+			"series": "Own Your Morning. Elevate Your Life.",
+			"title": "The 5AM Club",
+			"url": "https://www.audible.com/pd/The-5AM-Club-Audiobook/B07KRKJ8W8"
+		},
+		{
+			"asin": "B0DD8KWZ24",
+			"author": "Admiral William H. McRaven",
+			"cover_image": "https://m.media-amazon.com/images/I/41Bf+j+PubL._SL320_.jpg",
+			"description": "#1 New York Times bestselling author Admiral McRaven tells stories from his life and career that illustrate the principles of effective leadership during times of crisis.",
+			"length": "4 hrs and 39 mins",
+			"minutes": 279,
+			"narrated_by": "Admiral William H. McRaven",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 84,
+				"performance": 84,
+				"story": 84
+			},
+			"series": "Ten Lessons to Learn Before You Need Them",
+			"title": "Conquering Crisis",
+			"url": "https://www.audible.com/pd/Conquering-Crisis-Audiobook/B0DD8KWZ24"
+		},
+		{
+			"asin": "B09YMMFV2G",
+			"author": "Dan Martell",
+			"cover_image": "https://m.media-amazon.com/images/I/41Zjdm864XL._SL320_.jpg",
+			"description": "Learn to conquer the one real hurdle to scaling your company and growing rich: Time. Buy Back Your Time is the definitive guide for entrepreneurs at every level on how to succeed in business while enjoying more freedom than you ever imagined....",
+			"length": "8 hrs and 4 mins",
+			"minutes": 484,
+			"narrated_by": "Dan Martell",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1109,
+				"performance": 1004,
+				"story": 1005
+			},
+			"series": "Get Unstuck, Reclaim Your Freedom, and Build Your Empire",
+			"title": "Buy Back Your Time",
+			"url": "https://www.audible.com/pd/Buy-Back-Your-Time-Audiobook/B09YMMFV2G"
+		},
+		{
+			"asin": "B002UUKHII",
+			"author": "Robert Greene",
+			"cover_image": "https://m.media-amazon.com/images/I/41pjoMsqWUL._SL320_.jpg",
+			"description": "When raised to the level of art, seduction, an indirect and subtle form of power....",
+			"length": "5 hrs and 9 mins",
+			"minutes": 309,
+			"narrated_by": "Jeff David",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5859,
+				"performance": 4464,
+				"story": 4450
+			},
+			"series": "An Indispensible Primer on the Ultimate Form of Power",
+			"title": "The Art of Seduction",
+			"url": "https://www.audible.com/pd/The-Art-of-Seduction-Audiobook/B002UUKHII"
+		},
+		{
+			"asin": "B002V08E64",
+			"author": "Patrick Lencioni",
+			"cover_image": "https://m.media-amazon.com/images/I/41V9HNQcdzL._SL320_.jpg",
+			"description": null,
+			"length": "3 hrs and 42 mins",
+			"minutes": 222,
+			"narrated_by": "Charles Stransky; introduction by Patrick Lencioni",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 18873,
+				"performance": 14964,
+				"story": 14914
+			},
+			"series": "A Leadership Fable",
+			"title": "The Five Dysfunctions of a Team",
+			"url": "https://www.audible.com/pd/The-Five-Dysfunctions-of-a-Team-Audiobook/B002V08E64"
+		},
+		{
+			"asin": "B0D9PJ1ZCJ",
+			"author": "Dana Perino",
+			"cover_image": "https://m.media-amazon.com/images/I/41RXw2NcvqL._SL320_.jpg",
+			"description": "Terrific advice, insightful stories, and powerful life lessons curated by Dana Perino the #1 New York Times bestselling author of And the Good News Is . . . and beloved co-host of Fox News' The Five and America’s Newsroom, inspired by her friends and colleagues.",
+			"length": "7 hrs and 14 mins",
+			"minutes": 434,
+			"narrated_by": "Dana Perino, Stephanie Gish, Roger Wayne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 34,
+				"performance": 31,
+				"story": 31
+			},
+			"series": "The Best Advice for Building a Great Career and a Meaningful Life",
+			"title": "I Wish Someone Had Told Me . . .",
+			"url": "https://www.audible.com/pd/I-Wish-Someone-Had-Told-Me-Audiobook/B0D9PJ1ZCJ"
+		},
+		{
+			"asin": "B00A9ZO7T6",
+			"author": "Gino Wickman",
+			"cover_image": "https://m.media-amazon.com/images/I/516eJHng+OL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 56 mins",
+			"minutes": 416,
+			"narrated_by": "Kevin Pierce",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7517,
+				"performance": 6223,
+				"story": 6143
+			},
+			"series": "Get a Grip on Your Business",
+			"title": "Traction",
+			"url": "https://www.audible.com/pd/Traction-Audiobook/B00A9ZO7T6"
+		},
+		{
+			"asin": "B09MV39LHQ",
+			"author": "Joseph Grenny, Kerry Patterson, Ron McMillan, and others",
+			"cover_image": "https://m.media-amazon.com/images/I/51t9JyigW+L._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 45 mins",
+			"minutes": 465,
+			"narrated_by": "Emily Gregory, Joseph Grenny",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1684,
+				"performance": 1399,
+				"story": 1389
+			},
+			"series": "Tools for Talking When Stakes Are High",
+			"title": "Crucial Conversations (Third Edition)",
+			"url": "https://www.audible.com/pd/Crucial-Conversations-Third-Edition-Audiobook/B09MV39LHQ"
+		},
+		{
+			"asin": "B003UDDK7O",
+			"author": "Jim Collins",
+			"cover_image": "https://m.media-amazon.com/images/I/41tCQsn8UGL._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 1 min",
+			"minutes": 601,
+			"narrated_by": "Jim Collins",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17676,
+				"performance": 14547,
+				"story": 14451
+			},
+			"series": "Why Some Companies Make the Leap...And Others Don't",
+			"title": "Good to Great",
+			"url": "https://www.audible.com/pd/Good-to-Great-Audiobook/B003UDDK7O"
+		},
+		{
+			"asin": "0593291352",
+			"author": "Simon Sinek",
+			"cover_image": "https://m.media-amazon.com/images/I/516OBygEerL._SL320_.jpg",
+			"description": "Too many workplaces are driven by cynicism, paranoia, and self-interest. But the best ones foster trust and cooperation because their leaders build what Sinek calls a \"Circle of Safety\" that separates the security inside the team from the challenges outside....",
+			"length": "9 hrs and 23 mins",
+			"minutes": 563,
+			"narrated_by": "Simon Sinek",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4740,
+				"performance": 4001,
+				"story": 3960
+			},
+			"series": "Why Some Teams Pull Together and Others Don't",
+			"title": "Leaders Eat Last",
+			"url": "https://www.audible.com/pd/Leaders-Eat-Last-Audiobook/0593291352"
+		},
+		{
+			"asin": "1797115073",
+			"author": "Sean Covey, Jim Collins - foreword, Stephen R. Covey",
+			"cover_image": "https://m.media-amazon.com/images/I/418-i3CjhPL._SL320_.jpg",
+			"description": "One of the most inspiring and impactful books ever written, The Seven Habits of Highly Effective People has captivated people for nearly three decades. It has transformed the lives of presidents and CEOs, educators, and parents....",
+			"length": "15 hrs and 7 mins",
+			"minutes": 907,
+			"narrated_by": "Stephen R. Covey, Sean Covey",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2015,
+				"performance": 1622,
+				"story": 1605
+			},
+			"series": "30th Anniversary Edition",
+			"title": "The 7 Habits of Highly Effective People",
+			"url": "https://www.audible.com/pd/The-7-Habits-of-Highly-Effective-People-Audiobook/1797115073"
+		},
+		{
+			"asin": "B0DZPJB99G",
+			"author": "Dave Ramsey",
+			"cover_image": "https://m.media-amazon.com/images/I/51E7pOTO3WL._SL320_.jpg",
+			"description": "In Build a Business You Love, #1 New York Times bestselling author and Ramsey Solutions Founder and CEO, Dave Ramsey breaks down the system that took his business from a card table in his living room to a $250 million operation.",
+			"length": "4 hrs and 56 mins",
+			"minutes": 296,
+			"narrated_by": "Dave Ramsey",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 70,
+				"performance": 67,
+				"story": 67
+			},
+			"series": "Mastering the Five Stages of Business",
+			"title": "Build a Business You Love",
+			"url": "https://www.audible.com/pd/Build-a-Business-You-Love-Audiobook/B0DZPJB99G"
+		},
+		{
+			"asin": "B0DWTRBSHS",
+			"author": "Lewis Howes",
+			"cover_image": "https://m.media-amazon.com/images/I/51lHqGqNXXL._SL320_.jpg",
+			"description": "Your relationship with money begins with having the right mindset. Until you learn how to shift your thoughts, feelings, and behaviors around money, you’ll keep doing what you’ve always done. And get the same results.",
+			"length": "7 hrs and 19 mins",
+			"minutes": 439,
+			"narrated_by": "Lewis Howes",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 45,
+				"performance": 42,
+				"story": 42
+			},
+			"series": "Create Financial Freedom and Live a Richer Life",
+			"title": "Make Money Easy",
+			"url": "https://www.audible.com/pd/Make-Money-Easy-Audiobook/B0DWTRBSHS"
+		},
+		{
+			"asin": "B09BK57L5W",
+			"author": "Alex Hormozi",
+			"cover_image": "https://m.media-amazon.com/images/I/51VnoyLvGTL._SL320_.jpg",
+			"description": "The methods contained within this book are so simple, so instantaneous, and so effective, it’s as if they work by magic. If you implement even one tactic in this book, you’ll see the change in your prospects' demeanor....",
+			"length": "3 hrs and 48 mins",
+			"minutes": 228,
+			"narrated_by": "Alexander Hormozi",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 21039,
+				"performance": 19520,
+				"story": 19458
+			},
+			"series": "How to Make Offers So Good People Feel Stupid Saying No",
+			"title": "$100M Offers",
+			"url": "https://www.audible.com/pd/100M-Offers-Audiobook/B09BK57L5W"
+		},
+		{
+			"asin": "1250852013",
+			"author": "Cameron Hanes",
+			"cover_image": "https://m.media-amazon.com/images/I/51BvZPKBcCL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 52 mins",
+			"minutes": 472,
+			"narrated_by": "Cameron Hanes, David Goggins, Joe Rogan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15520,
+				"performance": 13813,
+				"story": 13746
+			},
+			"series": "How to Work Hard, Outlast, and Keep Hammering",
+			"title": "Endure",
+			"url": "https://www.audible.com/pd/Endure-Audiobook/1250852013"
+		},
+		{
+			"asin": "B0DDD8R9LR",
+			"author": "Geoff Woods",
+			"cover_image": "https://m.media-amazon.com/images/I/51byTj1T0-L._SL320_.jpg",
+			"description": "The difference between growing your business and going out of business is your ability to think strategically. The problem is, most leaders are stuck in the operational weeds, struggling to find the time to make better strategic decisions. This challenge is only heightened by the rise of AI.",
+			"length": "6 hrs and 38 mins",
+			"minutes": 398,
+			"narrated_by": "Geoff Woods",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 103,
+				"performance": 97,
+				"story": 97
+			},
+			"series": "Harnessing AI to Make Faster, Smarter Decisions",
+			"title": "The AI-Driven Leader",
+			"url": "https://www.audible.com/pd/The-AI-Driven-Leader-Audiobook/B0DDD8R9LR"
+		},
+		{
+			"asin": "B0C7WJXBRL",
+			"author": "Alex Hormozi",
+			"cover_image": "https://m.media-amazon.com/images/I/41OrjElw-bL._SL320_.jpg",
+			"description": "This audiobook contains the playbooks that took me from sleeping on my gym floor to owning a portfolio of companies that generate $200,000,000 per year in under a decade. Wanna know the biggest difference between those two time periods? How many leads I was getting.",
+			"length": "6 hrs",
+			"minutes": 360,
+			"narrated_by": "Alex Hormozi",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3498,
+				"performance": 3293,
+				"story": 3290
+			},
+			"series": "How to Get Strangers to Want to Buy Your Stuff",
+			"title": "$100M Leads",
+			"url": "https://www.audible.com/pd/100M-Leads-Audiobook/B0C7WJXBRL"
+		},
+		{
+			"asin": "0358310369",
+			"author": "Bill Perkins",
+			"cover_image": "https://m.media-amazon.com/images/I/513+dJrbw6L._SL320_.jpg",
+			"description": "Die with Zero presents a startling new and provocative philosophy as well as practical guide on how to get the most out of your money—and out of your life. It's intended for those who place lifelong memorable experiences ahead of simply making and accumulating money....",
+			"length": "5 hrs and 11 mins",
+			"minutes": 311,
+			"narrated_by": "Bill Perkins",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1288,
+				"performance": 1137,
+				"story": 1132
+			},
+			"series": "Getting All You Can from Your Money and Your Life",
+			"title": "Die with Zero",
+			"url": "https://www.audible.com/pd/Die-with-Zero-Audiobook/0358310369"
+		}
+	],
+	"category": {
+		"href": "/cat/Business-Careers-Audiobooks/18572029011",
+		"title": "Business & Careers"
+	}
+}

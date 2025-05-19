@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B0DFMX1RT8",
+			"author": "Mel Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/51YOr6ua-PL._SL320_.jpg",
+			"description": "In her latest groundbreaking book, The Let Them Theory, Mel Robbins teaches you how to stop wasting energy on what you can't control and start focusing on what truly matters: YOU. Your happiness. Your goals. Your life.",
+			"length": "10 hrs and 38 mins",
+			"minutes": 638,
+			"narrated_by": "Mel Robbins",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 13183,
+				"performance": 12566,
+				"story": 12566
+			},
+			"series": "A Life-Changing Tool That Millions of People Can’t Stop Talking About",
+			"title": "The Let Them Theory",
+			"url": "https://www.audible.com/pd/The-Let-Them-Theory-Audiobook/B0DFMX1RT8"
+		},
+		{
+			"asin": "B06VX22V89",
+			"author": "Mel Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/51dc79x8jsL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 35 mins",
+			"minutes": 455,
+			"narrated_by": "Mel Robbins",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 52256,
+				"performance": 45551,
+				"story": 45214
+			},
+			"series": "Transform your Life, Work, and Confidence with Everyday Courage",
+			"title": "The 5 Second Rule",
+			"url": "https://www.audible.com/pd/The-5-Second-Rule-Audiobook/B06VX22V89"
+		},
+		{
+			"asin": "B01I28NFEE",
+			"author": "Mark Manson",
+			"cover_image": "https://m.media-amazon.com/images/I/51MT0MbpD7L._SL320_.jpg",
+			"description": null,
+			"length": "5 hrs and 17 mins",
+			"minutes": 317,
+			"narrated_by": "Roger Wayne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 175462,
+				"performance": 150741,
+				"story": 149906
+			},
+			"series": "A Counterintuitive Approach to Living a Good Life",
+			"title": "The Subtle Art of Not Giving a F*ck",
+			"url": "https://www.audible.com/pd/The-Subtle-Art-of-Not-Giving-a-F-ck-Audiobook/B01I28NFEE"
+		},
+		{
+			"asin": "B002V5BV96",
+			"author": "Dale Carnegie",
+			"cover_image": "https://m.media-amazon.com/images/I/51PWIy1rHUL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 15 mins",
+			"minutes": 435,
+			"narrated_by": "Andrew MacMillan",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 100419,
+				"performance": 80285,
+				"story": 79699
+			},
+			"series": "By:\n                        Dale Carnegie",
+			"title": "How to Win Friends & Influence People",
+			"url": "https://www.audible.com/pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96"
+		},
+		{
+			"asin": "B07KKMNZCH",
+			"author": "David Goggins",
+			"cover_image": "https://m.media-amazon.com/images/I/51c4H3VBciL._SL320_.jpg",
+			"description": "For David Goggins, childhood was a nightmare--poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself....",
+			"length": "13 hrs and 37 mins",
+			"minutes": 817,
+			"narrated_by": "David Goggins, Adam Skolnick",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 204073,
+				"performance": 180254,
+				"story": 179656
+			},
+			"series": "Master Your Mind and Defy the Odds",
+			"title": "Can't Hurt Me",
+			"url": "https://www.audible.com/pd/Cant-Hurt-Me-Audiobook/B07KKMNZCH"
+		},
+		{
+			"asin": "B002VA3GJO",
+			"author": "don Miguel Ruiz",
+			"cover_image": "https://m.media-amazon.com/images/I/61bzSxyLLlL._SL320_.jpg",
+			"description": null,
+			"length": "2 hrs and 31 mins",
+			"minutes": 151,
+			"narrated_by": "Peter Coyote",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 60297,
+				"performance": 49626,
+				"story": 49361
+			},
+			"series": "By:\n                        don Miguel Ruiz",
+			"title": "The Four Agreements",
+			"url": "https://www.audible.com/pd/The-Four-Agreements-Audiobook/B002VA3GJO"
+		},
+		{
+			"asin": "B09WY6Z8KD",
+			"author": "Brianna Wiest",
+			"cover_image": "https://m.media-amazon.com/images/I/41jiySKmibL._SL320_.jpg",
+			"description": "",
+			"length": "5 hrs and 44 mins",
+			"minutes": 344,
+			"narrated_by": "Stacey Glemboski",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 8806,
+				"performance": 7751,
+				"story": 7724
+			},
+			"series": "Transforming Self-Sabotage into Self-Mastery",
+			"title": "The Mountain Is You",
+			"url": "https://www.audible.com/pd/The-Mountain-Is-You-Audiobook/B09WY6Z8KD"
+		},
+		{
+			"asin": "B01FY3KMKK",
+			"author": "Donald J. Trump, Tony Schwartz",
+			"cover_image": "https://m.media-amazon.com/images/I/41zTcActaPL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 59 mins",
+			"minutes": 599,
+			"narrated_by": "Kaleo Griffith, Donald J. Trump",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12761,
+				"performance": 11147,
+				"story": 11139
+			},
+			"series": "By:\n                        Donald J. Trump, Tony Schwartz",
+			"title": "Trump: The Art of the Deal",
+			"url": "https://www.audible.com/pd/Trump-The-Art-of-the-Deal-Audiobook/B01FY3KMKK"
+		},
+		{
+			"asin": "B0731R4RFX",
+			"author": "Gary John Bishop",
+			"cover_image": "https://m.media-amazon.com/images/I/51l9kZheEAL._SL320_.jpg",
+			"description": null,
+			"length": "3 hrs and 24 mins",
+			"minutes": 204,
+			"narrated_by": "Gary John Bishop",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 87069,
+				"performance": 73843,
+				"story": 73123
+			},
+			"series": "Get Out of Your Head and into Your Life",
+			"title": "Unfu*k Yourself",
+			"url": "https://www.audible.com/pd/Unfu-k-Yourself-Audiobook/B0731R4RFX"
+		},
+		{
+			"asin": "B07LFLM4LJ",
+			"author": "Mel Robbins",
+			"cover_image": "https://m.media-amazon.com/images/I/512c67qLfxL._SL320_.jpg",
+			"description": "Mel Robbins is back! The international bestselling phenomenon and creator of The Five Second Rule and Kick Ass with Mel Robbins returns to help you tackle the single biggest obstacle you face: fear....",
+			"length": "10 hrs and 3 mins",
+			"minutes": 603,
+			"narrated_by": "Mel Robbins",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19299,
+				"performance": 16655,
+				"story": 16515
+			},
+			"series": "How to Silence Fear and Win the Mental Game",
+			"title": "Take Control of Your Life",
+			"url": "https://www.audible.com/pd/Take-Control-of-Your-Life-Audiobook/B07LFLM4LJ"
+		},
+		{
+			"asin": "B09VHWHJS2",
+			"author": "Jennette McCurdy",
+			"cover_image": "https://m.media-amazon.com/images/I/41clGmWQP6L._SL320_.jpg",
+			"description": "iCarly and Sam & Cat star Jennette McCurdy shares her struggles as a former child actor—including eating disorders, addiction, and a complicated relationship with her overbearing mother—and how she retook control of her life.",
+			"length": "6 hrs and 26 mins",
+			"minutes": 386,
+			"narrated_by": "Jennette McCurdy",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 119107,
+				"performance": 105282,
+				"story": 104897
+			},
+			"series": "By:\n                        Jennette McCurdy",
+			"title": "I'm Glad My Mom Died",
+			"url": "https://www.audible.com/pd/Im-Glad-My-Mom-Died-Audiobook/B09VHWHJS2"
+		},
+		{
+			"asin": "B002V0PN36",
+			"author": "Eckhart Tolle",
+			"cover_image": "https://m.media-amazon.com/images/I/51wk62SpJaL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 37 mins",
+			"minutes": 457,
+			"narrated_by": "Eckhart Tolle",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 40278,
+				"performance": 32266,
+				"story": 31831
+			},
+			"series": "A Guide to Spiritual Enlightenment",
+			"title": "The Power of Now",
+			"url": "https://www.audible.com/pd/The-Power-of-Now-Audiobook/B002V0PN36"
+		},
+		{
+			"asin": "B0DN28B61F",
+			"author": "General Stanley McChrystal",
+			"cover_image": "https://m.media-amazon.com/images/I/41TrdWAM0KL._SL320_.jpg",
+			"description": "Bestselling author of Team of Teams and My Share of the Task retired four-star general Stanley McChrystal offers an inspiring roadmap for personal growth and integrity—a call to become our best selves, both as individuals and as Americans.",
+			"length": "8 hrs and 19 mins",
+			"minutes": 499,
+			"narrated_by": "General Stanley McChrystal",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4,
+				"performance": 4,
+				"story": 4
+			},
+			"series": "Choices That Define a Life",
+			"title": "On Character",
+			"url": "https://www.audible.com/pd/On-Character-Audiobook/B0DN28B61F"
+		},
+		{
+			"asin": "B0CX5YR9RN",
+			"author": "Mary Poffenroth PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/41BaTGPV4eL._SL320_.jpg",
+			"description": "Mary Poffenroth, PhD, is a scientist, professor, and fear expert shares a groundbreaking guide to master everyday fear and anxiety.",
+			"length": "6 hrs and 45 mins",
+			"minutes": 405,
+			"narrated_by": "Mary Poffenroth PhD",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7,
+				"performance": 7,
+				"story": 7
+			},
+			"series": "Strategies, Tools, and Neurohacks to Live More Courageously Every Day",
+			"title": "Brave New You",
+			"url": "https://www.audible.com/pd/Brave-New-You-Audiobook/B0CX5YR9RN"
+		},
+		{
+			"asin": "B01F2M2GDO",
+			"author": "Lindsay C. Gibson PsyD",
+			"cover_image": "https://m.media-amazon.com/images/I/513IGk0PimL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 50 mins",
+			"minutes": 410,
+			"narrated_by": "Marguerite Gavin",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7922,
+				"performance": 6739,
+				"story": 6669
+			},
+			"series": "How to Heal from Distant, Rejecting, or Self-Involved Parents",
+			"title": "Adult Children of Emotionally Immature Parents",
+			"url": "https://www.audible.com/pd/Adult-Children-of-Emotionally-Immature-Parents-Audiobook/B01F2M2GDO"
+		},
+		{
+			"asin": "1400217334",
+			"author": "Lysa TerKeurst",
+			"cover_image": "https://m.media-amazon.com/images/I/411yYbYaXRL._SL320_.jpg",
+			"description": "With deep empathy, therapeutic insight, and rich Bible teaching coming out of more than 1,000 hours of theological study, Lysa will help you stop suffering because of what other people have done to you.",
+			"length": "8 hrs and 20 mins",
+			"minutes": 500,
+			"narrated_by": "Lysa TerKeurst",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2837,
+				"performance": 2453,
+				"story": 2446
+			},
+			"series": "Discover How to Move On, Make Peace with Painful Memories, and Create a Life That's Beautiful Again",
+			"title": "Forgiving What You Can't Forget",
+			"url": "https://www.audible.com/pd/Forgiving-What-You-Cant-Forget-Audiobook/1400217334"
+		},
+		{
+			"asin": "B0DJRMFBKT",
+			"author": "Eric Topol",
+			"cover_image": "https://m.media-amazon.com/images/I/51eCt2TT5YL._SL320_.jpg",
+			"description": "Super Agers is a detailed guide to a revolution transforming human longevity. This is a breakthrough moment in the history of human health care. The person making that bold claim is one of the most respected medical researchers in the world, Eric Topol.",
+			"length": "14 hrs and 43 mins",
+			"minutes": 883,
+			"narrated_by": "Eric Topol",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "3.5 out of 5 stars",
+				"story": "3.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 7,
+				"performance": 6,
+				"story": 6
+			},
+			"series": "By:\n                        Eric Topol",
+			"title": "Super Agers",
+			"url": "https://www.audible.com/pd/Super-Agers-Audiobook/B0DJRMFBKT"
+		},
+		{
+			"asin": "B013F5WEZK",
+			"author": "Leil Lowndes",
+			"cover_image": "https://m.media-amazon.com/images/I/51hAGh15bTL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 59 mins",
+			"minutes": 539,
+			"narrated_by": "Joyce Bean, Leil Lowndes",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 13407,
+				"performance": 11323,
+				"story": 11252
+			},
+			"series": "92 Little Tricks for Big Success in Relationships",
+			"title": "How to Talk to Anyone",
+			"url": "https://www.audible.com/pd/How-to-Talk-to-Anyone-Audiobook/B013F5WEZK"
+		},
+		{
+			"asin": "B002V5D950",
+			"author": "Napoleon Hill",
+			"cover_image": "https://m.media-amazon.com/images/I/61atv8Q26iL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 35 mins",
+			"minutes": 575,
+			"narrated_by": "Erik Synnestvedt",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 32344,
+				"performance": 26486,
+				"story": 26338
+			},
+			"series": "By:\n                        Napoleon Hill",
+			"title": "Think and Grow Rich",
+			"url": "https://www.audible.com/pd/Think-and-Grow-Rich-Audiobook/B002V5D950"
+		},
+		{
+			"asin": "B0C7RM6LRS",
+			"author": "Nick Trenton",
+			"cover_image": "https://m.media-amazon.com/images/I/512FSDOHN7L._SL320_.jpg",
+			"description": "The Art of Letting Go is all about organizing the mess in your mind. It's about how to stop focusing on the past that is over, or the future that may never occur, and being present in the situations that you can actually have agency in....",
+			"length": "4 hrs and 54 mins",
+			"minutes": 294,
+			"narrated_by": "Russell Newton",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 447,
+				"performance": 430,
+				"story": 430
+			},
+			"series": "The Path to Calm, Book 13",
+			"title": "The Art of Letting Go: Stop Overthinking, Stop Negative Spirals, and Find Emotional Freedom",
+			"url": "https://www.audible.com/pd/The-Art-of-Letting-Go-Stop-Overthinking-Stop-Negative-Spirals-and-Find-Emotional-Freedom-Audiobook/B0C7RM6LRS"
+		},
+		{
+			"asin": "B0868ZFF7X",
+			"author": "Joe Dispenza",
+			"cover_image": "https://m.media-amazon.com/images/I/51RRcIBg93L._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 49 mins",
+			"minutes": 649,
+			"narrated_by": "Adam Boyce",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5433,
+				"performance": 4438,
+				"story": 4390
+			},
+			"series": "By:\n                        Joe Dispenza",
+			"title": "Breaking the Habit of Being Yourself",
+			"url": "https://www.audible.com/pd/Breaking-the-Habit-of-Being-Yourself-Audiobook/B0868ZFF7X"
+		},
+		{
+			"asin": "6077477206",
+			"author": "James Clear",
+			"cover_image": "https://m.media-amazon.com/images/I/51T6HVBFrtL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 1 min",
+			"minutes": 541,
+			"narrated_by": "Arturo Guerrero",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4107,
+				"performance": 3403,
+				"story": 3401
+			},
+			"series": "Un método sencillo y comprobado para desarrollar buenos hábitos y eliminar los malos",
+			"title": "Hábitos atómicos (Español neutro)",
+			"url": "https://www.audible.com/pd/Habitos-atomicos-Espanol-neutro-Audiobook/6077477206"
+		},
+		{
+			"asin": "B002V5HAL4",
+			"author": "Stephen R. Covey",
+			"cover_image": "https://m.media-amazon.com/images/I/51OuvCFwyZL._SL320_.jpg",
+			"description": null,
+			"length": "13 hrs and 4 mins",
+			"minutes": 784,
+			"narrated_by": "Stephen R. Covey",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 39984,
+				"performance": 31368,
+				"story": 31150
+			},
+			"series": "Powerful Lessons in Personal Change",
+			"title": "The 7 Habits of Highly Effective People",
+			"url": "https://www.audible.com/pd/The-7-Habits-of-Highly-Effective-People-Audiobook/B002V5HAL4"
+		},
+		{
+			"asin": "B07KRKJ8W8",
+			"author": "Robin Sharma",
+			"cover_image": "https://m.media-amazon.com/images/I/519azHGsnGL._SL320_.jpg",
+			"description": "Now, in this life-changing guide, handcrafted by the author over a rigorous four-year period, you will discover the early-rising habit that has helped so many accomplish epic results while upgrading their happiness, helpfulness, and feelings of aliveness....",
+			"length": "11 hrs and 4 mins",
+			"minutes": 664,
+			"narrated_by": "Adam Verner",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14737,
+				"performance": 12777,
+				"story": 12739
+			},
+			"series": "Own Your Morning. Elevate Your Life.",
+			"title": "The 5AM Club",
+			"url": "https://www.audible.com/pd/The-5AM-Club-Audiobook/B07KRKJ8W8"
+		},
+		{
+			"asin": "0063097710",
+			"author": "Eddie Jaku",
+			"cover_image": "https://m.media-amazon.com/images/I/51+CSutjrJS._SL320_.jpg",
+			"description": "",
+			"length": "3 hrs and 47 mins",
+			"minutes": 227,
+			"narrated_by": "Raphael Corkhill",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2573,
+				"performance": 2333,
+				"story": 2331
+			},
+			"series": "The Beautiful Life of an Auschwitz Survivor",
+			"title": "The Happiest Man on Earth",
+			"url": "https://www.audible.com/pd/The-Happiest-Man-on-Earth-Audiobook/0063097710"
+		},
+		{
+			"asin": "B0DD8KWZ24",
+			"author": "Admiral William H. McRaven",
+			"cover_image": "https://m.media-amazon.com/images/I/41Bf+j+PubL._SL320_.jpg",
+			"description": "#1 New York Times bestselling author Admiral McRaven tells stories from his life and career that illustrate the principles of effective leadership during times of crisis.",
+			"length": "4 hrs and 39 mins",
+			"minutes": 279,
+			"narrated_by": "Admiral William H. McRaven",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 84,
+				"performance": 84,
+				"story": 84
+			},
+			"series": "Ten Lessons to Learn Before You Need Them",
+			"title": "Conquering Crisis",
+			"url": "https://www.audible.com/pd/Conquering-Crisis-Audiobook/B0DD8KWZ24"
+		},
+		{
+			"asin": "B002UUKHII",
+			"author": "Robert Greene",
+			"cover_image": "https://m.media-amazon.com/images/I/41pjoMsqWUL._SL320_.jpg",
+			"description": "When raised to the level of art, seduction, an indirect and subtle form of power....",
+			"length": "5 hrs and 9 mins",
+			"minutes": 309,
+			"narrated_by": "Jeff David",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5859,
+				"performance": 4464,
+				"story": 4450
+			},
+			"series": "An Indispensible Primer on the Ultimate Form of Power",
+			"title": "The Art of Seduction",
+			"url": "https://www.audible.com/pd/The-Art-of-Seduction-Audiobook/B002UUKHII"
+		},
+		{
+			"asin": "B07FXXWN3T",
+			"author": "David Deida",
+			"cover_image": "https://m.media-amazon.com/images/I/61J61ToXTVL._SL320_.jpg",
+			"description": "In 1997, David Deida released what would become one of the most widely read books on men’s spirituality ever published—The Way of the Superior Man. Deida presents a new preface to the now-classic text on how to live a life of masculine freedom, integrity, and authenticity....",
+			"length": "5 hrs and 22 mins",
+			"minutes": 322,
+			"narrated_by": "Cecil Archbold",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12851,
+				"performance": 10604,
+				"story": 10541
+			},
+			"series": "By:\n                        David Deida",
+			"title": "The Way of the Superior Man",
+			"url": "https://www.audible.com/pd/The-Way-of-the-Superior-Man-Audiobook/B07FXXWN3T"
+		},
+		{
+			"asin": "B0D9PJ1ZCJ",
+			"author": "Dana Perino",
+			"cover_image": "https://m.media-amazon.com/images/I/41RXw2NcvqL._SL320_.jpg",
+			"description": "Terrific advice, insightful stories, and powerful life lessons curated by Dana Perino the #1 New York Times bestselling author of And the Good News Is . . . and beloved co-host of Fox News' The Five and America’s Newsroom, inspired by her friends and colleagues.",
+			"length": "7 hrs and 14 mins",
+			"minutes": 434,
+			"narrated_by": "Dana Perino, Stephanie Gish, Roger Wayne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 34,
+				"performance": 31,
+				"story": 31
+			},
+			"series": "The Best Advice for Building a Great Career and a Meaningful Life",
+			"title": "I Wish Someone Had Told Me . . .",
+			"url": "https://www.audible.com/pd/I-Wish-Someone-Had-Told-Me-Audiobook/B0D9PJ1ZCJ"
+		},
+		{
+			"asin": "B002V0GGFK",
+			"author": "Gary Chapman",
+			"cover_image": "https://m.media-amazon.com/images/I/51S9NFlyKWL._SL320_.jpg",
+			"description": null,
+			"length": "4 hrs and 46 mins",
+			"minutes": 286,
+			"narrated_by": "Gary Chapman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 42829,
+				"performance": 35302,
+				"story": 35025
+			},
+			"series": "By:\n                        Gary Chapman",
+			"title": "The Five Love Languages: The Secret to Love That Lasts",
+			"url": "https://www.audible.com/pd/The-Five-Love-Languages-The-Secret-to-Love-That-Lasts-Audiobook/B002V0GGFK"
+		}
+	],
+	"category": {
+		"href": "/cat/Relationships-Parenting-Personal-Development-Audiobooks/18574784011",
+		"title": "Relationships, Parenting & Personal Development"
+	}
+}

@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B00WYDJ2YQ",
+			"author": "Robert Greene",
+			"cover_image": "https://m.media-amazon.com/images/I/41dTDMW9IhL._SL320_.jpg",
+			"description": null,
+			"length": "23 hrs and 6 mins",
+			"minutes": 1386,
+			"narrated_by": "Richard Poe",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 25316,
+				"performance": 21027,
+				"story": 20905
+			},
+			"series": "By:\n                        Robert Greene",
+			"title": "48 Laws of Power",
+			"url": "https://www.audible.com/pd/48-Laws-of-Power-Audiobook/B00WYDJ2YQ"
+		},
+		{
+			"asin": "B0DMTJ134Y",
+			"author": "Douglas Murray",
+			"cover_image": "https://m.media-amazon.com/images/I/511npsN+zxL._SL320_.jpg",
+			"description": "The New York Times bestselling author of The War on the West explains how no less than the future of the Western World is at stake in the Israeli-Palestinian conflict.",
+			"length": "10 hrs and 38 mins",
+			"minutes": 638,
+			"narrated_by": "Douglas Murray",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 639,
+				"performance": 614,
+				"story": 614
+			},
+			"series": "Israel and the Future of Civilization",
+			"title": "On Democracies and Death Cults",
+			"url": "https://www.audible.com/pd/On-Democracies-and-Death-Cults-Audiobook/B0DMTJ134Y"
+		},
+		{
+			"asin": "B0DLCDYFSG",
+			"author": "Leah Litman",
+			"cover_image": "https://m.media-amazon.com/images/I/41jImY0eG0L._SL320_.jpg",
+			"description": "Something is deeply rotten at the Supreme Court. How did we get here and what can we do about it? Crooked Media podcast host Leah Litman shines a light on the unabashed lawlessness embraced by conservative Supreme Court justices and shows us how to fight back.",
+			"length": "7 hrs and 53 mins",
+			"minutes": 473,
+			"narrated_by": "Leah Litman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 23,
+				"performance": 23,
+				"story": 23
+			},
+			"series": "How the Supreme Court Runs on Conservative Grievance, Fringe Theories, and Bad Vibes",
+			"title": "Lawless",
+			"url": "https://www.audible.com/pd/Lawless-Audiobook/B0DLCDYFSG"
+		},
+		{
+			"asin": "B01EM4ZO14",
+			"author": "J. D. Vance",
+			"cover_image": "https://m.media-amazon.com/images/I/51B1uYApuHL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 49 mins",
+			"minutes": 409,
+			"narrated_by": "J. D. Vance",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 62436,
+				"performance": 55839,
+				"story": 55739
+			},
+			"series": "A Memoir of a Family and Culture in Crisis",
+			"title": "Hillbilly Elegy",
+			"url": "https://www.audible.com/pd/Hillbilly-Elegy-Audiobook/B01EM4ZO14"
+		},
+		{
+			"asin": "B0030H777E",
+			"author": "Howard Zinn",
+			"cover_image": "https://m.media-amazon.com/images/I/51Lh6lrvZrL._SL320_.jpg",
+			"description": "For much of his life, historian Howard Zinn chronicled American history from the bottom up, throwing out the official version taught in schools - with its emphasis on great men in high places - to focus on the street, the home, and the workplace....",
+			"length": "34 hrs and 8 mins",
+			"minutes": 2048,
+			"narrated_by": "Jeff Zinn",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9352,
+				"performance": 7895,
+				"story": 7910
+			},
+			"series": "By:\n                        Howard Zinn",
+			"title": "A People's History of the United States",
+			"url": "https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B0030H777E"
+		},
+		{
+			"asin": "B004IBRMZS",
+			"author": "Marcus Aurelius, George Long - translator, Duncan Steen - translator",
+			"cover_image": "https://m.media-amazon.com/images/I/51E2LCvj1ZL._SL320_.jpg",
+			"description": "One of the most significant books ever written by a head of state, the Meditations are a collection of philosophical thoughts by the Emperor Marcus Aurelius....",
+			"length": "5 hrs and 9 mins",
+			"minutes": 309,
+			"narrated_by": "Duncan Steen",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12777,
+				"performance": 10663,
+				"story": 10530
+			},
+			"series": "By:\n                        Marcus Aurelius, George Long - translator, Duncan Steen - translator",
+			"title": "Meditations",
+			"url": "https://www.audible.com/pd/Meditations-Audiobook/B004IBRMZS"
+		},
+		{
+			"asin": "B0DSXX4G3B",
+			"author": "Doron Spielman",
+			"cover_image": "https://m.media-amazon.com/images/I/51pYXwn8ksL._SL320_.jpg",
+			"description": "This is the untold story of the rediscovery of the ancient City of David in Jerusalem and the powerful evidence that proves the Jewish people’s historical and indigenous connection to the Holy Land.",
+			"length": "7 hrs and 57 mins",
+			"minutes": 477,
+			"narrated_by": "Doron Spielman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6,
+				"performance": 6,
+				"story": 6
+			},
+			"series": "The Remarkable Discovery of the City of David and What Israel's Enemies Don't Want You to Know",
+			"title": "When the Stones Speak",
+			"url": "https://www.audible.com/pd/When-the-Stones-Speak-Audiobook/B0DSXX4G3B"
+		},
+		{
+			"asin": "B01H478VR0",
+			"author": "Robin Wall Kimmerer",
+			"cover_image": "https://m.media-amazon.com/images/I/61nD2KiCA5L._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 44 mins",
+			"minutes": 1004,
+			"narrated_by": "Robin Wall Kimmerer",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11535,
+				"performance": 10010,
+				"story": 9984
+			},
+			"series": "Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+			"title": "Braiding Sweetgrass",
+			"url": "https://www.audible.com/pd/Braiding-Sweetgrass-Audiobook/B01H478VR0"
+		},
+		{
+			"asin": "1797119265",
+			"author": "Emily Nagoski PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/41C6Xgw+IML._SL320_.jpg",
+			"description": "A revised and updated edition of Emily Nagoski’s game-changing New York Times best seller Come As You Are, featuring new information and research on mindfulness, desire, and pleasure that will radically transform your sex life....",
+			"length": "11 hrs and 30 mins",
+			"minutes": 690,
+			"narrated_by": "Emily Nagoski, Nicholas Boulton",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3504,
+				"performance": 3026,
+				"story": 3009
+			},
+			"series": "The Surprising New Science That Will Transform Your Sex Life",
+			"title": "Come As You Are: Revised and Updated",
+			"url": "https://www.audible.com/pd/Come-As-You-Are-Revised-and-Updated-Audiobook/1797119265"
+		},
+		{
+			"asin": "B0DVJ512KB",
+			"author": "Jonathan Allen, Amie Parnes",
+			"cover_image": "https://m.media-amazon.com/images/I/51ywTPTriCL._SL320_.jpg",
+			"description": "Fight is the backstage story of bloodsport politics in its rawest form—the clawing, backstabbing, and rabble-rousing that drove Donald Trump into the White House and Democrats into the wilderness.",
+			"length": "11 hrs and 18 mins",
+			"minutes": 678,
+			"narrated_by": "Joe Knezevich",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 589,
+				"performance": 567,
+				"story": 567
+			},
+			"series": "Inside the Wildest Battle for the White House",
+			"title": "Fight",
+			"url": "https://www.audible.com/pd/Fight-Audiobook/B0DVJ512KB"
+		},
+		{
+			"asin": "035857840X",
+			"author": "Michael Harriot",
+			"cover_image": "https://m.media-amazon.com/images/I/516AI44-bLL._SL320_.jpg",
+			"description": "From acclaimed columnist and political commentator Michael Harriot comes a searingly smart and bitingly hilarious retelling of American history that corrects the record and showcases the perspectives and experiences of Black Americans....",
+			"length": "15 hrs and 42 mins",
+			"minutes": 942,
+			"narrated_by": "Michael Harriot",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1359,
+				"performance": 1260,
+				"story": 1260
+			},
+			"series": "The Un-Whitewashed Story of America",
+			"title": "Black AF History",
+			"url": "https://www.audible.com/pd/Black-AF-History-Audiobook/035857840X"
+		},
+		{
+			"asin": "B002V0RAUU",
+			"author": "Eckhart Tolle",
+			"cover_image": "https://m.media-amazon.com/images/I/41ctIrOMGUL._SL320_.jpg",
+			"description": "Illuminating, enlightening, and uplifting, A New Earth is a profoundly spiritual manifesto for a better way of life—and for building a better world.",
+			"length": "9 hrs and 12 mins",
+			"minutes": 552,
+			"narrated_by": "Eckhart Tolle",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 20413,
+				"performance": 15930,
+				"story": 15739
+			},
+			"series": "Awakening Your Life's Purpose",
+			"title": "A New Earth",
+			"url": "https://www.audible.com/pd/A-New-Earth-Audiobook/B002V0RAUU"
+		},
+		{
+			"asin": "B0CBQL2Z1P",
+			"author": "Kash Pramod Patel",
+			"cover_image": "https://m.media-amazon.com/images/I/61EE6XPY2NL._SL320_.jpg",
+			"description": "A sinister cabal of corrupt law enforcement personnel, intelligence agents, and military officials at the highest levels of government plotted to overthrow a president....",
+			"length": "8 hrs and 1 min",
+			"minutes": 481,
+			"narrated_by": "Richard Cefalos",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1593,
+				"performance": 1475,
+				"story": 1475
+			},
+			"series": "The Deep State, the Truth, and the Battle for Our Democracy",
+			"title": "Government Gangsters",
+			"url": "https://www.audible.com/pd/Government-Gangsters-Audiobook/B0CBQL2Z1P"
+		},
+		{
+			"asin": "B002V1O8O0",
+			"author": "Clarissa Pinkola Estés",
+			"cover_image": "https://m.media-amazon.com/images/I/51+xwGbtd6L._SL320_.jpg",
+			"description": null,
+			"length": "2 hrs and 18 mins",
+			"minutes": 138,
+			"narrated_by": "Clarissa Pinkola Estes",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9479,
+				"performance": 8154,
+				"story": 8115
+			},
+			"series": "Myths and Stories of the Wild Woman Archetype",
+			"title": "Women Who Run with the Wolves",
+			"url": "https://www.audible.com/pd/Women-Who-Run-with-the-Wolves-Audiobook/B002V1O8O0"
+		},
+		{
+			"asin": "B002UZDRK8",
+			"author": "Malcolm Gladwell",
+			"cover_image": "https://m.media-amazon.com/images/I/41567aH9X7L._SL320_.jpg",
+			"description": "In this stunning audiobook, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\" - the best and the brightest, the most famous, and the most successful. He asks the question: What makes high-achievers different? Listen to find out more....",
+			"length": "7 hrs and 18 mins",
+			"minutes": 438,
+			"narrated_by": "Malcolm Gladwell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 49082,
+				"performance": 37896,
+				"story": 37808
+			},
+			"series": "The Story of Success",
+			"title": "Outliers",
+			"url": "https://www.audible.com/pd/Outliers-Audiobook/B002UZDRK8"
+		},
+		{
+			"asin": "B00ZJFQN9I",
+			"author": "David R. Hawkins MD/PHD",
+			"cover_image": "https://m.media-amazon.com/images/I/41BoLINwhQL._SL320_.jpg",
+			"description": null,
+			"length": "12 hrs and 23 mins",
+			"minutes": 743,
+			"narrated_by": "Peter Lownds PhD",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6978,
+				"performance": 5829,
+				"story": 5782
+			},
+			"series": "The Pathway of Surrender",
+			"title": "Letting Go",
+			"url": "https://www.audible.com/pd/Letting-Go-Audiobook/B00ZJFQN9I"
+		},
+		{
+			"asin": "B004G7VN04",
+			"author": "Jared Diamond",
+			"cover_image": "https://m.media-amazon.com/images/I/51Oi+FcrkKL._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 20 mins",
+			"minutes": 980,
+			"narrated_by": "Doug Ordunio",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12451,
+				"performance": 10463,
+				"story": 10419
+			},
+			"series": "The Fate of Human Societies",
+			"title": "Guns, Germs and Steel",
+			"url": "https://www.audible.com/pd/Guns-Germs-and-Steel-Audiobook/B004G7VN04"
+		},
+		{
+			"asin": "B0D92ZK7QC",
+			"author": "Andrew Klavan",
+			"cover_image": "https://m.media-amazon.com/images/I/511XFamVlgL._SL320_.jpg",
+			"description": "In The Kingdom of Cain, crime novelist, screenwriter, and cultural critic Andrew Klavan explores how artists' imaginative engagement with the evil of murder in film and literature can point us to ways of living honestly, beautifully, and even joyfully in a dark world.",
+			"length": "6 hrs and 49 mins",
+			"minutes": 409,
+			"narrated_by": "Andrew Klavan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 67,
+				"performance": 65,
+				"story": 65
+			},
+			"series": "Finding God in the Literature of Darkness",
+			"title": "The Kingdom of Cain",
+			"url": "https://www.audible.com/pd/The-Kingdom-of-Cain-Audiobook/B0D92ZK7QC"
+		},
+		{
+			"asin": "B0DQDZVW3L",
+			"author": "Joe Concha",
+			"cover_image": "https://m.media-amazon.com/images/I/51DpX+IoH9L._SL320_.jpg",
+			"description": "National Bestselling author Joe Concha hip checks the mainstream media to deliver the juicy truth about this important moment in history.",
+			"length": "7 hrs and 25 mins",
+			"minutes": 445,
+			"narrated_by": "Joe Concha",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31,
+				"performance": 29,
+				"story": 29
+			},
+			"series": "Inside Trump's Big Beautiful Campaign",
+			"title": "The Greatest Comeback Ever",
+			"url": "https://www.audible.com/pd/The-Greatest-Comeback-Ever-Audiobook/B0DQDZVW3L"
+		},
+		{
+			"asin": "B095L28R1H",
+			"author": "Suzanne Humphries, Roman Bystrianyk",
+			"cover_image": "https://m.media-amazon.com/images/I/511eONAeEjS._SL320_.jpg",
+			"description": "Today, we are told that medical interventions increased our lifespan and single-handedly prevented masses of deaths. But is this really true? Dissolving Illusions details facts and figures from long-overlooked medical journals, books, newspapers, and other sources....",
+			"length": "14 hrs and 37 mins",
+			"minutes": 877,
+			"narrated_by": "Tyler Behnke",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 488,
+				"performance": 436,
+				"story": 435
+			},
+			"series": "By:\n                        Suzanne Humphries, Roman Bystrianyk",
+			"title": "Dissolving Illusions",
+			"url": "https://www.audible.com/pd/Dissolving-Illusions-Audiobook/B095L28R1H"
+		},
+		{
+			"asin": "B00TJJNSQG",
+			"author": "Marshall Rosenberg PhD",
+			"cover_image": "https://m.media-amazon.com/images/I/41iSvvwsRyL._SL320_.jpg",
+			"description": null,
+			"length": "5 hrs and 9 mins",
+			"minutes": 309,
+			"narrated_by": "Marshall Rosenberg PhD",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 8918,
+				"performance": 7421,
+				"story": 7324
+			},
+			"series": "Create Your Life, Your Relationships, and Your World in Harmony with Your Values",
+			"title": "Nonviolent Communication",
+			"url": "https://www.audible.com/pd/Nonviolent-Communication-Audiobook/B00TJJNSQG"
+		},
+		{
+			"asin": "B0CQ4CZZ8R",
+			"author": "Thomas Sowell",
+			"cover_image": "https://m.media-amazon.com/images/I/41+7cX0tZTL._SL320_.jpg",
+			"description": "In this fifth edition of Basic Economics, Thomas Sowell revises and updates his popular book on commonsense economics, bringing the world into clearer focus through a basic understanding of the fundamental economic principles and how they explain our lives....",
+			"length": "28 hrs and 6 mins",
+			"minutes": 1686,
+			"narrated_by": "Stefan Rudnicki",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 121,
+				"performance": 104,
+				"story": 104
+			},
+			"series": "A Common Sense Guide to the Economy",
+			"title": "Basic Economics, Fifth Edition",
+			"url": "https://www.audible.com/pd/Basic-Economics-Fifth-Edition-Audiobook/B0CQ4CZZ8R"
+		},
+		{
+			"asin": "B01M4IDLAG",
+			"author": "Ryan Holiday, Stephen Hanselman",
+			"cover_image": "https://m.media-amazon.com/images/I/514WgltUohL._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 6 mins",
+			"minutes": 606,
+			"narrated_by": "Brian Holsopple",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3305,
+				"performance": 2772,
+				"story": 2737
+			},
+			"series": "366 Meditations on Wisdom, Perseverance, and the Art of Living",
+			"title": "The Daily Stoic",
+			"url": "https://www.audible.com/pd/The-Daily-Stoic-Audiobook/B01M4IDLAG"
+		},
+		{
+			"asin": "B002VA8IXS",
+			"author": "Robert Greene",
+			"cover_image": "https://m.media-amazon.com/images/I/41PfHefFq1L._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 52 mins",
+			"minutes": 592,
+			"narrated_by": "Don Leslie",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6348,
+				"performance": 4950,
+				"story": 4946
+			},
+			"series": "By:\n                        Robert Greene",
+			"title": "The 48 Laws of Power",
+			"url": "https://www.audible.com/pd/The-48-Laws-of-Power-Audiobook/B002VA8IXS"
+		},
+		{
+			"asin": "B0CW7KJ9M5",
+			"author": "Bill O'Reilly, Martin Dugard",
+			"cover_image": "https://m.media-amazon.com/images/I/51H5xO1cQ1L._SL320_.jpg",
+			"description": "Authors of the acclaimed Killing books, the #1 bestselling narrative history series in the world, Bill O’Reilly and Martin Dugard begin a new direction with Confronting the Presidents.",
+			"length": "16 hrs and 26 mins",
+			"minutes": 986,
+			"narrated_by": "Robert Petkoff",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1037,
+				"performance": 969,
+				"story": 969
+			},
+			"series": "No Spin Assessments from Washington to Biden",
+			"title": "Confronting the Presidents",
+			"url": "https://www.audible.com/pd/Confronting-the-Presidents-Audiobook/B0CW7KJ9M5"
+		},
+		{
+			"asin": "B084YVRDJX",
+			"author": "Malcolm X, Alex Haley",
+			"cover_image": "https://m.media-amazon.com/images/I/51OgbwpJPlL._SL320_.jpg",
+			"description": "In this searing classic autobiography, originally published in 1965, Malcolm X, the Muslim leader, firebrand, and Black empowerment activist, tells the extraordinary story of his life and the growth of the Human Rights movement....",
+			"length": "16 hrs and 52 mins",
+			"minutes": 1012,
+			"narrated_by": "Laurence Fishburne",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12820,
+				"performance": 11417,
+				"story": 11358
+			},
+			"series": "As Told to Alex Haley",
+			"title": "The Autobiography of Malcolm X",
+			"url": "https://www.audible.com/pd/The-Autobiography-of-Malcolm-X-Audiobook/B084YVRDJX"
+		},
+		{
+			"asin": "1977386865",
+			"author": "Brianna Wiest",
+			"cover_image": "https://m.media-amazon.com/images/I/41UMKWmPb5L._SL320_.jpg",
+			"description": null,
+			"length": "10 hrs and 45 mins",
+			"minutes": 645,
+			"narrated_by": "Abby Craden",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2623,
+				"performance": 2235,
+				"story": 2217
+			},
+			"series": "By:\n                        Brianna Wiest",
+			"title": "101 Essays That Will Change the Way You Think",
+			"url": "https://www.audible.com/pd/101-Essays-That-Will-Change-the-Way-You-Think-Audiobook/1977386865"
+		},
+		{
+			"asin": "B0DWHKZSLZ",
+			"author": "Elie Mystal",
+			"cover_image": "https://m.media-amazon.com/images/I/51eE8Ze1-aL._SL320_.jpg",
+			"description": "The New York Times bestselling author brings his trademark legal acumen and passionate snark to offer a brilliant takedown of ten shocking pieces of legislation—an urgent yet hopeful story for our current political climate",
+			"length": "8 hrs and 57 mins",
+			"minutes": 537,
+			"narrated_by": "Elie Mystal",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 106,
+				"performance": 103,
+				"story": 103
+			},
+			"series": "Ten Popular Laws That Are Ruining America",
+			"title": "Bad Law",
+			"url": "https://www.audible.com/pd/Bad-Law-Audiobook/B0DWHKZSLZ"
+		},
+		{
+			"asin": "B0BPN3GXDS",
+			"author": "Gabrielle Townsend",
+			"cover_image": "https://m.media-amazon.com/images/I/41DJcMFY+sL._SL320_.jpg",
+			"description": "In a world of social media and 24/7 news, screen addiction is a very real problem...but with the right guidance, you can escape its clutches and reclaim your life....",
+			"length": "5 hrs and 10 mins",
+			"minutes": 310,
+			"narrated_by": "Jacki Giardina",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 51,
+				"performance": 51,
+				"story": 51
+			},
+			"series": "A Practical Science and Psychological Based Guide to Identifying, Solving & Recovering from Screen Addictions",
+			"title": "Cell Phone and Screen Addiction Mastery: A 12-Step Guide to Get back Your Time!:",
+			"url": "https://www.audible.com/pd/Cell-Phone-and-Screen-Addiction-Mastery-A-12-Step-Guide-to-Get-back-Your-Time-Audiobook/B0BPN3GXDS"
+		},
+		{
+			"asin": "B0CR48RND2",
+			"author": "Sharon McMahon",
+			"cover_image": "https://m.media-amazon.com/images/I/41vOfv3+P9L._SL320_.jpg",
+			"description": "From America’s favorite government teacher, a “fascinating and fun” (Adam Grant) portrait of twelve ordinary Americans whose courage formed the character of our country.",
+			"length": "10 hrs and 13 mins",
+			"minutes": 613,
+			"narrated_by": "Sharon McMahon",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1164,
+				"performance": 1128,
+				"story": 1128
+			},
+			"series": "Twelve Unsung Americans Who Changed the Course of History, from the Founding to the Civil Rights Movement",
+			"title": "The Small and the Mighty",
+			"url": "https://www.audible.com/pd/The-Small-and-the-Mighty-Audiobook/B0CR48RND2"
+		}
+	],
+	"category": {
+		"href": "/cat/Politics-Social-Sciences-Audiobooks/18574641011",
+		"title": "Politics & Social Sciences"
+	}
+}

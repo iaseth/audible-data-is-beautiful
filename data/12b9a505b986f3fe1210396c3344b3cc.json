@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B01H478VR0",
+			"author": "Robin Wall Kimmerer",
+			"cover_image": "https://m.media-amazon.com/images/I/61nD2KiCA5L._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 44 mins",
+			"minutes": 1004,
+			"narrated_by": "Robin Wall Kimmerer",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11534,
+				"performance": 10009,
+				"story": 9983
+			},
+			"series": "Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+			"title": "Braiding Sweetgrass",
+			"url": "https://www.audible.com/pd/Braiding-Sweetgrass-Audiobook/B01H478VR0"
+		},
+		{
+			"asin": "1250852013",
+			"author": "Cameron Hanes",
+			"cover_image": "https://m.media-amazon.com/images/I/51BvZPKBcCL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 52 mins",
+			"minutes": 472,
+			"narrated_by": "Cameron Hanes, David Goggins, Joe Rogan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15520,
+				"performance": 13813,
+				"story": 13746
+			},
+			"series": "How to Work Hard, Outlast, and Keep Hammering",
+			"title": "Endure",
+			"url": "https://www.audible.com/pd/Endure-Audiobook/1250852013"
+		},
+		{
+			"asin": "B0DN7R1BLY",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/512Go2xqcfL._SL320_.jpg",
+			"description": "From the creators of the New York Times bestselling audio series Campfire Stories and MeatEater’s American History comes a new audiobook original that plunges listeners into the untamed world of a celebrated and misunderstood group of nineteenth-century outdoorsmen: the Mountain Men.",
+			"length": "7 hrs and 32 mins",
+			"minutes": 452,
+			"narrated_by": "Steven Rinella",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 429,
+				"performance": 419,
+				"story": 419
+			},
+			"series": "The Mountain Men (1806-1840)",
+			"title": "MeatEater's American History",
+			"url": "https://www.audible.com/pd/MeatEaters-American-History-Audiobook/B0DN7R1BLY"
+		},
+		{
+			"asin": "1797121766",
+			"author": "Tim S. Grover, Shari Wenk",
+			"cover_image": "https://m.media-amazon.com/images/I/41Rige5gB3L._SL320_.jpg",
+			"description": "For more than two decades, legendary trainer Tim Grover has taken the greats - Michael Jordan, Kobe Bryant, Dwyane Wade, and hundreds of relentless competitors in sports, business, and every walk of life - and made them greater....",
+			"length": "6 hrs and 38 mins",
+			"minutes": 398,
+			"narrated_by": "Pete Simonelli",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6815,
+				"performance": 5859,
+				"story": 5825
+			},
+			"series": "From Good to Great to Unstoppable",
+			"title": "Relentless",
+			"url": "https://www.audible.com/pd/Relentless-Audiobook/1797121766"
+		},
+		{
+			"asin": "0593510801",
+			"author": "Stacy T. Sims, Selene Yeager",
+			"cover_image": "https://m.media-amazon.com/images/I/51BH99mxsQL._SL320_.jpg",
+			"description": "",
+			"length": "9 hrs and 26 mins",
+			"minutes": 566,
+			"narrated_by": "Gina Daniels",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 304,
+				"performance": 256,
+				"story": 254
+			},
+			"series": "Your Guide to Kicking Ass, Feeling Great, and Crushing Goals Through Menopause and Beyond",
+			"title": "Next Level",
+			"url": "https://www.audible.com/pd/Next-Level-Audiobook/0593510801"
+		},
+		{
+			"asin": "B0F45Q87X1",
+			"author": "Ivan Ray Tannehill",
+			"cover_image": "https://m.media-amazon.com/images/I/41OqF60KRNL._SL320_.jpg",
+			"description": "This is the lively account of the hair-raising experiences of the men who have probed by sea and air into the inner mysteries of the world’s most terrible storms.",
+			"length": "9 hrs and 11 mins",
+			"minutes": 551,
+			"narrated_by": "David Wales",
+			"ratings": {
+				"overall": "3 out of 5 stars",
+				"performance": "2 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1,
+				"performance": 1,
+				"story": 1
+			},
+			"series": "By:\n                        Ivan Ray Tannehill",
+			"title": "The Hurricane Hunters",
+			"url": "https://www.audible.com/pd/The-Hurricane-Hunters-Audiobook/B0F45Q87X1"
+		},
+		{
+			"asin": "1797130730",
+			"author": "Joe Posnanski",
+			"cover_image": "https://m.media-amazon.com/images/I/311WGHQHR2L._SL320_.jpg",
+			"description": "Longer than Moby-Dick and nearly as ambitious,​The Baseball 100 is a one-of-a-kind work by award-winning sportswriter and lifelong student of the game Joe Posnanski that tells the story of the sport through the remarkable lives of its 100 greatest players....",
+			"length": "30 hrs and 46 mins",
+			"minutes": 1846,
+			"narrated_by": "Cary Hite",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 555,
+				"performance": 478,
+				"story": 477
+			},
+			"series": "By:\n                        Joe Posnanski",
+			"title": "The Baseball 100",
+			"url": "https://www.audible.com/pd/The-Baseball-100-Audiobook/1797130730"
+		},
+		{
+			"asin": "B004I76HQC",
+			"author": "Miyamoto Musashi",
+			"cover_image": "https://m.media-amazon.com/images/I/51RmCa0F0ZL._SL320_.jpg",
+			"description": null,
+			"length": "1 hr and 39 mins",
+			"minutes": 99,
+			"narrated_by": "Alec Sand",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1117,
+				"performance": 914,
+				"story": 912
+			},
+			"series": "The Strategy of Musashi",
+			"title": "A Book of Five Rings",
+			"url": "https://www.audible.com/pd/A-Book-of-Five-Rings-Audiobook/B004I76HQC"
+		},
+		{
+			"asin": "B01KMNFUIQ",
+			"author": "Peter Wohlleben",
+			"cover_image": "https://m.media-amazon.com/images/I/51iXOhWU5JL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 33 mins",
+			"minutes": 453,
+			"narrated_by": "Mike Grady",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6530,
+				"performance": 5602,
+				"story": 5564
+			},
+			"series": "What They Feel, How They Communicate - Discoveries from a Secret World",
+			"title": "The Hidden Life of Trees",
+			"url": "https://www.audible.com/pd/The-Hidden-Life-of-Trees-Audiobook/B01KMNFUIQ"
+		},
+		{
+			"asin": "B002VA8G9E",
+			"author": "W. Timothy Gallwey",
+			"cover_image": "https://m.media-amazon.com/images/I/41cDz1cc7aL._SL320_.jpg",
+			"description": "This phenomenally successful guide has become a touchstone for hundreds of thousands of people. Not just for tennis players, or even just for athletes in general, this handbook works for anybody who wants to improve their performance in any activity, from playing music to getting ahead at work....",
+			"length": "4 hrs and 36 mins",
+			"minutes": 276,
+			"narrated_by": "Dan Woren",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3701,
+				"performance": 2975,
+				"story": 2962
+			},
+			"series": "The Classic Guide to the Mental Side of Peak Performance",
+			"title": "The Inner Game of Tennis",
+			"url": "https://www.audible.com/pd/The-Inner-Game-of-Tennis-Audiobook/B002VA8G9E"
+		},
+		{
+			"asin": "0063014866",
+			"author": "Dr. Nate Zinsser",
+			"cover_image": "https://m.media-amazon.com/images/I/51TCXHG3RJL._SL320_.jpg",
+			"description": "Dr. Nate Zinsser has spent his career training the minds of the U.S. Military Academy’s cadets as they prepare to lead and perform when the stakes are the very highest—on the battlefield....",
+			"length": "10 hrs and 34 mins",
+			"minutes": 634,
+			"narrated_by": "Qarie Marshall",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 564,
+				"performance": 485,
+				"story": 484
+			},
+			"series": "A Battle-Tested Guide to Unshakable Performance",
+			"title": "The Confident Mind",
+			"url": "https://www.audible.com/pd/The-Confident-Mind-Audiobook/0063014866"
+		},
+		{
+			"asin": "B0CJWFMZDS",
+			"author": "Zoë Schlanger",
+			"cover_image": "https://m.media-amazon.com/images/I/41zOcvBc+lL._SL320_.jpg",
+			"description": "Award-winning Atlantic staff writer Zoë Schlanger delivers a groundbreaking work of popular science that probes the hidden world of the plant kingdom....",
+			"length": "10 hrs and 56 mins",
+			"minutes": 656,
+			"narrated_by": "Zoë Schlanger",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 451,
+				"performance": 411,
+				"story": 411
+			},
+			"series": "How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth",
+			"title": "The Light Eaters",
+			"url": "https://www.audible.com/pd/The-Light-Eaters-Audiobook/B0CJWFMZDS"
+		},
+		{
+			"asin": "B0BKC3DHJT",
+			"author": "Jon Sherman",
+			"cover_image": "https://m.media-amazon.com/images/I/51tQw8HuR3L._SL320_.jpg",
+			"description": "Lower your scores, increase enjoyment. Are you struggling to take your golf game to the next level? Learn the philosophy that has helped thousands of players worldwide lower their scores and improve their relationship with golf....",
+			"length": "9 hrs and 46 mins",
+			"minutes": 586,
+			"narrated_by": "Jon Sherman",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 291,
+				"performance": 259,
+				"story": 257
+			},
+			"series": "How to Build a Game That Lasts a Lifetime",
+			"title": "The Four Foundations of Golf",
+			"url": "https://www.audible.com/pd/The-Four-Foundations-of-Golf-Audiobook/B0BKC3DHJT"
+		},
+		{
+			"asin": "B08CB42P1V",
+			"author": "Shane Jones",
+			"cover_image": "https://m.media-amazon.com/images/I/519IB7aNfdL._SL320_.jpg",
+			"description": "In The Little Book of Breaking 80, the author provides a realistic blueprint for breaking 80 that any golfer of any level can easily apply and quickly see real and lasting scoring improvement....",
+			"length": "5 hrs and 10 mins",
+			"minutes": 310,
+			"narrated_by": "Mark Williams",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 238,
+				"performance": 199,
+				"story": 197
+			},
+			"series": "How to Shoot in the 70s (Almost) Every Time You Play Golf",
+			"title": "The Little Book of Breaking 80",
+			"url": "https://www.audible.com/pd/The-Little-Book-of-Breaking-80-Audiobook/B08CB42P1V"
+		},
+		{
+			"asin": "B0D2FLBPGR",
+			"author": "James Lawrence",
+			"cover_image": "https://m.media-amazon.com/images/I/41BGrw8MXrL._SL320_.jpg",
+			"description": "James “Iron Cowboy” Lawrence—the greatest endurance athlete in human history—shares the ultimate guide to mental toughness.",
+			"length": "6 hrs and 12 mins",
+			"minutes": 372,
+			"narrated_by": "James Lawrence",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 45,
+				"performance": 45,
+				"story": 45
+			},
+			"series": "Lessons Learned from Conquering the Impossible",
+			"title": "Iron Hope",
+			"url": "https://www.audible.com/pd/Iron-Hope-Audiobook/B0D2FLBPGR"
+		},
+		{
+			"asin": "0593150953",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/51RU-740bwL._SL320_.jpg",
+			"description": "Both a captivating narrative and a book of environmental and historical significance, American Buffalo tells us as much about ourselves as Americans as it does about the creature who perhaps best of all embodies the American ethos....",
+			"length": "7 hrs and 42 mins",
+			"minutes": 462,
+			"narrated_by": "Steven Rinella",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 10315,
+				"performance": 9140,
+				"story": 9096
+			},
+			"series": "In Search of a Lost Icon",
+			"title": "American Buffalo",
+			"url": "https://www.audible.com/pd/American-Buffalo-Audiobook/0593150953"
+		},
+		{
+			"asin": "B0BJ1BQJC6",
+			"author": "Mike Glover, Jack Carr - foreword",
+			"cover_image": "https://m.media-amazon.com/images/I/41BkgQSplKL._SL320_.jpg",
+			"description": "A former Green Beret’s indispensable course in preparedness, Prepared teaches the keys to building a resilient, fearless life....",
+			"length": "5 hrs and 14 mins",
+			"minutes": 314,
+			"narrated_by": "Mike Glover, Ray Porter",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1137,
+				"performance": 1060,
+				"story": 1055
+			},
+			"series": "A Manual for Surviving Worst-Case Scenarios",
+			"title": "Prepared",
+			"url": "https://www.audible.com/pd/Prepared-Audiobook/B0BJ1BQJC6"
+		},
+		{
+			"asin": "B0CMPNJVB3",
+			"author": "Cory Richards",
+			"cover_image": "https://m.media-amazon.com/images/I/41Ay2wNquvL._SL320_.jpg",
+			"description": "The Color of Everything is a thrilling tale of risk and adventure, written by a man who has done it all: he’s stood at the top of the world, climbed imposing mountain faces alone in the dark and become the only American to summit an 8,000-meter peak in winter....",
+			"length": "11 hrs and 19 mins",
+			"minutes": 679,
+			"narrated_by": "Cory Richards",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 139,
+				"performance": 134,
+				"story": 134
+			},
+			"series": "A Journey to Quiet the Chaos Within",
+			"title": "The Color of Everything",
+			"url": "https://www.audible.com/pd/The-Color-of-Everything-Audiobook/B0CMPNJVB3"
+		},
+		{
+			"asin": "B0D92MKY22",
+			"author": "Steve Williams, Evin Priest",
+			"cover_image": "https://m.media-amazon.com/images/I/41vZXtCyY0L._SL320_.jpg",
+			"description": "Steve Williams, arguably the greatest caddie in golf history, teams up with renowned golf journalist Evin Priest to give his definitive account of his 12-year partnership with the legendary Tiger Woods, sharing personal, never-before-told moments of their friendship on and off the course.",
+			"length": "9 hrs and 7 mins",
+			"minutes": 547,
+			"narrated_by": "Chris Abell",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 43,
+				"performance": 41,
+				"story": 41
+			},
+			"series": "Alongside Tiger for His Epic Twelve-Year, Thirteen-Majors Run",
+			"title": "Together We Roared",
+			"url": "https://www.audible.com/pd/Together-We-Roared-Audiobook/B0D92MKY22"
+		},
+		{
+			"asin": "B0D488RSRL",
+			"author": "Riley Black",
+			"cover_image": "https://m.media-amazon.com/images/I/51TxEsmg52L._SL320_.jpg",
+			"description": "A gorgeously composed look at the longstanding relationship between prehistoric plants and life on Earth.",
+			"length": "9 hrs and 36 mins",
+			"minutes": 576,
+			"narrated_by": "Wren Mack",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 27,
+				"performance": 25,
+				"story": 25
+			},
+			"series": "Plants, Animals, and Evolution's Greatest Romance",
+			"title": "When the Earth Was Green",
+			"url": "https://www.audible.com/pd/When-the-Earth-Was-Green-Audiobook/B0D488RSRL"
+		},
+		{
+			"asin": "0593400240",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/51aXFGwd5ML._SL320_.jpg",
+			"description": "Gather around for campfire stories with the MeatEater crew as they share 16 harrowing true tales of survival, grit, and misfortune in the great outdoors - an immersive audio experience from the host of the long-running Netflix series and top-ranked wilderness podcast....",
+			"length": "5 hrs and 15 mins",
+			"minutes": 315,
+			"narrated_by": "Steven Rinella, the Contributors",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 6112,
+				"performance": 5406,
+				"story": 5382
+			},
+			"series": "By:\n                        Steven Rinella",
+			"title": "MeatEater's Campfire Stories: Close Calls",
+			"url": "https://www.audible.com/pd/MeatEaters-Campfire-Stories-Close-Calls-Audiobook/0593400240"
+		},
+		{
+			"asin": "B0DMQFP1CF",
+			"author": "Saraya-Jade Bevis",
+			"cover_image": "https://m.media-amazon.com/images/I/41-NcWrXJOL._SL320_.jpg",
+			"description": "Wrestling superstar Saraya-Jade Bevis, formerly WWE’s Paige, is one of the biggest names in the wrestling world. Hell in Boots is Saraya’s real, uncensored, story—an eye-opening memoir of family drama, stardom, despair, and resilience.",
+			"length": "7 hrs and 30 mins",
+			"minutes": 450,
+			"narrated_by": "Saraya-Jade Bevis",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 93,
+				"performance": 92,
+				"story": 92
+			},
+			"series": "Clawing My Way Through Nine Lives",
+			"title": "Hell in Boots",
+			"url": "https://www.audible.com/pd/Hell-in-Boots-Audiobook/B0DMQFP1CF"
+		},
+		{
+			"asin": "059320980X",
+			"author": "Merlin Sheldrake",
+			"cover_image": "https://m.media-amazon.com/images/I/61cn02mMKOL._SL320_.jpg",
+			"description": "When we think of fungi, we likely think of mushrooms. But mushrooms are only fruiting bodies, analogous to apples on a tree. Most fungi live out of sight, yet make up a massively diverse kingdom of organisms that supports and sustains nearly all living systems....",
+			"length": "9 hrs and 32 mins",
+			"minutes": 572,
+			"narrated_by": "Merlin Sheldrake",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4097,
+				"performance": 3479,
+				"story": 3471
+			},
+			"series": "How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures",
+			"title": "Entangled Life",
+			"url": "https://www.audible.com/pd/Entangled-Life-Audiobook/059320980X"
+		},
+		{
+			"asin": "B0D63N3H6Q",
+			"author": "Steven Rinella, Clay Newcomb, Brent Reaves, and others",
+			"cover_image": "https://m.media-amazon.com/images/I/51WTY9SR7cL._SL320_.jpg",
+			"description": "A collection of outdoorsmen share remarkable tales of life-altering moments.",
+			"length": "5 hrs and 4 mins",
+			"minutes": 304,
+			"narrated_by": "the Contributors",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 281,
+				"performance": 269,
+				"story": 268
+			},
+			"series": "Campfire Stories",
+			"title": "MeatEater's Campfire Stories: Discoveries, Revelations & Near Misses",
+			"url": "https://www.audible.com/pd/MeatEaters-Campfire-Stories-Discoveries-Revelations-Near-Misses-Audiobook/B0D63N3H6Q"
+		},
+		{
+			"asin": "B00W1V2HCK",
+			"author": "Dr. Bob Rotella",
+			"cover_image": "https://m.media-amazon.com/images/I/51jyG+LIGnL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 12 mins",
+			"minutes": 492,
+			"narrated_by": "Dr. Bob Rotella",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1407,
+				"performance": 1209,
+				"story": 1198
+			},
+			"series": "In Sports and in Life",
+			"title": "How Champions Think",
+			"url": "https://www.audible.com/pd/How-Champions-Think-Audiobook/B00W1V2HCK"
+		},
+		{
+			"asin": "0062853945",
+			"author": "Andrew H. Knoll",
+			"cover_image": "https://m.media-amazon.com/images/I/61xJfwDBvAL._SL320_.jpg",
+			"description": "Drawing on his decades of field research and up-to-the-minute understanding of the latest science, renowned geologist Andrew H. Knoll delivers a rigorous yet accessible biography of Earth, charting our home planet's epic 4.6 billion-year story....",
+			"length": "4 hrs and 57 mins",
+			"minutes": 297,
+			"narrated_by": "Tom Parks",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 267,
+				"performance": 221,
+				"story": 221
+			},
+			"series": "Four Billion Years in Eight Chapters",
+			"title": "A Brief History of Earth",
+			"url": "https://www.audible.com/pd/A-Brief-History-of-Earth-Audiobook/0062853945"
+		},
+		{
+			"asin": "B00BTIEXBO",
+			"author": "Michael Matthews",
+			"cover_image": "https://m.media-amazon.com/images/I/514k0lRx1TL._SL320_.jpg",
+			"description": "The bestselling fitness book for men who want to gain 25-35 pounds of lean muscle and lose as much fat or more in just 3-5 hours per week—and without giving up delicious foods or doing grueling workouts.",
+			"length": "14 hrs and 16 mins",
+			"minutes": 856,
+			"narrated_by": "Michael Matthews",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3969,
+				"performance": 3403,
+				"story": 3354
+			},
+			"series": "The Simple Science of Building the Ultimate Male Body",
+			"title": "Bigger Leaner Stronger",
+			"url": "https://www.audible.com/pd/Bigger-Leaner-Stronger-Audiobook/B00BTIEXBO"
+		},
+		{
+			"asin": "B0C2DK83FP",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/51ytt9gAmdL._SL320_.jpg",
+			"description": "Meat Eater chronicles Rinella’s lifelong relationship with nature and hunting through the lens of ten hunts, beginning when he was an aspiring mountain man at age ten and ending as a thirty-seven-year-old Brooklyn father who hunts in the remotest corners of North America....",
+			"length": "7 hrs and 1 min",
+			"minutes": 421,
+			"narrated_by": "Steven Rinella",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 441,
+				"performance": 410,
+				"story": 410
+			},
+			"series": "Adventures from the Life of an American Hunter",
+			"title": "Meat Eater",
+			"url": "https://www.audible.com/pd/Meat-Eater-Audiobook/B0C2DK83FP"
+		},
+		{
+			"asin": "B07C64PNYK",
+			"author": "Tristram Korten",
+			"cover_image": "https://m.media-amazon.com/images/I/51FSBVtwJHL._SL320_.jpg",
+			"description": "The true story of two doomed ships and a daring search-and-rescue operation that shines a light on the elite Coast Guard swimmers trained for the most dangerous ocean missions....",
+			"length": "9 hrs and 48 mins",
+			"minutes": 588,
+			"narrated_by": "Dan Woren",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 219,
+				"performance": 188,
+				"story": 188
+			},
+			"series": "Two Ships, a Deadly Hurricane, and an Epic Battle for Survival",
+			"title": "Into the Storm",
+			"url": "https://www.audible.com/pd/Into-the-Storm-Audiobook/B07C64PNYK"
+		},
+		{
+			"asin": "059340064X",
+			"author": "Elizabeth Letts",
+			"cover_image": "https://m.media-amazon.com/images/I/51rNtusgpaS._SL320_.jpg",
+			"description": "From the number-one New York Times best-selling author of The Perfect Horse and The Eighty-Dollar Champion comes the triumphant true story of a woman who rode her horse across America in the 1950s, fulfilling her dying wish to see the Pacific Ocean....",
+			"length": "10 hrs and 27 mins",
+			"minutes": 627,
+			"narrated_by": "Elizabeth Letts, Tavia Gilbert",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1112,
+				"performance": 995,
+				"story": 988
+			},
+			"series": "The True Story of a Woman, Her Horse, and Their Last-Chance Journey Across America",
+			"title": "The Ride of Her Life",
+			"url": "https://www.audible.com/pd/The-Ride-of-Her-Life-Audiobook/059340064X"
+		}
+	],
+	"category": {
+		"href": "/cat/Sports-Outdoors-Audiobooks/18580648011",
+		"title": "Sports & Outdoors"
+	}
+}

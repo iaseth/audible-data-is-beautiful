@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B01FY3KMKK",
+			"author": "Donald J. Trump, Tony Schwartz",
+			"cover_image": "https://m.media-amazon.com/images/I/41zTcActaPL._SL320_.jpg",
+			"description": null,
+			"length": "9 hrs and 59 mins",
+			"minutes": 599,
+			"narrated_by": "Kaleo Griffith, Donald J. Trump",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12761,
+				"performance": 11147,
+				"story": 11139
+			},
+			"series": "By:\n                        Donald J. Trump, Tony Schwartz",
+			"title": "Trump: The Art of the Deal",
+			"url": "https://www.audible.com/pd/Trump-The-Art-of-the-Deal-Audiobook/B01FY3KMKK"
+		},
+		{
+			"asin": "B09VHWHJS2",
+			"author": "Jennette McCurdy",
+			"cover_image": "https://m.media-amazon.com/images/I/41clGmWQP6L._SL320_.jpg",
+			"description": "iCarly and Sam & Cat star Jennette McCurdy shares her struggles as a former child actor—including eating disorders, addiction, and a complicated relationship with her overbearing mother—and how she retook control of her life.",
+			"length": "6 hrs and 26 mins",
+			"minutes": 386,
+			"narrated_by": "Jennette McCurdy",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 119107,
+				"performance": 105282,
+				"story": 104897
+			},
+			"series": "By:\n                        Jennette McCurdy",
+			"title": "I'm Glad My Mom Died",
+			"url": "https://www.audible.com/pd/Im-Glad-My-Mom-Died-Audiobook/B09VHWHJS2"
+		},
+		{
+			"asin": "B0DDR679XP",
+			"author": "Christie Brinkley",
+			"cover_image": "https://m.media-amazon.com/images/I/41gVU4pYgSL._SL320_.jpg",
+			"description": "In 1974, a twenty-year-old Christie Brinkley was “discovered” outside a Paris phone booth, which set off a meteoric modeling career. Now, for the first time, Christie shares what life has been like, both in front of and behind the cameras,",
+			"length": "14 hrs and 32 mins",
+			"minutes": 872,
+			"narrated_by": "Christie Brinkley",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 115,
+				"performance": 112,
+				"story": 112
+			},
+			"series": "A Memoir",
+			"title": "Uptown Girl",
+			"url": "https://www.audible.com/pd/Uptown-Girl-Audiobook/B0DDR679XP"
+		},
+		{
+			"asin": "0063097710",
+			"author": "Eddie Jaku",
+			"cover_image": "https://m.media-amazon.com/images/I/51+CSutjrJS._SL320_.jpg",
+			"description": "",
+			"length": "3 hrs and 47 mins",
+			"minutes": 227,
+			"narrated_by": "Raphael Corkhill",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2573,
+				"performance": 2333,
+				"story": 2331
+			},
+			"series": "The Beautiful Life of an Auschwitz Survivor",
+			"title": "The Happiest Man on Earth",
+			"url": "https://www.audible.com/pd/The-Happiest-Man-on-Earth-Audiobook/0063097710"
+		},
+		{
+			"asin": "B01EM4ZO14",
+			"author": "J. D. Vance",
+			"cover_image": "https://m.media-amazon.com/images/I/51B1uYApuHL._SL320_.jpg",
+			"description": null,
+			"length": "6 hrs and 49 mins",
+			"minutes": 409,
+			"narrated_by": "J. D. Vance",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 62436,
+				"performance": 55839,
+				"story": 55739
+			},
+			"series": "A Memoir of a Family and Culture in Crisis",
+			"title": "Hillbilly Elegy",
+			"url": "https://www.audible.com/pd/Hillbilly-Elegy-Audiobook/B01EM4ZO14"
+		},
+		{
+			"asin": "0062945793",
+			"author": "Tom Selleck, Ellis Henican - contributor",
+			"cover_image": "https://m.media-amazon.com/images/I/41-9ZAJNHNL._SL320_.jpg",
+			"description": "Frank, funny and open-hearted, You Never Know is an intimate memoir from one of the most beloved actors of our time, the highly personal story of a remarkable life and thoroughly accidental career.",
+			"length": "15 hrs and 27 mins",
+			"minutes": 927,
+			"narrated_by": "Tom Selleck",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 789,
+				"performance": 745,
+				"story": 745
+			},
+			"series": "A Memoir",
+			"title": "You Never Know",
+			"url": "https://www.audible.com/pd/You-Never-Know-Audiobook/0062945793"
+		},
+		{
+			"asin": "B0DD8KWZ24",
+			"author": "Admiral William H. McRaven",
+			"cover_image": "https://m.media-amazon.com/images/I/41Bf+j+PubL._SL320_.jpg",
+			"description": "#1 New York Times bestselling author Admiral McRaven tells stories from his life and career that illustrate the principles of effective leadership during times of crisis.",
+			"length": "4 hrs and 39 mins",
+			"minutes": 279,
+			"narrated_by": "Admiral William H. McRaven",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 84,
+				"performance": 84,
+				"story": 84
+			},
+			"series": "Ten Lessons to Learn Before You Need Them",
+			"title": "Conquering Crisis",
+			"url": "https://www.audible.com/pd/Conquering-Crisis-Audiobook/B0DD8KWZ24"
+		},
+		{
+			"asin": "B0DF371XR1",
+			"author": "Chelsea Handler",
+			"cover_image": "https://m.media-amazon.com/images/I/51sDVeMNW6L._SL320_.jpg",
+			"description": "Surprisingly vulnerable and always outrageous, Chelsea Handler captures the antic-filled, exhilarating, and joyful life she’s built—a life that makes the rest of us think, I’ll have what she’s having.",
+			"length": "6 hrs and 13 mins",
+			"minutes": 373,
+			"narrated_by": "Chelsea Handler",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 979,
+				"performance": 958,
+				"story": 958
+			},
+			"series": "By:\n                        Chelsea Handler",
+			"title": "I'll Have What She's Having",
+			"url": "https://www.audible.com/pd/Ill-Have-What-Shes-Having-Audiobook/B0DF371XR1"
+		},
+		{
+			"asin": "B0D9PJ1ZCJ",
+			"author": "Dana Perino",
+			"cover_image": "https://m.media-amazon.com/images/I/41RXw2NcvqL._SL320_.jpg",
+			"description": "Terrific advice, insightful stories, and powerful life lessons curated by Dana Perino the #1 New York Times bestselling author of And the Good News Is . . . and beloved co-host of Fox News' The Five and America’s Newsroom, inspired by her friends and colleagues.",
+			"length": "7 hrs and 14 mins",
+			"minutes": 434,
+			"narrated_by": "Dana Perino, Stephanie Gish, Roger Wayne",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 34,
+				"performance": 31,
+				"story": 31
+			},
+			"series": "The Best Advice for Building a Great Career and a Meaningful Life",
+			"title": "I Wish Someone Had Told Me . . .",
+			"url": "https://www.audible.com/pd/I-Wish-Someone-Had-Told-Me-Audiobook/B0D9PJ1ZCJ"
+		},
+		{
+			"asin": "B0DDRC29LK",
+			"author": "Mark Hoppus, Dan Ozzi - contributor",
+			"cover_image": "https://m.media-amazon.com/images/I/516VpsndGcL._SL320_.jpg",
+			"description": "A smart, funny, and refreshingly candid memoir from Mark Hoppus, the vocalist, bassist, and founding member of pop-punk band blink-182. Narrated in his own voice, the audiobook offers an intimate and immersive experience that fans won’t want to miss.",
+			"length": "7 hrs and 13 mins",
+			"minutes": 433,
+			"narrated_by": "Mark Hoppus",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 761,
+				"performance": 744,
+				"story": 744
+			},
+			"series": "A Memoir",
+			"title": "Fahrenheit-182",
+			"url": "https://www.audible.com/pd/Fahrenheit-182-Audiobook/B0DDRC29LK"
+		},
+		{
+			"asin": "1250852013",
+			"author": "Cameron Hanes",
+			"cover_image": "https://m.media-amazon.com/images/I/51BvZPKBcCL._SL320_.jpg",
+			"description": null,
+			"length": "7 hrs and 52 mins",
+			"minutes": 472,
+			"narrated_by": "Cameron Hanes, David Goggins, Joe Rogan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 15520,
+				"performance": 13813,
+				"story": 13746
+			},
+			"series": "How to Work Hard, Outlast, and Keep Hammering",
+			"title": "Endure",
+			"url": "https://www.audible.com/pd/Endure-Audiobook/1250852013"
+		},
+		{
+			"asin": "B0D9MGPX95",
+			"author": "Kelsey Grammer",
+			"cover_image": "https://m.media-amazon.com/images/I/51eItdtOBvL._SL320_.jpg",
+			"description": null,
+			"length": "15 hrs and 2 mins",
+			"minutes": 902,
+			"narrated_by": "Kelsey Grammer",
+			"ratings": {
+				"overall": "3.5 out of 5 stars",
+				"performance": "3.5 out of 5 stars",
+				"story": "3.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 18,
+				"performance": 16,
+				"story": 16
+			},
+			"series": "A Brother Remembers",
+			"title": "Karen",
+			"url": "https://www.audible.com/pd/Karen-Audiobook/B0D9MGPX95"
+		},
+		{
+			"asin": "B0DVJ512KB",
+			"author": "Jonathan Allen, Amie Parnes",
+			"cover_image": "https://m.media-amazon.com/images/I/51ywTPTriCL._SL320_.jpg",
+			"description": "Fight is the backstage story of bloodsport politics in its rawest form—the clawing, backstabbing, and rabble-rousing that drove Donald Trump into the White House and Democrats into the wilderness.",
+			"length": "11 hrs and 18 mins",
+			"minutes": 678,
+			"narrated_by": "Joe Knezevich",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 589,
+				"performance": 567,
+				"story": 567
+			},
+			"series": "Inside the Wildest Battle for the White House",
+			"title": "Fight",
+			"url": "https://www.audible.com/pd/Fight-Audiobook/B0DVJ512KB"
+		},
+		{
+			"asin": "B09F4X96MC",
+			"author": "Viola Davis",
+			"cover_image": "https://m.media-amazon.com/images/I/511WjJ8gjwL._SL320_.jpg",
+			"description": "In my book, you will meet a little girl named Viola who ran from her past until she made a life-changing decision to stop running forever. This is my story, from a crumbling apartment in Central Falls, Rhode Island, to the stage in New York City, and beyond....",
+			"length": "9 hrs and 15 mins",
+			"minutes": 555,
+			"narrated_by": "Viola Davis",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 42032,
+				"performance": 38523,
+				"story": 38337
+			},
+			"series": "A Memoir",
+			"title": "Finding Me",
+			"url": "https://www.audible.com/pd/Finding-Me-Audiobook/B09F4X96MC"
+		},
+		{
+			"asin": "1799708225",
+			"author": "Gregg Olsen",
+			"cover_image": "https://m.media-amazon.com/images/I/415ANHdj8VL._SL320_.jpg",
+			"description": "Number-one New York Times bestselling author Gregg Olsen’s shocking and empowering true-crime story of three sisters determined to survive their mother’s house of horrors....",
+			"length": "10 hrs and 34 mins",
+			"minutes": 634,
+			"narrated_by": "Karen Peakes",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 26694,
+				"performance": 23262,
+				"story": 23181
+			},
+			"series": "A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+			"title": "If You Tell",
+			"url": "https://www.audible.com/pd/If-You-Tell-Audiobook/1799708225"
+		},
+		{
+			"asin": "B0DN7R1BLY",
+			"author": "Steven Rinella",
+			"cover_image": "https://m.media-amazon.com/images/I/512Go2xqcfL._SL320_.jpg",
+			"description": "From the creators of the New York Times bestselling audio series Campfire Stories and MeatEater’s American History comes a new audiobook original that plunges listeners into the untamed world of a celebrated and misunderstood group of nineteenth-century outdoorsmen: the Mountain Men.",
+			"length": "7 hrs and 32 mins",
+			"minutes": 452,
+			"narrated_by": "Steven Rinella",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 429,
+				"performance": 419,
+				"story": 419
+			},
+			"series": "The Mountain Men (1806-1840)",
+			"title": "MeatEater's American History",
+			"url": "https://www.audible.com/pd/MeatEaters-American-History-Audiobook/B0DN7R1BLY"
+		},
+		{
+			"asin": "B0D43LL2L9",
+			"author": "Gypsy-Rose Blanchard, Melissa Moore, Michele Matrisciani",
+			"cover_image": "https://m.media-amazon.com/images/I/41I1Krjk1jL._SL320_.jpg",
+			"description": "A victim of her mother’s Munchausen by proxy and child abuse survivor, Gypsy-Rose Blanchard’s unique and controversial case made headlines across the world. Now, she’s finally free to start living her life on her terms—and to tell her own story as only she can.",
+			"length": "6 hrs and 35 mins",
+			"minutes": 395,
+			"narrated_by": "Gypsy-Rose Blanchard",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 735,
+				"performance": 715,
+				"story": 715
+			},
+			"series": "A Memoir",
+			"title": "My Time to Stand",
+			"url": "https://www.audible.com/pd/My-Time-to-Stand-Audiobook/B0D43LL2L9"
+		},
+		{
+			"asin": "B0D5Z1LQ4G",
+			"author": "Will Packer",
+			"cover_image": "https://m.media-amazon.com/images/I/414O1S9tIdL._SL320_.jpg",
+			"description": "The billion-dollar Hollywood producer provides a master mentorship by sharing secrets to success honed from working with the biggest stars in the world.",
+			"length": "7 hrs and 35 mins",
+			"minutes": 455,
+			"narrated_by": "Will Packer, Regina Hall, Kevin Hart, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 220,
+				"performance": 210,
+				"story": 210
+			},
+			"series": "The Art of Healthy Arrogance & Dreaming Big",
+			"title": "Who Better Than You?",
+			"url": "https://www.audible.com/pd/Who-Better-than-You-Audiobook/B0D5Z1LQ4G"
+		},
+		{
+			"asin": "B002V5D7IE",
+			"author": "Richard P. Feynman",
+			"cover_image": "https://m.media-amazon.com/images/I/510fhCMBFoL._SL320_.jpg",
+			"description": null,
+			"length": "11 hrs and 31 mins",
+			"minutes": 691,
+			"narrated_by": "Raymond Todd",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12101,
+				"performance": 9731,
+				"story": 9748
+			},
+			"series": "By:\n                        Richard P. Feynman",
+			"title": "Surely You're Joking, Mr. Feynman!",
+			"url": "https://www.audible.com/pd/Surely-Youre-Joking-Mr-Feynman-Audiobook/B002V5D7IE"
+		},
+		{
+			"asin": "B0CMDCLDTP",
+			"author": "Charles T. Munger",
+			"cover_image": "https://m.media-amazon.com/images/I/51andNpgyfL._SL320_.jpg",
+			"description": "\"Spend each day trying to be a little wiser than you were when you woke up,\" Charles T. Munger advises in Poor Charlie’s Almanack. Originally published in 2005, this compendium of 11 talks, delivered by the legendary Berkshire Hathaway....",
+			"length": "13 hrs and 9 mins",
+			"minutes": 789,
+			"narrated_by": "Grover Gardener",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 816,
+				"performance": 724,
+				"story": 724
+			},
+			"series": "The Essential Wit and Wisdom of Charles T. Munger",
+			"title": "Poor Charlie’s Almanack",
+			"url": "https://www.audible.com/pd/Poor-Charlies-Almanack-Audiobook/B0CMDCLDTP"
+		},
+		{
+			"asin": "B0DMWRV54F",
+			"author": "Niall Harbison",
+			"cover_image": "https://m.media-amazon.com/images/I/51yRmuwzzQL._SL320_.jpg",
+			"description": "When Niall came across a dog shackled to a chain and in a poor state of health, something reminded him and his personal battle with addiction. He knew he had to rescue her immediately – golden retrievers are rare in Thailand but there was just something about this one that told him she was special.",
+			"length": "6 hrs and 33 mins",
+			"minutes": 393,
+			"narrated_by": "Niall Harbison",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 21,
+				"performance": 21,
+				"story": 21
+			},
+			"series": "The Dog Who Changed the World",
+			"title": "Tina",
+			"url": "https://www.audible.com/pd/Tina-Audiobook/B0DMWRV54F"
+		},
+		{
+			"asin": "B0D2FSBDTN",
+			"author": "Andrea Dunlop, Mike Weber",
+			"cover_image": "https://m.media-amazon.com/images/I/41x76tTcbEL._SL320_.jpg",
+			"description": "The host and creator of the award-winning true crime podcast Nobody Should Believe Me offers a groundbreaking work of narrative nonfiction that investigates Munchausen by Proxy.",
+			"length": "8 hrs and 8 mins",
+			"minutes": 488,
+			"narrated_by": "Andrea Dunlop",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 261,
+				"performance": 250,
+				"story": 250
+			},
+			"series": "Medicine, Deception, and Munchausen by Proxy",
+			"title": "The Mother Next Door",
+			"url": "https://www.audible.com/pd/The-Mother-Next-Door-Audiobook/B0D2FSBDTN"
+		},
+		{
+			"asin": "1544517882",
+			"author": "Eric Jorgenson, Tim Ferriss",
+			"cover_image": "https://m.media-amazon.com/images/I/3128sEzQcsL._SL320_.jpg",
+			"description": "The Almanack of Naval Ravikant is a collection of Naval’s wisdom and experience from the last 10 years, shared as a curation of his most insightful interviews and poignant reflections....",
+			"length": "4 hrs and 53 mins",
+			"minutes": 293,
+			"narrated_by": "Vikas Adam",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2883,
+				"performance": 2346,
+				"story": 2329
+			},
+			"series": "A Guide to Wealth and Happiness",
+			"title": "The Almanack of Naval Ravikant",
+			"url": "https://www.audible.com/pd/The-Almanack-of-Naval-Ravikant-Audiobook/1544517882"
+		},
+		{
+			"asin": "B0CTNKRVV5",
+			"author": "Leanne Morgan",
+			"cover_image": "https://m.media-amazon.com/images/I/41D1d+ls+rL._SL320_.jpg",
+			"description": "The beloved comedy sensation packs a hilarious punch with real talk about what it’s like to be a woman today—from rebelling against the latest diet trends to dealing with perimenopausal mean girls and attending rock concerts in middle age.",
+			"length": "6 hrs and 7 mins",
+			"minutes": 367,
+			"narrated_by": "Leanne Morgan",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1518,
+				"performance": 1480,
+				"story": 1480
+			},
+			"series": "A Southern Woman's Guide to Laughing at Life's Unexpected Curveballs and Beautiful Blessings",
+			"title": "What in the World?!",
+			"url": "https://www.audible.com/pd/What-in-the-World-Audiobook/B0CTNKRVV5"
+		},
+		{
+			"asin": "B0DQDZVW3L",
+			"author": "Joe Concha",
+			"cover_image": "https://m.media-amazon.com/images/I/51DpX+IoH9L._SL320_.jpg",
+			"description": "National Bestselling author Joe Concha hip checks the mainstream media to deliver the juicy truth about this important moment in history.",
+			"length": "7 hrs and 25 mins",
+			"minutes": 445,
+			"narrated_by": "Joe Concha",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31,
+				"performance": 29,
+				"story": 29
+			},
+			"series": "Inside Trump's Big Beautiful Campaign",
+			"title": "The Greatest Comeback Ever",
+			"url": "https://www.audible.com/pd/The-Greatest-Comeback-Ever-Audiobook/B0DQDZVW3L"
+		},
+		{
+			"asin": "B0DK5SQN93",
+			"author": "Barry Diller",
+			"cover_image": "https://m.media-amazon.com/images/I/51GzQ5bZ-dL._SL320_.jpg",
+			"description": "Barry Diller’s book is about much more than business. It is a remarkably honest and entertaining account of his personal journey and a fascinating tour through show business and digital media.",
+			"length": "12 hrs and 40 mins",
+			"minutes": 760,
+			"narrated_by": "Barry Diller",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "By:\n                        Barry Diller",
+			"title": "Who Knew",
+			"url": "https://www.audible.com/pd/Who-Knew-Audiobook/B0DK5SQN93"
+		},
+		{
+			"asin": "B0DNRNV83B",
+			"author": "Tae Kim",
+			"cover_image": "https://m.media-amazon.com/images/I/61JGym7fdmL._SL320_.jpg",
+			"description": "Nvidia is the darling of the age of artificial intelligence: the company’s chips are powering the generative-AI revolution, and demand is insatiable. For all the current interest and attention, however, Nvidia is not of our time.",
+			"length": "9 hrs and 42 mins",
+			"minutes": 582,
+			"narrated_by": "Michael Braun",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 240,
+				"performance": 225,
+				"story": 225
+			},
+			"series": "Jensen Huang and the Making of a Tech Giant",
+			"title": "The Nvidia Way",
+			"url": "https://www.audible.com/pd/The-Nvidia-Way-Audiobook/B0DNRNV83B"
+		},
+		{
+			"asin": "B07DQTBPX5",
+			"author": "David W. Blight",
+			"cover_image": "https://m.media-amazon.com/images/I/51aK7uykaLL._SL320_.jpg",
+			"description": "The definitive, dramatic biography of the most important African American of the 19th century: Frederick Douglass, the escaped slave who became the greatest orator of his day and one of the leading abolitionists and writers of the era....",
+			"length": "36 hrs and 57 mins",
+			"minutes": 2217,
+			"narrated_by": "Prentice Onayemi",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2574,
+				"performance": 2300,
+				"story": 2287
+			},
+			"series": "Prophet of Freedom",
+			"title": "Frederick Douglass",
+			"url": "https://www.audible.com/pd/Frederick-Douglass-Audiobook/B07DQTBPX5"
+		},
+		{
+			"asin": "B002V9ZA6C",
+			"author": "Alfred Lansing",
+			"cover_image": "https://m.media-amazon.com/images/I/51nrojPPaOL._SL320_.jpg",
+			"description": "In August of 1914, the British ship Endurance set sail for the South Atlantic. In October 1915, still half a continent away from its intended base, the ship was trapped, then crushed in the ice",
+			"length": "10 hrs and 21 mins",
+			"minutes": 621,
+			"narrated_by": "Simon Prebble",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 26298,
+				"performance": 23294,
+				"story": 23253
+			},
+			"series": "Shackleton's Incredible Voyage",
+			"title": "Endurance",
+			"url": "https://www.audible.com/pd/Endurance-Audiobook/B002V9ZA6C"
+		},
+		{
+			"asin": "B0C7SJV556",
+			"author": "Jill Duggar, Derick Dillard - contributor, Craig Borlase - contributor",
+			"cover_image": "https://m.media-amazon.com/images/I/51fVVWTbZjL._SL320_.jpg",
+			"description": "Jill and Derick knew a normal life wasn’t possible for them. As a star on the popular TLC reality show 19 Kids and Counting, Jill grew up in front of viewers who were fascinated by her family’s way of life.",
+			"length": "7 hrs and 7 mins",
+			"minutes": 427,
+			"narrated_by": "Jill Duggar",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5607,
+				"performance": 5299,
+				"story": 5294
+			},
+			"series": "By:\n                        Jill Duggar, Derick Dillard - contributor, Craig Borlase - contributor",
+			"title": "Counting the Cost",
+			"url": "https://www.audible.com/pd/Counting-the-Cost-Audiobook/B0C7SJV556"
+		}
+	],
+	"category": {
+		"href": "/cat/Biographies-Memoirs-Audiobooks/18571951011",
+		"title": "Biographies & Memoirs"
+	}
+}

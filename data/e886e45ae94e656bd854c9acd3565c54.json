@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B0BVD25SYT",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/61D7uTS7-TL._SL320_.jpg",
+			"description": "Enter the brutal and elite world of a war college for dragon riders from USA Today bestselling author Rebecca Yarros....",
+			"length": "21 hrs and 22 mins",
+			"minutes": 1282,
+			"narrated_by": "Rebecca Soler, Teddy Hamilton",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 49644,
+				"performance": 45891,
+				"story": 45896
+			},
+			"series": "Empyrean, Book 1",
+			"title": "Fourth Wing",
+			"url": "https://www.audible.com/pd/Fourth-Wing-Audiobook/B0BVD25SYT"
+		},
+		{
+			"asin": "B0DWZBBV2W",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/51BHtTsadnL._SL320_.jpg",
+			"description": "After nearly eighteen months at Basgiath War College, Violet Sorrengail knows there’s no more time for lessons. No more time for uncertainty.",
+			"length": "9 hrs and 41 mins",
+			"minutes": 581,
+			"narrated_by": "Robb Moreira, Torian Brackett, k'Lai Rivera, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 100,
+				"performance": 91,
+				"story": 91
+			},
+			"series": "The Empyrean, Book 3",
+			"title": "Onyx Storm (Part 1 of 2) (Dramatized Adaptation)",
+			"url": "https://www.audible.com/pd/Onyx-Storm-Part-1-of-2-Dramatized-Adaptation-Audiobook/B0DWZBBV2W"
+		},
+		{
+			"asin": "B0CZFKLZ9M",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/51jQy499JiL._SL320_.jpg",
+			"description": "After nearly eighteen months at Basgiath War College, Violet Sorrengail knows there’s no more time for lessons. No more time for uncertainty. Because the battle has truly begun, and with enemies closing in from outside their walls and within their ranks, it’s impossible to know who to trust.",
+			"length": "23 hrs and 52 mins",
+			"minutes": 1432,
+			"narrated_by": "Jasmin Walker, Justis Bolding, Teddy Hamilton, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 27782,
+				"performance": 26956,
+				"story": 26956
+			},
+			"series": "Empyrean, Book 3",
+			"title": "Onyx Storm",
+			"url": "https://www.audible.com/pd/Onyx-Storm-Audiobook/B0CZFKLZ9M"
+		},
+		{
+			"asin": "B0C9V5SLQQ",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/61ECOUEnoTL._SL320_.jpg",
+			"description": "Everyone expected Violet Sorrengail to die during her first year at Basgiath War College-Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.",
+			"length": "28 hrs and 16 mins",
+			"minutes": 1696,
+			"narrated_by": "Rebecca Soler, Teddy Hamilton",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 40802,
+				"performance": 38421,
+				"story": 38418
+			},
+			"series": "Empyrean, Book 2",
+			"title": "Iron Flame",
+			"url": "https://www.audible.com/pd/Iron-Flame-Audiobook/B0C9V5SLQQ"
+		},
+		{
+			"asin": "B08V8B2CGV",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51HIZdnqASL._SL320_.jpg",
+			"description": "A man. His ex-girlfriend's cat. A sadistic game show unlike anything in the universe: a dungeon crawl where survival depends on killing your prey in the most entertaining way possible....",
+			"length": "13 hrs and 31 mins",
+			"minutes": 811,
+			"narrated_by": "Jeff Hays",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31382,
+				"performance": 28133,
+				"story": 28093
+			},
+			"series": "A LitRPG/Gamelit Adventure",
+			"title": "Dungeon Crawler Carl",
+			"url": "https://www.audible.com/pd/Dungeon-Crawler-Carl-Audiobook/B08V8B2CGV"
+		},
+		{
+			"asin": "B08G9PRS1K",
+			"author": "Andy Weir",
+			"cover_image": "https://m.media-amazon.com/images/I/51b6fvQr1-L._SL320_.jpg",
+			"description": null,
+			"length": "16 hrs and 10 mins",
+			"minutes": 970,
+			"narrated_by": "Ray Porter",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 195182,
+				"performance": 178564,
+				"story": 178012
+			},
+			"series": "By:\n                        Andy Weir",
+			"title": "Project Hail Mary",
+			"url": "https://www.audible.com/pd/Project-Hail-Mary-Audiobook/B08G9PRS1K"
+		},
+		{
+			"asin": "B0DQ63VF1Y",
+			"author": "Devney Perry",
+			"cover_image": "https://m.media-amazon.com/images/I/51U4SUuYnFL._SL320_.jpg",
+			"description": "Shield of Sparrows is a slow-burn, high-stakes romantasy perfect for fans of Sarah J. Maas and Rebecca Yarros—where enemies become lovers, monsters stalk a cursed realm, and a forgotten princess finds the strength to tear off her crown and become the warrior she was never meant to be.",
+			"length": "19 hrs and 51 mins",
+			"minutes": 1191,
+			"narrated_by": "Samantha Brentmoor, Jason Clarke",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 754,
+				"performance": 746,
+				"story": 746
+			},
+			"series": "By:\n                        Devney Perry",
+			"title": "Shield of Sparrows",
+			"url": "https://www.audible.com/pd/Shield-of-Sparrows-Audiobook/B0DQ63VF1Y"
+		},
+		{
+			"asin": "B01DYO4QRQ",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51J8T7o92gL._SL320_.jpg",
+			"description": "Masterful storytelling from #1 bestselling global phenomenon Sarah J. Maas brings her sexy, action-packed series to new heights.",
+			"length": "23 hrs and 16 mins",
+			"minutes": 1396,
+			"narrated_by": "Jennifer Ikeda",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 56396,
+				"performance": 51044,
+				"story": 51006
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "A Court of Mist and Fury",
+			"url": "https://www.audible.com/pd/A-Court-of-Mist-and-Fury-Audiobook/B01DYO4QRQ"
+		},
+		{
+			"asin": "B0DRPQFHHW",
+			"author": "Craig Alanson",
+			"cover_image": "https://m.media-amazon.com/images/I/51lJw-V9g8L._SL320_.jpg",
+			"description": "Disaster. There was no other word to describe how Operation Olympic had changed in a flash from a triumph to the worst failure the Merry Band of Pirates had ever experienced. A failure that meant the fight was over. Unless the Pirates could perform a miracle, without Skippy.",
+			"length": "19 hrs and 26 mins",
+			"minutes": 1166,
+			"narrated_by": "R.C. Bray",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2487,
+				"performance": 2416,
+				"story": 2416
+			},
+			"series": "Expeditionary Force, Book 18",
+			"title": "Gateway",
+			"url": "https://www.audible.com/pd/Gateway-Audiobook/B0DRPQFHHW"
+		},
+		{
+			"asin": "B0DWZYWQTB",
+			"author": "Shirtaloon, Travis Deverell",
+			"cover_image": "https://m.media-amazon.com/images/I/514RAoV-CrL._SL320_.jpg",
+			"description": "Twenty years ago, Jason was pulled into a world of magic and monsters.",
+			"length": "19 hrs and 26 mins",
+			"minutes": 1166,
+			"narrated_by": "Heath Miller",
+			"ratings": {
+				"overall": "0 out of 5 stars",
+				"performance": "0 out of 5 stars",
+				"story": "0 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 0,
+				"performance": 0,
+				"story": 0
+			},
+			"series": "He Who Fights with Monsters, Book 12",
+			"title": "He Who Fights with Monsters 12: A LitRPG Adventure",
+			"url": "https://www.audible.com/pd/He-Who-Fights-with-Monsters-12-A-LitRPG-Adventure-Audiobook/B0DWZYWQTB"
+		},
+		{
+			"asin": "B072BFQF1N",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/41vwVvKdxdL._SL320_.jpg",
+			"description": "Feyre has returned to the Spring Court, determined to gather information on Tamlin’s actions and learn what she can about the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit.",
+			"length": "25 hrs and 9 mins",
+			"minutes": 1509,
+			"narrated_by": "Amanda Leigh Cobb",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 42954,
+				"performance": 38677,
+				"story": 38636
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "A Court of Wings and Ruin",
+			"url": "https://www.audible.com/pd/A-Court-of-Wings-and-Ruin-Audiobook/B072BFQF1N"
+		},
+		{
+			"asin": "B094XCNV6G",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/518nfG1FaYL._SL320_.jpg",
+			"description": "The top 10 list is populated. The sponsorship program is open. The difficulty is ramping up. The first three floors were nothing compared to what Carl and Donut now face....",
+			"length": "16 hrs and 54 mins",
+			"minutes": 1014,
+			"narrated_by": "Jeff Hays, The Critical Drinker",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 19740,
+				"performance": 17202,
+				"story": 17173
+			},
+			"series": "Dungeon Crawler Carl, Book 3",
+			"title": "The Dungeon Anarchist's Cookbook",
+			"url": "https://www.audible.com/pd/The-Dungeon-Anarchists-Cookbook-Audiobook/B094XCNV6G"
+		},
+		{
+			"asin": "B0934GTSGT",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51e1PKKdv8L._SL320_.jpg",
+			"description": "The ratings and views are off the chart. The fans just can't get enough. The dungeon gets more dangerous each day. But in a grinder designed to chew up and spit out crawlers by the millions, Carl and Princess Donut need to work harder than ever just to survive.,,,",
+			"length": "11 hrs and 28 mins",
+			"minutes": 688,
+			"narrated_by": "Jeff Hays",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 20090,
+				"performance": 17260,
+				"story": 17239
+			},
+			"series": "Dungeon Crawler Carl, Book 2",
+			"title": "Carl's Doomsday Scenario",
+			"url": "https://www.audible.com/pd/Carls-Doomsday-Scenario-Audiobook/B0934GTSGT"
+		},
+		{
+			"asin": "1980085722",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51Qwc0KgcbL._SL320_.jpg",
+			"description": null,
+			"length": "26 hrs and 5 mins",
+			"minutes": 1565,
+			"narrated_by": "Stina Nielsen",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 35247,
+				"performance": 32120,
+				"story": 32094
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "A Court of Silver Flames",
+			"url": "https://www.audible.com/pd/A-Court-of-Silver-Flames-Audiobook/1980085722"
+		},
+		{
+			"asin": "B09GCYRZRQ",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51rmyTTWPsL._SL320_.jpg",
+			"description": "A floating fortress occupied by warrior gnomes. A castle made of sand. A derelict submarine guarded by malfunctioning machines. A haunted crypt surrounded by lethal traps....",
+			"length": "18 hrs and 3 mins",
+			"minutes": 1083,
+			"narrated_by": "Jeff Hays",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17218,
+				"performance": 14821,
+				"story": 14800
+			},
+			"series": "Dungeon Crawler Carl, Book 4",
+			"title": "The Gate of the Feral Gods",
+			"url": "https://www.audible.com/pd/The-Gate-of-the-Feral-Gods-Audiobook/B09GCYRZRQ"
+		},
+		{
+			"asin": "B0CKS42KQH",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/61i95pK0DoL._SL320_.jpg",
+			"description": "Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the candidates striving to become the elite of Navarre: dragon riders....",
+			"length": "7 hrs and 52 mins",
+			"minutes": 472,
+			"narrated_by": "full cast, Scott McCormick, Troy Allan, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2985,
+				"performance": 2303,
+				"story": 2303
+			},
+			"series": "The Empyrean, Book 1",
+			"title": "Fourth Wing (Part 1 of 2) (Dramatized Adaptation)",
+			"url": "https://www.audible.com/pd/Fourth-Wing-Part-1-of-2-Dramatized-Adaptation-Audiobook/B0CKS42KQH"
+		},
+		{
+			"asin": "B07J682QY2",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51r5TOoIdRL._SL320_.jpg",
+			"description": null,
+			"length": "33 hrs and 11 mins",
+			"minutes": 1991,
+			"narrated_by": "Elizabeth Evans",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31498,
+				"performance": 28855,
+				"story": 28791
+			},
+			"series": "By:\n                        Sarah J. Maas",
+			"title": "Kingdom of Ash",
+			"url": "https://www.audible.com/pd/Kingdom-of-Ash-Audiobook/B07J682QY2"
+		},
+		{
+			"asin": "B0DK282SYV",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51rtjss07uL._SL320_.jpg",
+			"description": "The ninth floor. Nine armies, each led by rich and powerful aliens from across the galaxy. Each team has one objective: to capture and hold the castle at the very center of the battlefield. Strategy, alliances, pitched battles, and, of course, betrayal.",
+			"length": "28 hrs and 40 mins",
+			"minutes": 1720,
+			"narrated_by": "Jeff Hays, Travis Baldree",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9504,
+				"performance": 8891,
+				"story": 8891
+			},
+			"series": "Dungeon Crawler Carl, Book 7",
+			"title": "This Inevitable Ruin",
+			"url": "https://www.audible.com/pd/This-Inevitable-Ruin-Audiobook/B0DK282SYV"
+		},
+		{
+			"asin": "B09ZJ82C7Y",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51kOQeaXbAL._SL320_.jpg",
+			"description": "Attention. Attention. The gates are down. The hunters are loose. Run, run, run....",
+			"length": "23 hrs and 33 mins",
+			"minutes": 1413,
+			"narrated_by": "Jeff Hays",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 18813,
+				"performance": 16697,
+				"story": 16670
+			},
+			"series": "Dungeon Crawler Carl, Book 5",
+			"title": "The Butcher's Masquerade",
+			"url": "https://www.audible.com/pd/The-Butchers-Masquerade-Audiobook/B09ZJ82C7Y"
+		},
+		{
+			"asin": "B0D3R3MTLM",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/61blz4RknUL._SL320_.jpg",
+			"description": "Everyone expected Violet Sorrengail to die during her first year at Basgiath War College – Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.",
+			"length": "9 hrs and 27 mins",
+			"minutes": 567,
+			"narrated_by": "Laura C. Harris, Khaya Fraites, Taylor Coan, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1511,
+				"performance": 1108,
+				"story": 1108
+			},
+			"series": "The Empyrean, Book 2",
+			"title": "Iron Flame (Part 2 of 2) (Dramatized Adaptation)",
+			"url": "https://www.audible.com/pd/Iron-Flame-Part-2-of-2-Dramatized-Adaptation-Audiobook/B0D3R3MTLM"
+		},
+		{
+			"asin": "B0CQQ6ZV5J",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/61gD1HYTRmL._SL320_.jpg",
+			"description": "Enter the brutal and elite world of a war college for dragon riders from New York Times bestselling author Rebecca Yarros....",
+			"length": "9 hrs and 22 mins",
+			"minutes": 562,
+			"narrated_by": "full cast, Robb Moreira, Megan Poppy, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2324,
+				"performance": 1729,
+				"story": 1729
+			},
+			"series": "The Empyrean, Book 1",
+			"title": "Fourth Wing (Part 2 of 2) (Dramatized Adaptation)",
+			"url": "https://www.audible.com/pd/Fourth-Wing-Part-2-of-2-Dramatized-Adaptation-Audiobook/B0CQQ6ZV5J"
+		},
+		{
+			"asin": "B0CDXWSS5D",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51qfZAq2J4L._SL320_.jpg",
+			"description": "A pantheon of forgotten gods. An old grudge between a talk show host, an heiress, and the man they shattered along the way. A rapidly deteriorating AI system. An inconvenient tiara upon the head of a friend....",
+			"length": "26 hrs and 46 mins",
+			"minutes": 1606,
+			"narrated_by": "Jeff Hays, Patrick Warburton, Travis Baldree, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11516,
+				"performance": 9954,
+				"story": 9953
+			},
+			"series": "Dungeon Crawler Carl, Book 6",
+			"title": "The Eye of the Bedlam Bride",
+			"url": "https://www.audible.com/pd/The-Eye-of-the-Bedlam-Bride-Audiobook/B0CDXWSS5D"
+		},
+		{
+			"asin": "B0CYJN13ZH",
+			"author": "Rebecca Yarros",
+			"cover_image": "https://m.media-amazon.com/images/I/61oIkRRGSdL._SL320_.jpg",
+			"description": "Everyone expected Violet Sorrengail to die during her first year at Basgiath War College–Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.",
+			"length": "11 hrs and 38 mins",
+			"minutes": 698,
+			"narrated_by": "full cast, Gabriel Michael, Torian Brackett, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1778,
+				"performance": 1290,
+				"story": 1290
+			},
+			"series": "The Empyrean, Book 2",
+			"title": "Iron Flame (Part 1 of 2) (Dramatized Adaptation)",
+			"url": "https://www.audible.com/pd/Iron-Flame-Part-1-of-2-Dramatized-Adaptation-Audiobook/B0CYJN13ZH"
+		},
+		{
+			"asin": "0061999881",
+			"author": "C. S. Lewis",
+			"cover_image": "https://m.media-amazon.com/images/I/51BdTls6I9L._SL320_.jpg",
+			"description": null,
+			"length": "33 hrs and 45 mins",
+			"minutes": 2025,
+			"narrated_by": "Kenneth Branagh, Alex Jennings, Michael York, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17143,
+				"performance": 14750,
+				"story": 14700
+			},
+			"series": "By:\n                        C. S. Lewis",
+			"title": "The Chronicles of Narnia Complete Audio Collection",
+			"url": "https://www.audible.com/pd/The-Chronicles-of-Narnia-Complete-Audio-Collection-Audiobook/0061999881"
+		},
+		{
+			"asin": "B0DFDXPXQB",
+			"author": "Nathan Hystad",
+			"cover_image": "https://m.media-amazon.com/images/I/51kYBCzyfvL._SL320_.jpg",
+			"description": "Caesar, an undercover operative, enters Carmichael with the briefest of orders from his boss and a countdown on his phone. What will happen when the clock strikes zero?",
+			"length": "11 hrs and 20 mins",
+			"minutes": 680,
+			"narrated_by": "Bradford Hastings",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 60,
+				"performance": 56,
+				"story": 56
+			},
+			"series": "Lost Town, Book 1",
+			"title": "Taken",
+			"url": "https://www.audible.com/pd/Taken-Audiobook/B0DFDXPXQB"
+		},
+		{
+			"asin": "B0C6FVLW4W",
+			"author": "Carissa Broadbent",
+			"cover_image": "https://m.media-amazon.com/images/I/515tTm5duPL._SL320_.jpg",
+			"description": "The adopted human daughter of the Nightborn vampire king, Oraya carved her place in a world designed to kill her. Her only chance to become something more than prey is entering the Kejari: a legendary tournament held by the goddess of death herself. But winning won’t be easy....",
+			"length": "15 hrs and 4 mins",
+			"minutes": 904,
+			"narrated_by": "Amanda Leigh Cobb",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5317,
+				"performance": 4744,
+				"story": 4744
+			},
+			"series": "Crowns of Nyaxia, Book 1",
+			"title": "The Serpent and the Wings of Night",
+			"url": "https://www.audible.com/pd/The-Serpent-and-the-Wings-of-Night-Audiobook/B0C6FVLW4W"
+		},
+		{
+			"asin": "B0DV237Y62",
+			"author": "Sean Oswald",
+			"cover_image": "https://m.media-amazon.com/images/I/516U1eFpdVL._SL320_.jpg",
+			"description": "The apocalypse has arrived. Now, it's down to control. Who will control the rich resources of a newly inducted world? Multiple systems, sects, guilds, and incursion parties are all aiming for that control.",
+			"length": "15 hrs and 44 mins",
+			"minutes": 944,
+			"narrated_by": "Travis Baldree",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 617,
+				"performance": 591,
+				"story": 591
+			},
+			"series": "Welcome to the Multiverse, Book 6",
+			"title": "Control",
+			"url": "https://www.audible.com/pd/Control-Audiobook/B0DV237Y62"
+		},
+		{
+			"asin": "B019NMZ6FE",
+			"author": "Pierce Brown",
+			"cover_image": "https://m.media-amazon.com/images/I/41uGVHtH2pL._SL320_.jpg",
+			"description": null,
+			"length": "21 hrs and 50 mins",
+			"minutes": 1310,
+			"narrated_by": "Tim Gerard Reynolds",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 51336,
+				"performance": 46981,
+				"story": 46883
+			},
+			"series": "Book III of the Red Rising Trilogy",
+			"title": "Morning Star",
+			"url": "https://www.audible.com/pd/Morning-Star-Audiobook/B019NMZ6FE"
+		},
+		{
+			"asin": "B0B75TMRQF",
+			"author": "Sarah J. Maas",
+			"cover_image": "https://m.media-amazon.com/images/I/51TsSCZLoZL._SL320_.jpg",
+			"description": "Feyre has returned to the Spring Court, determined to gather information on Tamlin's actions and learn what she can about the invading king threatening to bring her land to its knees. But to do so she must play a deadly game of deceit.",
+			"length": "6 hrs and 11 mins",
+			"minutes": 371,
+			"narrated_by": "Amanda Forstrom, Nora Achrati, Anthony Palmini, and others",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1773,
+				"performance": 1191,
+				"story": 1187
+			},
+			"series": "A Court of Thorns and Roses, Book 3",
+			"title": "A Court of Wings and Ruin (1 of 3) [Dramatized Adaptation]",
+			"url": "https://www.audible.com/pd/A-Court-of-Wings-and-Ruin-1-of-3-Dramatized-Adaptation-Audiobook/B0B75TMRQF"
+		},
+		{
+			"asin": "B0DWZM98R9",
+			"author": "pirateaba",
+			"cover_image": "https://m.media-amazon.com/images/I/51m+S1f-fnL._SL320_.jpg",
+			"description": "War threatens the Kingdom of Shades. Undead rise around Menorome, the City of Repose, and there is corruption in the Hunter's Guild.",
+			"length": "20 hrs and 41 mins",
+			"minutes": 1241,
+			"narrated_by": "Andrea Parsneau",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 153,
+				"performance": 146,
+				"story": 146
+			},
+			"series": "Singer of Terandria Series, Book 3",
+			"title": "Ghostsong",
+			"url": "https://www.audible.com/pd/Ghostsong-Audiobook/B0DWZM98R9"
+		}
+	],
+	"category": {
+		"href": "/cat/Science-Fiction-Fantasy-Audiobooks/18580606011",
+		"title": "Science Fiction & Fantasy"
+	}
+}

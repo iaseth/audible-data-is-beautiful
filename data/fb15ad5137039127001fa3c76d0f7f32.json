@@ -1,0 +1,668 @@
+{
+	"bestsellers": [
+		{
+			"asin": "B0DQWK7T5H",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/41+HhUMRy8L._SL320_.jpg",
+			"description": "Blake Porter is riding high, until he's not. Fired abruptly from his job as a VP of marketing and unable to make the mortgage payments on the new brownstone he shares with his fiancée, he's desperate to make ends meet. Enter Whitney....",
+			"length": "8 hrs and 50 mins",
+			"minutes": 530,
+			"narrated_by": "Will Damron, Christine Lakin",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1539,
+				"performance": 1515,
+				"story": 1515
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Tenant",
+			"url": "https://www.audible.com/pd/The-Tenant-Audiobook/B0DQWK7T5H"
+		},
+		{
+			"asin": "B08V8B2CGV",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51HIZdnqASL._SL320_.jpg",
+			"description": "A man. His ex-girlfriend's cat. A sadistic game show unlike anything in the universe: a dungeon crawl where survival depends on killing your prey in the most entertaining way possible....",
+			"length": "13 hrs and 31 mins",
+			"minutes": 811,
+			"narrated_by": "Jeff Hays",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 31382,
+				"performance": 28133,
+				"story": 28093
+			},
+			"series": "A LitRPG/Gamelit Adventure",
+			"title": "Dungeon Crawler Carl",
+			"url": "https://www.audible.com/pd/Dungeon-Crawler-Carl-Audiobook/B08V8B2CGV"
+		},
+		{
+			"asin": "B0C4G45RDS",
+			"author": "Shantel Tessier",
+			"cover_image": "https://m.media-amazon.com/images/I/51sOjjT2pLL._SL320_.jpg",
+			"description": "Barrington University is home of the Lords, a secret society that requires their blood in payment. They are above all—the most powerful men in the world. They devote their lives to violence in exchange for power. And during their senior year, they are offered a chosen one....",
+			"length": "16 hrs and 12 mins",
+			"minutes": 972,
+			"narrated_by": "Aiden Snow, Meg Sylvan",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 9422,
+				"performance": 8992,
+				"story": 8989
+			},
+			"series": "By:\n                        Shantel Tessier",
+			"title": "The Ritual",
+			"url": "https://www.audible.com/pd/The-Ritual-Audiobook/B0C4G45RDS"
+		},
+		{
+			"asin": "B09XRH26TS",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51+UxIo+YNL._SL320_.jpg",
+			"description": "Working here is my last chance to start fresh. I can pretend to be whoever I like. But I’ll soon learn that the Winchesters’ secrets are far more dangerous than my own....",
+			"length": "9 hrs and 46 mins",
+			"minutes": 586,
+			"narrated_by": "Lauryn Allman",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 35695,
+				"performance": 32576,
+				"story": 32552
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Housemaid",
+			"url": "https://www.audible.com/pd/The-Housemaid-Audiobook/B09XRH26TS"
+		},
+		{
+			"asin": "B09GCYRZRQ",
+			"author": "Matt Dinniman",
+			"cover_image": "https://m.media-amazon.com/images/I/51rmyTTWPsL._SL320_.jpg",
+			"description": "A floating fortress occupied by warrior gnomes. A castle made of sand. A derelict submarine guarded by malfunctioning machines. A haunted crypt surrounded by lethal traps....",
+			"length": "18 hrs and 3 mins",
+			"minutes": 1083,
+			"narrated_by": "Jeff Hays",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 17218,
+				"performance": 14821,
+				"story": 14800
+			},
+			"series": "Dungeon Crawler Carl, Book 4",
+			"title": "The Gate of the Feral Gods",
+			"url": "https://www.audible.com/pd/The-Gate-of-the-Feral-Gods-Audiobook/B09GCYRZRQ"
+		},
+		{
+			"asin": "B09DTFJ94X",
+			"author": "Shelby Van Pelt",
+			"cover_image": "https://m.media-amazon.com/images/I/51kK9pBWtBL._SL320_.jpg",
+			"description": "After Tova Sullivan’s husband died, she began working the night shift at the Sowell Bay Aquarium, mopping floors and tidying up....",
+			"length": "11 hrs and 16 mins",
+			"minutes": 676,
+			"narrated_by": "Marin Ireland, Michael Urie",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 52713,
+				"performance": 48372,
+				"story": 48295
+			},
+			"series": "A Novel",
+			"title": "Remarkably Bright Creatures",
+			"url": "https://www.audible.com/pd/Remarkably-Bright-Creatures-Audiobook/B09DTFJ94X"
+		},
+		{
+			"asin": "B0BSVGL75P",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51WR3i5EfIL._SL320_.jpg",
+			"description": "It’s hard to find an employer who doesn’t ask too many questions about my past. So I thank my lucky stars that the Garricks miraculously give me a job, cleaning their stunning penthouse with views across the city and preparing fancy meals in their shiny kitchen....",
+			"length": "9 hrs and 44 mins",
+			"minutes": 584,
+			"narrated_by": "Lauryn Allman",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 16382,
+				"performance": 15312,
+				"story": 15304
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Housemaid's Secret",
+			"url": "https://www.audible.com/pd/The-Housemaids-Secret-Audiobook/B0BSVGL75P"
+		},
+		{
+			"asin": "B07Q769RZS",
+			"author": "Colleen Hoover",
+			"cover_image": "https://m.media-amazon.com/images/I/511i1nvprYL._SL320_.jpg",
+			"description": null,
+			"length": "8 hrs and 10 mins",
+			"minutes": 490,
+			"narrated_by": "Vanessa Johansson, Amy Landon",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 130558,
+				"performance": 115483,
+				"story": 115350
+			},
+			"series": "By:\n                        Colleen Hoover",
+			"title": "Verity",
+			"url": "https://www.audible.com/pd/Verity-Audiobook/B07Q769RZS"
+		},
+		{
+			"asin": "B0DJFY1GZ6",
+			"author": "Mark Greaney",
+			"cover_image": "https://m.media-amazon.com/images/I/51joNguAA6L._SL320_.jpg",
+			"description": "With his lover imprisoned in a Russian gulag, the Gray Man will stop at nothing to free her in this latest entry in the number one New York Times best-selling series.",
+			"length": "15 hrs and 51 mins",
+			"minutes": 951,
+			"narrated_by": "Jay Snyder",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3240,
+				"performance": 3113,
+				"story": 3113
+			},
+			"series": "Gray Man, Book 14",
+			"title": "Midnight Black",
+			"url": "https://www.audible.com/pd/Midnight-Black-Audiobook/B0DJFY1GZ6"
+		},
+		{
+			"asin": "B0D3QV4S65",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/41qtDU1VMjL._SL320_.jpg",
+			"description": "She's looking for the perfect man. He's looking for the perfect victim.",
+			"length": "9 hrs and 20 mins",
+			"minutes": 560,
+			"narrated_by": "Victoria Connolly, Robb Moreira",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12239,
+				"performance": 11810,
+				"story": 11808
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Boyfriend",
+			"url": "https://www.audible.com/pd/The-Boyfriend-Audiobook/B0D3QV4S65"
+		},
+		{
+			"asin": "B0DDR1YJSZ",
+			"author": "Anthony Horowitz",
+			"cover_image": "https://m.media-amazon.com/images/I/41oHXBMWiIL._SL320_.jpg",
+			"description": "Editor Susan Ryeland has left her Greek island, her hotel and her Greek boyfriend, Andreas, in search of a new life back in England.",
+			"length": "17 hrs and 38 mins",
+			"minutes": 1058,
+			"narrated_by": "Lesley Manville, Tim McMullen",
+			"ratings": {
+				"overall": "5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 88,
+				"performance": 85,
+				"story": 85
+			},
+			"series": "A Novel",
+			"title": "Marble Hall Murders",
+			"url": "https://www.audible.com/pd/Marble-Hall-Murders-Audiobook/B0DDR1YJSZ"
+		},
+		{
+			"asin": "B0CTMZBM36",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51Fk8SKq5fL._SL320_.jpg",
+			"description": "The Lowells’ maid isn’t the only strange thing on our street. I’m sure I see a shadowy figure watching us. My husband leaves the house late at night. And when I meet a woman who lives across the way, her words chill me to the bone: Be careful of your neighbors....",
+			"length": "11 hrs and 42 mins",
+			"minutes": 702,
+			"narrated_by": "Lauryn Allman, Ina Marie Smith",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 11519,
+				"performance": 11098,
+				"story": 11097
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Housemaid Is Watching",
+			"url": "https://www.audible.com/pd/The-Housemaid-Is-Watching-Audiobook/B0CTMZBM36"
+		},
+		{
+			"asin": "B0B62439N9",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/510jy168L3L._SL320_.jpg",
+			"description": "As Charly struggles to recover from her brain injury, she begins to realize that the events of that fateful night are trapped in the damaged right side of her brain. Now, she must put the jigsaw pieces together to discover the identity of the man who tried to kill her....",
+			"length": "9 hrs and 32 mins",
+			"minutes": 572,
+			"narrated_by": "Megan Tusing",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2969,
+				"performance": 2825,
+				"story": 2824
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "Brain Damage",
+			"url": "https://www.audible.com/pd/Brain-Damage-Audiobook/B0B62439N9"
+		},
+		{
+			"asin": "B0DFDXPXQB",
+			"author": "Nathan Hystad",
+			"cover_image": "https://m.media-amazon.com/images/I/51kYBCzyfvL._SL320_.jpg",
+			"description": "Caesar, an undercover operative, enters Carmichael with the briefest of orders from his boss and a countdown on his phone. What will happen when the clock strikes zero?",
+			"length": "11 hrs and 20 mins",
+			"minutes": 680,
+			"narrated_by": "Bradford Hastings",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 60,
+				"performance": 56,
+				"story": 56
+			},
+			"series": "Lost Town, Book 1",
+			"title": "Taken",
+			"url": "https://www.audible.com/pd/Taken-Audiobook/B0DFDXPXQB"
+		},
+		{
+			"asin": "B0DJTC6K3S",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51T8NgyNkwL._SL320_.jpg",
+			"description": "Tegan is eight months pregnant, alone, and desperately wants to put her crumbling life in the rearview mirror. So she hits the road, planning to stay with her brother until she can figure out her next move. But she doesn't realize she's heading straight into a blizzard.",
+			"length": "9 hrs and 13 mins",
+			"minutes": 553,
+			"narrated_by": "Leslie Howard",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5485,
+				"performance": 5349,
+				"story": 5349
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Crash",
+			"url": "https://www.audible.com/pd/The-Crash-Audiobook/B0DJTC6K3S"
+		},
+		{
+			"asin": "B09FQWMYMX",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51yIohyMWYL._SL320_.jpg",
+			"description": "Victoria Barnett has it all: a great career as a nurse practitioner, a handsome and loving husband, a beautiful home in the suburbs, and a plan to fill it with children. Life is perfect—or so it seems.",
+			"length": "9 hrs and 46 mins",
+			"minutes": 586,
+			"narrated_by": "Angie Kane",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 5641,
+				"performance": 5347,
+				"story": 5346
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Wife Upstairs",
+			"url": "https://www.audible.com/pd/The-Wife-Upstairs-Audiobook/B09FQWMYMX"
+		},
+		{
+			"asin": "B0BJSLS5Y3",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51x3GKfLciL._SL320_.jpg",
+			"description": "Newlyweds Tricia and Ethan are searching for the house of their dreams. But when they visit the remote manor that once belonged to Dr. Adrienne Hale, a renowned psychiatrist who vanished without a trace four years earlier, a violent winter storm traps them at the estate....",
+			"length": "7 hrs and 20 mins",
+			"minutes": 440,
+			"narrated_by": "Leslie Howard",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 14792,
+				"performance": 13888,
+				"story": 13887
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "Never Lie",
+			"url": "https://www.audible.com/pd/Never-Lie-Audiobook/B0BJSLS5Y3"
+		},
+		{
+			"asin": "B0CKZH2Y5F",
+			"author": "Kate Quinn",
+			"cover_image": "https://m.media-amazon.com/images/I/51flsYda47L._SL320_.jpg",
+			"description": "The New York Times bestselling author of The Diamond Eye and The Rose Code returns with a haunting and powerful story of female friendships and secrets in a Washington, DC, boardinghouse during the McCarthy era.",
+			"length": "15 hrs and 3 mins",
+			"minutes": 903,
+			"narrated_by": "Saskia Maarleveld",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4672,
+				"performance": 4306,
+				"story": 4305
+			},
+			"series": "A Novel",
+			"title": "The Briar Club",
+			"url": "https://www.audible.com/pd/The-Briar-Club-Audiobook/B0CKZH2Y5F"
+		},
+		{
+			"asin": "B0BW1ZCYFN",
+			"author": "William Kent Krueger",
+			"cover_image": "https://m.media-amazon.com/images/I/51xU-GPOfiL._SL320_.jpg",
+			"description": "In 1958, a small Minnesota town is rocked by a shocking murder, pouring fresh fuel on old grievances in this dazzling novel.",
+			"length": "13 hrs and 33 mins",
+			"minutes": 813,
+			"narrated_by": "CJ Wilson",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1130,
+				"performance": 932,
+				"story": 932
+			},
+			"series": "A Novel",
+			"title": "The River We Remember",
+			"url": "https://www.audible.com/pd/The-River-We-Remember-Audiobook/B0BW1ZCYFN"
+		},
+		{
+			"asin": "B0CYDTLMQT",
+			"author": "Darby Kane",
+			"cover_image": "https://m.media-amazon.com/images/I/410+IDwFFVL._SL320_.jpg",
+			"description": "Darby Kane, author of the #1 international bestseller Pretty Little Wife, returns with another twisty domestic thriller about a wife wondering who tried to kill her husband twice before finally succeeding… because that was supposed to be her job.",
+			"length": "8 hrs and 56 mins",
+			"minutes": 536,
+			"narrated_by": "Helen Laser, Andrew Eiden",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 226,
+				"performance": 215,
+				"story": 215
+			},
+			"series": "A Novel",
+			"title": "What the Wife Knew",
+			"url": "https://www.audible.com/pd/What-the-Wife-Knew-Audiobook/B0CYDTLMQT"
+		},
+		{
+			"asin": "B00ZJQ8D8Q",
+			"author": "Michael Crichton",
+			"cover_image": "https://m.media-amazon.com/images/I/51LyHqei7mL._SL320_.jpg",
+			"description": "A classic thriller from #1 New York Times bestselling author Michael Crichton, Sphere is a bravura demonstration of what he does better than anyone: riveting storytelling that combines frighteningly plausible, cutting-edge science and technology with pulse-pounding action....",
+			"length": "13 hrs",
+			"minutes": 780,
+			"narrated_by": "Scott Brick",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12761,
+				"performance": 11450,
+				"story": 11431
+			},
+			"series": "By:\n                        Michael Crichton",
+			"title": "Sphere",
+			"url": "https://www.audible.com/pd/Sphere-Audiobook/B00ZJQ8D8Q"
+		},
+		{
+			"asin": "B09V1L5LHG",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/41VZgbdg48L._SL320_.jpg",
+			"description": "Cassie thinks she has met the perfect man. Think again, Cassie....",
+			"length": "8 hrs and 33 mins",
+			"minutes": 513,
+			"narrated_by": "Nicol Zanzarella",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 4535,
+				"performance": 4312,
+				"story": 4304
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Ex",
+			"url": "https://www.audible.com/pd/The-Ex-Audiobook/B09V1L5LHG"
+		},
+		{
+			"asin": "B0D38BVGF9",
+			"author": "Gillian McAllister",
+			"cover_image": "https://m.media-amazon.com/images/I/51w1NljjCWL._SL320_.jpg",
+			"description": "From the author of Reese’s Book Club Pick and New York Times bestseller Wrong Place Wrong Time comes an addictive thriller about a new mother’s world upended when her husband commits a terrifying crime.",
+			"length": "13 hrs and 5 mins",
+			"minutes": 785,
+			"narrated_by": "Emilia Fox",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1051,
+				"performance": 1027,
+				"story": 1027
+			},
+			"series": "A Novel",
+			"title": "Famous Last Words",
+			"url": "https://www.audible.com/pd/Famous-Last-Words-Audiobook/B0D38BVGF9"
+		},
+		{
+			"asin": "B0CT6L2QVY",
+			"author": "Shantel Tessier",
+			"cover_image": "https://m.media-amazon.com/images/I/51bwUuBTu1L._SL320_.jpg",
+			"description": "The men in the secret society known as the Lords think they rule the world. And in a way, they do. Each has sold their soul to the devil at a young age in exchange for power and wealth. Like anything else, they have different levels of success.",
+			"length": "18 hrs and 29 mins",
+			"minutes": 1109,
+			"narrated_by": "Teddy Hamilton, Michelle Sparks",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 3010,
+				"performance": 2899,
+				"story": 2898
+			},
+			"series": "By:\n                        Shantel Tessier",
+			"title": "Carnage",
+			"url": "https://www.audible.com/pd/Carnage-Audiobook/B0CT6L2QVY"
+		},
+		{
+			"asin": "B0CPTKFJ46",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/41OYUFufbzL._SL320_.jpg",
+			"description": "Eve has a good life. She wakes up each day, kisses her husband Nate, and heads off to teach math at the local high school. All is as it should be. Except… Last year, Caseham High was rocked by a scandal involving a student-teacher affair, with one student, Addie, at its center.",
+			"length": "9 hrs and 35 mins",
+			"minutes": 575,
+			"narrated_by": "Leslie Howard, Danny Montooth",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12654,
+				"performance": 12078,
+				"story": 12076
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Teacher",
+			"url": "https://www.audible.com/pd/The-Teacher-Audiobook/B0CPTKFJ46"
+		},
+		{
+			"asin": "0593289641",
+			"author": "Ken Follett",
+			"cover_image": "https://m.media-amazon.com/images/I/51XLsQN7heL._SL320_.jpg",
+			"description": "Ken Follett's masterful new prequel The Evening and the Morning takes us on an epic journey into a historical past rich with ambition and rivalry, death and birth, love and hate, that will end where The Pillars of the Earth begins....",
+			"length": "24 hrs and 19 mins",
+			"minutes": 1459,
+			"narrated_by": "John Lee",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12270,
+				"performance": 10967,
+				"story": 10886
+			},
+			"series": "Kingsbridge, Book 4",
+			"title": "The Evening and the Morning",
+			"url": "https://www.audible.com/pd/The-Evening-and-the-Morning-Audiobook/0593289641"
+		},
+		{
+			"asin": "B0B6WX4HB5",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/51ZZqT-i7GL._SL320_.jpg",
+			"description": "There are three rules Brooke Sullivan must follow as a new nurse practitioner at a men’s maximum-security prison: 1) Treat all prisoners with respect. 2) Never reveal any personal information. 3) Never EVER become too friendly with the inmates....",
+			"length": "8 hrs and 5 mins",
+			"minutes": 485,
+			"narrated_by": "Leslie Howard",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 12100,
+				"performance": 11515,
+				"story": 11509
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Inmate",
+			"url": "https://www.audible.com/pd/The-Inmate-Audiobook/B0B6WX4HB5"
+		},
+		{
+			"asin": "B0D48BMLY6",
+			"author": "Jessie Garcia",
+			"cover_image": "https://m.media-amazon.com/images/I/61smgSwYFYL._SL320_.jpg",
+			"description": "Stephanie and Jessica have nothing and everything in common. The two women don’t know each other but are on the same plane heading to California. Stephanie is on a business trip and Jasmine is fleeing an abusive relationship.",
+			"length": "9 hrs and 7 mins",
+			"minutes": 547,
+			"narrated_by": "Andrew Eiden, Dylan Reilly Fitzpatrick, Fred Berman, and others",
+			"ratings": {
+				"overall": "4 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1283,
+				"performance": 1262,
+				"story": 1262
+			},
+			"series": "A Novel",
+			"title": "The Business Trip",
+			"url": "https://www.audible.com/pd/The-Business-Trip-Audiobook/B0D48BMLY6"
+		},
+		{
+			"asin": "B0DLJF58T5",
+			"author": "Freida McFadden",
+			"cover_image": "https://m.media-amazon.com/images/I/41hYxlHswgL._SL320_.jpg",
+			"description": "While eleven-year-old Nora Davis was up in her bedroom doing homework, she had no idea her father was killing women in the basement. Until the day the police arrived at their front door.",
+			"length": "7 hrs and 25 mins",
+			"minutes": 445,
+			"narrated_by": "Leslie Howard",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 2521,
+				"performance": 2420,
+				"story": 2420
+			},
+			"series": "By:\n                        Freida McFadden",
+			"title": "The Locked Door",
+			"url": "https://www.audible.com/pd/The-Locked-Door-Audiobook/B0DLJF58T5"
+		},
+		{
+			"asin": "B0DWNGJFPV",
+			"author": "Iliana Xander",
+			"cover_image": "https://m.media-amazon.com/images/I/51Ik2GxbfAL._SL320_.jpg",
+			"description": "Mackenzie Casper is a brilliant student. But she is best known for her mother, a best-selling author whose dark, twisted thrillers have a dedicated worldwide fanbase.",
+			"length": "9 hrs and 37 mins",
+			"minutes": 577,
+			"narrated_by": "Kira Fixx, Laura Horowitz, Walker Williams, and others",
+			"ratings": {
+				"overall": "4.5 out of 5 stars",
+				"performance": "4.5 out of 5 stars",
+				"story": "4.5 out of 5 stars"
+			},
+			"review_counts": {
+				"overall": 1816,
+				"performance": 1785,
+				"story": 1785
+			},
+			"series": "By:\n                        Iliana Xander",
+			"title": "Love, Mom",
+			"url": "https://www.audible.com/pd/Love-Mom-Audiobook/B0DWNGJFPV"
+		}
+	],
+	"category": {
+		"href": "/cat/Mystery-Thriller-Suspense-Audiobooks/18574597011",
+		"title": "Mystery, Thriller & Suspense"
+	}
+}
