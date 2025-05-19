@@ -166,8 +166,19 @@ def save_category_list(json_path):
 	return jo
 
 
+def generate_master_json(json_path):
+	jo = save_category_list("data/cats.json")
+	for category in jo['categories']:
+		category['data'] = get_category_books_data(category)
+
+	with open(json_path, "w") as f:
+		json.dump(jo, f, sort_keys=True, indent="\t")
+	print(f"Saved: {json_path}")
+
+
 def main():
 	cats = save_category_list("data/cats.json")
+	generate_master_json("master.json"); return
 
 	rows = []
 	for category in cats['categories']:
