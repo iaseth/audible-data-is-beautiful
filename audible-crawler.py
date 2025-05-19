@@ -130,16 +130,16 @@ def get_category_books_data(category):
 
 	print(f"{category['title']} => {category['href']}")
 	soup = get_soup(full_url)
-	container = soup.find("div", attrs={ "data-widget": "carousel-BEST_SELLERS" })
-	products = container.find_all("div", class_="carousel-product")
+	bestseller_container = soup.find("div", attrs={ "data-widget": "carousel-BEST_SELLERS" })
+	bestseller_products = bestseller_container.find_all("div", class_="carousel-product")
 
 	jo = dict(
 		category=category,
-		products=[extract_audiobook_metadata(product) for product in products]
+		bestsellers=[extract_audiobook_metadata(product) for product in bestseller_products]
 	)
 	with open(json_path, "w") as f:
 		json.dump(jo, f, sort_keys=True)
-	print(f"\tSaved: {json_path} ({len(products)} products)")
+	print(f"\tSaved: {json_path} ({len(bestseller_products)} bestsellers)")
 	return jo
 
 
@@ -172,8 +172,8 @@ def main():
 	rows = []
 	for category in cats['categories']:
 		jo = get_category_books_data(category)
-		minutes = [product['minutes'] for product in jo['products']]
-		average_minutes = sum(minutes) // len(jo['products'])
+		minutes = [product['minutes'] for product in jo['bestsellers']]
+		average_minutes = sum(minutes) // len(jo['bestsellers'])
 		rows.append([
 			category['title'], average_minutes,
 			max(minutes), min(minutes)
