@@ -2,6 +2,7 @@ import hashlib
 import json
 import os
 import re
+import sys
 
 import requests
 from bs4 import BeautifulSoup
@@ -176,10 +177,8 @@ def generate_master_json(json_path):
 	print(f"Saved: {json_path}")
 
 
-def main():
+def do_analysis():
 	cats = save_category_list("data/cats.json")
-	generate_master_json("master.json"); return
-
 	rows = []
 	for category in cats['categories']:
 		jo = get_category_books_data(category)
@@ -195,6 +194,17 @@ def main():
 		rows, headers=["Category", "Average", "Max", "Min"],
 		tablefmt="outline", showindex=range(1, len(rows)+1)
 	))
+
+
+def main():
+	args = sys.argv[1:]
+	command = args[0].upper() if args else None
+
+	match command:
+		case "MASTER":
+			generate_master_json("master.json"); return
+		case _:
+			do_analysis()
 
 
 if __name__ == '__main__':
